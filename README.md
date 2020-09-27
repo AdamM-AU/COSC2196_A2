@@ -1,1 +1,1 @@
-# COSC2196_A2
+# COSC2196 - Assessment Task 2: Team Project
