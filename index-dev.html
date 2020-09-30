@@ -18,29 +18,63 @@
 		<!-- Stylesheets - Custom Overrides -->
 		<link href="css/styles.css" rel="stylesheet" />
 		
-		<!-- Bootstrap & JQuery-->
+		<!-- Bootstrap & JQuery -->
 		<script src="js/jquery-3.5.1.min.js"></script> 
 		<script src="js/bootstrap.bundle.min.js"></script>
 
-		<!-- Core theme JS--> 
+		<!-- Core theme JS --> 
 		<script src="js/script.js"></script>
 	</head>
 	
-	<body>
-		<div id="content">
-			<p>Content to follow</p>
+    <body data-spy="scroll" data-target="#navbar" data-offset="200">
+		<!-- Preloader -->
+		<div id="preloader" class="preloader">
+			<div class="d-flex flex-column">
+				<div class="flex-row"><img src="images/mongoose.png" alt="TeamLogo" style="max-width: 600px"></div>
+				<div class="flex-row p-2"><img src="images/loading.gif" alt="Loading..."></div>
+			</div>
 		</div>
 		
-		<!-- Page Loader Animation-->
+		<div id="content" style="display:none">
+			<!-- Navigation-->
+			<nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-left" id="leftNav">
+				<a class="navbar-brand" href="#about">
+					<span class="d-block d-lg-none">Adam Mutimer</span>
+					<span class="d-none d-lg-block">
+						<!-- <img class="img-fluid img-thumbnail rounded-circle mx-auto mb-2" src="images/profile.jpg" alt="" /> -->
+					</span>
+				</a>
+				<div class="collapse navbar-collapse" id="navbar">
+					<ul class="navbar-nav">
+						<li class="nav-item">
+							<a class="nav-link" href="#home">Home</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#team-profile">Team Profile</a>
+						</li>
+					</ul>
+				</div>
+			</nav>
+
+			<div class="container-fluid pl-5">
+			
+				<section id="home">
+					<div class="section-content">
+						<p>Content to Follow...</p>
+					</div>
+				</section>
+				<hr class="m-0" />
+			</div>
+			
+		</div>
+		
+		<!-- Page Loader Animation -->
 		<script type="text/javascript">
-			jQuery("#content").hide();
-			<!-- Change this to an image later [adam] -->
-			jQuery("body").prepend('<div id="preloader" class="preloader">Loading...</div>');
 			jQuery(window).ready(function() {
 				setTimeout(function (){
-					jQuery("#preloader").remove();
+					jQuery("#preloader").fadeOut();
 					jQuery("#content").show();
-				}, 1000);
+				}, 2000);
 			});
 		</script>		
 	</body>
