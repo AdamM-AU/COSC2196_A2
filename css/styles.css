@@ -39,8 +39,11 @@ section {
 }
 
 /* Modal Style Overrides */
-.modal-open {
-    overflow: scroll !important;
+.modal .modal-content {
+	overflow: hidden;
+}
+.modal-body {
+	overflow-y: scroll;
 }
 
 .modal-content h5 {
