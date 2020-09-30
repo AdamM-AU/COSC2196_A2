@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-		<meta name="description" content="" />
+		<meta name="description" content="The Fighting Mongooses (A2#8) - 7.0.0 Assessment 2" />
 		<!-- Authors Alphabetical Order -->
 		<meta name="author" content="Adam Mutimer, Channon Harper, Daniel Scarfe, Jorge Esteban, Madeleine Dupree, Samuel Mennen" />
 		<title>7.0.0 Assessment 2: The Fighting Mongooses</title>
@@ -78,10 +78,15 @@
 		<!-- Page Loader Animation -->
 		<script type="text/javascript">
 			jQuery(window).ready(function() {
-				<!-- Added Delay here for testing purposes, Remove when Live -->
+				// Added Delay here for testing purposes, Remove when Live 
 				setTimeout(function (){
 					jQuery("#preloader").fadeOut();
 					jQuery("#content").show();
+					
+					// Jump to anchor point after loader patch
+					var hash = $(location).attr('hash');
+					hash = hash.replace("#", "");
+					document.getElementById(hash).scrollIntoView();
 				}, 2000);
 			});
 		</script>		
