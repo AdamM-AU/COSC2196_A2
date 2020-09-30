@@ -23,6 +23,22 @@ section {
   max-width: 75rem;
   min-height: 100vh;
 } 
+.profilepic {
+	width: 180px !important;
+	height: 180px !important;
+}
+
+.profilename {
+	text-align: center !important;
+	line-height: 30px !important;
+}
+
+.modal-content h5 {
+	color: #000000 !important;
+}
+.modal-content {
+	color: #000000 !important;
+}
 
 /* Fixed Left Navbar */
 body{
