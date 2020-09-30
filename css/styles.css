@@ -1,4 +1,6 @@
 /* Stylesheets - Custom Overrides */
+
+/* The Basics */
 body {
 	background-color: #2C2F33; /* Dark but not Black */
 	color: #FFFFFF;
@@ -8,6 +10,7 @@ body {
 	background-color: #23272A !important; /* Not Quite Black */
 }
 
+/* Preloader/Loading Stuff */
 .preloader {
   display: flex;
   align-items: center;
@@ -23,6 +26,8 @@ section {
   max-width: 75rem;
   min-height: 100vh;
 } 
+
+/* Team Profile Stuff */
 .profilepic {
 	width: 180px !important;
 	height: 180px !important;
@@ -33,9 +38,15 @@ section {
 	line-height: 30px !important;
 }
 
+/* Modal Style Overrides */
+.modal-open {
+    overflow: scroll !important;
+}
+
 .modal-content h5 {
 	color: #000000 !important;
 }
+
 .modal-content {
 	color: #000000 !important;
 }
