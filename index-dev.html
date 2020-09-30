@@ -77,16 +77,16 @@
 		
 		<!-- Page Loader Animation -->
 		<script type="text/javascript">
-			jQuery(window).ready(function() {
+			jQuery(window).ready(function() { // Run when page is rended
 				// Added Delay here for testing purposes, Remove when Live 
 				setTimeout(function (){
-					jQuery("#preloader").fadeOut();
-					jQuery("#content").show();
+					jQuery("#preloader").fadeOut(); //Fancy Fade Out, Just adding some more class ;)
+					jQuery("#content").show(); // Show the content div that was previously hidden from view
 					
 					// Jump to anchor point after loader patch
-					var hash = $(location).attr('hash');
-					hash = hash.replace("#", "");
-					document.getElementById(hash).scrollIntoView();
+					var hash = $(location).attr('hash'); // Fetching # anchor from url
+					hash = hash.replace("#", ""); // Removing # from anchor name, so we have a matching id field
+					document.getElementById(hash).scrollIntoView(); // Moving the user to the anchor point
 				}, 2000);
 			});
 		</script>		
