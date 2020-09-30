@@ -28,7 +28,7 @@
 	
     <body data-spy="scroll" data-target="#navbar" data-offset="200">
 		<!-- Preloader -->
-		<div id="preloader" class="preloader" style="display:none">
+		<div id="preloader" class="preloader">
 			<div class="d-flex flex-column">
 				<div class="flex-row"><img src="images/mongoose.png" alt="TeamLogo" style="max-width: 600px"></div>
 				<div id="pacman" class="flex-row p-2" style="display:none"><img src="images/loading.gif" alt="Loading..."></div>
@@ -77,13 +77,12 @@
 		
 		<!-- Page Loader Animation -->
 		<script type="text/javascript">
-			$("#preloader").fadeIn("fast");
 			$("#pacman").fadeIn("slow");
 			jQuery(window).ready(function() { // Run when page is rendered
 				// Added Delay here for testing purposes, Remove when Live 
 				setTimeout(function (){
 					jQuery("#preloader").fadeOut(); //Fancy Fade Out, Just adding some more class ;)
-					jQuery("#content").show(); // Show the content div that was previously hidden from view
+					jQuery("#content").fadeIn("slow"); // Fade in the content div that was previously hidden from view
 					
 					// Jump to anchor point after loader patch
 					var hash = $(location).attr('hash'); // Fetching # anchor from url
