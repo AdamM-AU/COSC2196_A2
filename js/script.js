@@ -35,3 +35,8 @@ $(document).ready(function(){
     } // End if
   });
 });
+
+function redbuttonFunction() {
+  document.body.style.backgroundImage = "url('images/bling.gif')"; 
+  return false;
+}
