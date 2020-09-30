@@ -10,6 +10,12 @@ body {
 	background-color: #23272A !important; /* Not Quite Black */
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* Preloader/Loading Stuff */
 .preloader {
   display: flex;
@@ -25,7 +31,7 @@ section {
   align-items: center;
   max-width: 75rem;
   min-height: 100vh;
-} 
+}
 
 /* Team Profile Stuff */
 .profilepic {
