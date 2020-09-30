@@ -28,10 +28,10 @@
 	
     <body data-spy="scroll" data-target="#navbar" data-offset="200">
 		<!-- Preloader -->
-		<div id="preloader" class="preloader">
+		<div id="preloader" class="preloader" style="display:none">
 			<div class="d-flex flex-column">
 				<div class="flex-row"><img src="images/mongoose.png" alt="TeamLogo" style="max-width: 600px"></div>
-				<div class="flex-row p-2"><img src="images/loading.gif" alt="Loading..."></div>
+				<div id="pacman" class="flex-row p-2" style="display:none"><img src="images/loading.gif" alt="Loading..."></div>
 			</div>
 		</div>
 		
@@ -77,6 +77,8 @@
 		
 		<!-- Page Loader Animation -->
 		<script type="text/javascript">
+			$("#preloader").fadeIn("fast");
+			$("#pacman").fadeIn("slow");
 			jQuery(window).ready(function() { // Run when page is rendered
 				// Added Delay here for testing purposes, Remove when Live 
 				setTimeout(function (){
