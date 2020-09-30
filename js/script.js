@@ -37,6 +37,7 @@ $(document).ready(function(){
 });
 
 function redbuttonFunction() {
-  document.body.style.backgroundImage = "url('images/bling.gif')"; 
+  document.body.style.backgroundImage = "url('images/bling.gif')";
+  alert("Didn't anyone tell you...\r\n DON'T PRESS THE RED BUTTON!")
   return false;
 }
