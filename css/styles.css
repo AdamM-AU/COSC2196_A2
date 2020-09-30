@@ -11,10 +11,10 @@ body {
 .preloader {
   display: flex;
   align-items: center;
-  max-width: 90rem;
   min-height: 100vh;
   text-align: center;
   justify-content: center;
+  margin-left: -232px !important;
 } 
 
 section {
