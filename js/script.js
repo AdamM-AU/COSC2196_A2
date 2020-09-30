@@ -36,8 +36,12 @@ $(document).ready(function(){
   });
 });
 
-function redbuttonFunction() {
+/* Just for fun */
+
+function redbuttonFunction(link) {
   document.body.style.backgroundImage = "url('images/bling.gif')";
-  alert("Didn't anyone tell you...\r\n DON'T PRESS THE RED BUTTON!")
+  if (link !== 1) {
+	alert("Didn't anyone tell you...\r\n DON'T PRESS THE RED BUTTON!")
+  }
   return false;
 }
