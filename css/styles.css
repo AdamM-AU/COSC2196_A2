@@ -40,6 +40,11 @@ section {
   min-height: 100vh;
 }
 
+.section-title {
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
 /* Team Profile Stuff */
 .profile-pic {
 	width: 180px !important;
