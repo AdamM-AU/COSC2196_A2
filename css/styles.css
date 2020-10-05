@@ -34,14 +34,26 @@ section {
 }
 
 /* Team Profile Stuff */
-.profilepic {
+.profile-pic {
 	width: 180px !important;
 	height: 180px !important;
 }
 
-.profilename {
+.profile-row {
 	text-align: center !important;
 	line-height: 30px !important;
+}
+
+.profile-link {
+	color: rgba(255,255,255,.5);
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.profile-link:hover {
+	color: #FFFFFF;
+	font-weight: bold;
+	text-decoration: none;
 }
 
 /* Modal Style Overrides */
