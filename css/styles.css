@@ -57,6 +57,10 @@ section {
 }
 
 /* Modal Style Overrides */
+.modal-title {
+	font-weight: bold;
+}
+
 .modal .modal-content {
 	overflow: hidden;
 }
