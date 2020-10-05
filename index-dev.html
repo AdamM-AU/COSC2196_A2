@@ -52,7 +52,7 @@
 				<div class="collapse navbar-collapse" id="navbar">
 					<ul class="navbar-nav">
 						<li class="nav-item">
-							<a class="nav-link" href="#home">Home</a>
+							<a id="nav-default" class="nav-link" href="#home">Home</a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link" href="#team-profile">Team Profiles</a>
@@ -463,9 +463,15 @@
 					jQuery("#content").fadeIn("slow"); // Fade in the content div that was previously hidden from view
 					
 					// Jump to anchor point after loader patch
-					var hash = $(location).attr('hash'); // Fetching # anchor from url
-					hash = hash.replace("#", ""); // Removing # from anchor name, so we have a matching id field
-					document.getElementById(hash).scrollIntoView(); // Moving the user to the anchor point
+					// Added Check if anchor is set, then perform one of two actions
+					if ($(location).attr('hash')) {
+						var hash = $(location).attr('hash'); // Fetching # anchor from url
+						hash = hash.replace("#", ""); // Removing # from anchor name, so we have a matching id field
+						document.getElementById(hash).scrollIntoView(); // Moving the user to the anchor point						
+					} else {
+						document.getElementById("nav-default").classList.add("active"); // Set Default Active Nav Item
+						history.replaceState({}, "", $('.nav-item .active').attr("href")); // Update URL & Browser Histroy to Reflect
+					}
 				}, 2000);
 			});		
 		</script>		
