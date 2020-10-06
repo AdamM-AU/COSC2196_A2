@@ -474,12 +474,33 @@
 						<div class="row">
 							<div class="col">
 								<h4 class="section-title pb-5">Industry Data</h4>
+								<ul id="ID-nav" class="nav nav-tabs">
+									<li class="nav-item">
+										<a id="ID-home" class="tab-ID nav-link active" href="" onclick="return JSFetch('tab-ID','industry-data/ID-home','ID-content');">Home</a>
+									</li>
+									<li class="nav-item">
+										<a id="ID-adam" class="tab-ID nav-link" href="" onclick="return JSFetch('tab-ID','industry-data/ID-adam','ID-content');">Adam Mutimer</a>
+									</li>
+									<li class="nav-item">
+										<a id="ID-channon" class="tab-ID nav-link" href="" onclick="return JSFetch('tab-ID','industry-data/ID-channon','ID-content');">Channon Harper</a>
+									</li>
+									<li class="nav-item">
+										<a id="ID-daniel" class="tab-ID nav-link" href="" onclick="return JSFetch('tab-ID','industry-data/ID-daniel','ID-content');">Daniel Scarfe</a>
+									</li>
+									<li class="nav-item">
+										<a id="ID-jorge" class="tab-ID nav-link" href="" onclick="return JSFetch('tab-ID','industry-data/ID-jorge','ID-content');">Jorge Esteban</a>
+									</li>
+									<li class="nav-item">
+										<a id="ID-madeleine" class="tab-ID nav-link" href="" onclick="return JSFetch('tab-ID','industry-data/ID-madeleine','ID-content');">Madeleine Dupree</a>
+									</li>
+									<li class="nav-item">
+										<a id="ID-samuel" class="tab-ID nav-link" href="" onclick="return JSFetch('tab-ID','industry-data/ID-samuel','ID-content');">Samuel Mennen</a>
+									</li>
+								</ul>
 							</div>
 						</div>
-						<div class="row">
-							<div class="col">
-								<p>All yo data belong to us.</p>
-							</div>
+						<!-- This Div is populated by Adams - JSFetch Function -->
+						<div id="ID-content" class="row pt-3">
 						</div>
 					</div>
 				</section>
@@ -491,12 +512,28 @@
 						<div class="row">
 							<div class="col">
 								<h4 class="section-title pb-5">IT Technologies</h4>
+								<ul id="IT-nav" class="nav nav-tabs">
+									<li class="nav-item">
+										<a id="IT-home" class="tab-IT nav-link active" href="" onclick="return JSFetch('tab-IT','it-technologies/IT-home','IT-content');">Home</a>
+									</li>
+									<li class="nav-item">
+										<a id="IT-cloud-services-servers" class="tab-IT nav-link" href="" onclick="return JSFetch('tab-IT','it-technologies/IT-cloud-services-servers','IT-content');">Clouds, Services, Servers</a>
+									</li>				
+									<li class="nav-item">
+										<a id="IT-cybersecurity" class="tab-IT nav-link" href="" onclick="return JSFetch('tab-IT','it-technologies/IT-cybersecurity','IT-content');">Cybersecurity</a>
+									</li>				
+									<li class="nav-item">
+										<a id="IT-block-crypto" class="tab-IT nav-link" href="" onclick="return JSFetch('tab-IT','it-technologies/IT-block-crypto','IT-content');">Blockchain &amp; Crypto-currencies</a>
+									</li>
+									<li class="nav-item">
+										<a id="IT-autonomous-vehicles" class="tab-IT nav-link" href="" onclick="return JSFetch('tab-IT','it-technologies/IT-autonomous-vehicles','IT-content');">Autonomous Vehicles</a>
+									</li>
+								</ul>
 							</div>
 						</div>
-						<div class="row">
-							<div class="col">
-								<p>Yup, All the techonogies here.... maybe...</p>
-							</div>
+						<!-- This Div is populated by Adams - JSFetch Function -->
+						<div id="IT-content" class="row pt-3">
+
 						</div>
 					</div>
 				</section>
@@ -606,7 +643,14 @@
 
 			</div>
 		</div>
-
+		<!-- Populate JSFetch Fileds with Defaults -->
+		<script type="text/javascript">
+		$( document ).ready(function() {
+			JSFetch('tab-ID','industry-data/ID-home','ID-content');
+			JSFetch('tab-IT','it-technologies/IT-home','IT-content');
+		});
+		</script>
+		
 		<!-- Page Loader Animation -->
 		<script type="text/javascript">
 			$("#pacman").fadeIn("slow");

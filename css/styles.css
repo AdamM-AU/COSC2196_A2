@@ -68,6 +68,33 @@ section {
 	text-decoration: none;
 }
 
+/* Tab Menus */
+.tab-IT .tab-ID {
+}
+
+.nav-tabs {
+	border-bottom: 0;
+}
+
+.nav-tabs .nav-link {
+	border: 1px solid #23272A;
+	color: #000000;
+	background-color: rgba(255,255,255,.5);
+}
+
+.nav-tabs .nav-link.active {
+	border: 1px solid #23272A; 
+	color: #FFFFFF;
+	background-color: #23272A !important;
+}
+
+.nav-tabs .nav-link:hover {
+	border: 1px solid #23272A;
+	color: rgba(255,255,255,.5);
+	background-color: #2C2F33;
+	/* color: rgba(255,255,255,.5); */
+}
+
 /* Modal Style Overrides */
 .modal-title {
 	font-weight: bold;
