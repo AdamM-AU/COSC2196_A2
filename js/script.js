@@ -75,7 +75,8 @@ function JSFetch (nav,req,dest) {
 					data = "Error: No Data Found";
 				} else {
 					// Push Data into destination
-					document.getElementById(dest).innerHTML = data;
+					var filepath = "<div class=\"row\">\n<div class=\"col\">\n<p class=\"pt-5\"><strong>File Location:</strong><span class=\"font-weight-light font-italic\"> data/" + req + ".html</span></p></div></div>";
+					document.getElementById(dest).innerHTML = data + filepath;
 				}
 			}
 		});
