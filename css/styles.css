@@ -17,7 +17,7 @@ h1, h2, h3, h4, h5, h6 {
 	background-color: #23272A !important; /* Not Quite Black */
 }
 
-.social-icons .fab {
+.social-icons .fab, .social-icons .fas {
 	color: #ffffff;
 	width: 80px;
 	height: 80px;
@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6 {
 	display: inline-flex;
 }
 
-.fab:hover {
+.fab:hover, .fas:hover {
 	 text-decoration: none;
 }
 
