@@ -7,6 +7,8 @@ var myChart = new Chart(ctx, {
         labels: ['Adam', 'Channon', 'Daniel', 'Jorge', 'Madeleine', 'Samuel'],
         datasets: [{
             label: '# of Commits',
+			barPercentage: 1,
+			minBarLength: 2,
             data: [103, 4, 9, 0, 1, 3],
             backgroundColor: [
                 'rgba(255, 99, 132, 0.2)',
@@ -37,5 +39,3 @@ var myChart = new Chart(ctx, {
         }
     }
 });
-chart.canvas.parentNode.style.height = '128px';
-chart.canvas.parentNode.style.width = '128px';
