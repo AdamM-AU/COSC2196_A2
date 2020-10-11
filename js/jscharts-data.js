@@ -169,7 +169,7 @@ function JSFetchGraph(GRAPH) {
 						label: '# of Commits',
 						barPercentage: 1,
 						minBarLength: 2,
-						data: [119, 19, 9, 0, 1, 3],
+						data: [127, 37, 9, 0, 1, 3],
 						backgroundColor: [
 							'rgba(255, 99, 132, 0.2)',
 							'rgba(54, 162, 235, 0.2)',
