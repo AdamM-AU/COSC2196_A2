@@ -214,44 +214,32 @@ function JSFetchGraph(GRAPH) {
 						order: 1
 					}, {
 						label: 'Adam',
-						categoryPercentage: 1,
-						barPercentage: 0.15,
 						backgroundColor: 'rgba(179,181,198, 1)',
 						data: [10, 10, 10, 10, 10, 10, 10 , 10, 10, 10, 10, 10,10],
 						// this dataset is drawn on top
 						order: 2
 					}, {
 						label: 'Channon',
-						categoryPercentage: 1,
-						barPercentage: 0.15,
 						backgroundColor: "rgba(255,99,132,1)",
 						data: [10, 10, 10, 10,10,10,10,10,10,10,10,10,10],
 						order: 2
 					}, {
 						label: 'Maddie',
-						categoryPercentage: 1,
-						barPercentage: 0.15,
 						backgroundColor: "rgba(106,13,173,1)",
 						data: [10, 10, 10, 10, 10, 10, 5 , 10, 10, 10, 10, 10,10],
 						order: 2
 					}, {
 						label: 'Samuel',
-						categoryPercentage: 1,
-						barPercentage: 0.15,
 						backgroundColor: "rgba(65,105,225,1)",
 						data: [10, 10, 10, 10, 10, 10, 10 , 10, 10, 10, 10, 10,10],
 						order: 2
 					}, {
 						label: 'Jorge',
-						categoryPercentage: 1,
-						barPercentage: 0.15,
 						backgroundColor: "rgba(255,255,0,1)",
 						data: [10, 10, 10, 10, 10, 10, 10 , 10, 10, 10, 10, 10,10],
 						order: 2
 					}, {
 						label: 'Daniel',
-						categoryPercentage: 1,
-						barPercentage: 0.15,
 						backgroundColor: "rgba(124,252,0,1)",
 						data: [10, 10, 10, 10, 10, 10, 10 , 10, 10, 10, 10, 10,10],
 						order: 2
