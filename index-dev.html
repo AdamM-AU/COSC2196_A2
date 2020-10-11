@@ -672,8 +672,21 @@
 						</div>
 						<div class="row">
 							<div class="col">
-								<p>Yeah we had meetings...</p>
+								<ul id="MEET-nav" class="pb-3 nav nav-tabs">
+									<li class="nav-item">
+										<a id="MEET-videos" class="tab-MEET nav-link active" href="" onclick="return JSFetch('tab-MEET','meetings/MEET-videos','MEET-content');">Videos</a>
+									</li>
+									<li class="nav-item">
+										<a id="MEET-documents" class="tab-MEET nav-link" href="" onclick="return JSFetch('tab-MEET','meetings/MEET-documents','MEET-content');">Documents</a>
+									</li>
+									<li class="nav-item">
+										<a id="MEET-links" class="tab-MEET nav-link" href="" onclick="return JSFetch('tab-MEET','meetings/MEET-links','MEET-content');">Links</a>
+									</li>
+								</ul>
 							</div>
+						</div>
+						<!-- This Div is populated by Adams - JSFetch Function -->
+						<div id="MEET-content">
 						</div>
 					</div>
 				</section>
@@ -707,6 +720,7 @@
 				JSFetch('tab-IJ','ideal-jobs/IJ-home','IJ-content','GRAPH-IJ');
 				JSFetch('tab-ID','industry-data/ID-home','ID-content');
 				JSFetch('tab-IT','it-technologies/IT-home','IT-content');
+				JSFetch('tab-MEET','meetings/MEET-videos','MEET-content');
 			});
 		</script>
 		
