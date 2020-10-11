@@ -9,7 +9,7 @@ var myChart = new Chart(ctx, {
             label: '# of Commits',
 			barPercentage: 1,
 			minBarLength: 2,
-            data: [103, 4, 9, 0, 1, 3],
+            data: [103, 8, 9, 0, 1, 3],
             backgroundColor: [
                 'rgba(255, 99, 132, 0.2)',
                 'rgba(54, 162, 235, 0.2)',
