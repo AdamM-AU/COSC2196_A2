@@ -205,17 +205,20 @@ function JSFetchGraph(GRAPH) {
     data: {
         datasets: [{
             label: 'Burning Glass as %',
-            data: [25, 24, 23, 22, 20, 18, 18, 18, 18, 18, 18, 18],
-            // this dataset is drawn below
+            data: [10, 9, 8, 7, 6, 5, 5, 8, 8, 8, 8, 8],
+						backgroundColor: "rgba(255,255,0,0.2)",
+						borderColor: "rgba(255,255,0,1)",
+						pointBackgroundColor: "rgba(255,255,0,1)",
+						// this dataset is drawn below
 						type: 'line',
             order: 1
         }, {
             label: 'Adam',
-						barPercentage: 0.15,
 						categoryPercentage: 1,
-						
+						barPercentage: 0.15,
 						data: [10, 10, 10, 10, 10, 10, 10 , 10, 10, 10, 10, 10],
-
+						backgroundColor: [
+							'rgba(255, 99, 132, 0.2)',],
             // this dataset is drawn on top
             order: 2
          }
