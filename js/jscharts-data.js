@@ -211,33 +211,51 @@ function JSFetchGraph(GRAPH) {
 						pointBackgroundColor: "rgba(255,255,0,1)",
 						// this dataset is drawn below
 						type: 'line',
-            order: 1
-        }, {
-            label: 'Adam',
+						order: 1
+					}, {
+						label: 'Adam',
 						categoryPercentage: 1,
 						barPercentage: 0.15,
-						backgroundColor: [
-							'rgba(179,181,198, 1)',],
+						backgroundColor: 'rgba(179,181,198, 1)',
 						data: [10, 10, 10, 10, 10, 10, 10 , 10, 10, 10, 10, 10,10],
-					  // this dataset is drawn on top
-            order: 2
-         }
-				 ,{
-            label: 'Channon',
-					  categoryPercentage: 1,
- 						barPercentage: 0.15,
+						// this dataset is drawn on top
+						order: 2
+					}, {
+						label: 'Channon',
+						categoryPercentage: 1,
+						barPercentage: 0.15,
 						backgroundColor: "rgba(255,99,132,1)",
-            data: [10, 10, 10, 10,10,10,10,10,10,10,10,10,10],
-
-             // this dataset is drawn on top
-           order: 2},
-        // },{
-        //     label: 'Line Dataset',
-        //     data: [10, 10, 10, 10],
-        //     type: 'line',
-        //     // this dataset is drawn on top
-        //     order: 2
-        // }
+						data: [10, 10, 10, 10,10,10,10,10,10,10,10,10,10],
+						order: 2
+					}, {
+						label: 'Maddie',
+						categoryPercentage: 1,
+						barPercentage: 0.15,
+						backgroundColor: "rgba(106,13,173,1)",
+						data: [10, 10, 10, 10, 10, 10, 5 , 10, 10, 10, 10, 10,10],
+						order: 2
+					}, {
+						label: 'Samuel',
+						categoryPercentage: 1,
+						barPercentage: 0.15,
+						backgroundColor: "rgba(65,105,225,1)",
+						data: [10, 10, 10, 10, 10, 10, 10 , 10, 10, 10, 10, 10,10],
+						order: 2
+					}, {
+						label: 'Jorge',
+						categoryPercentage: 1,
+						barPercentage: 0.15,
+						backgroundColor: "rgba(255,255,0,1)",
+						data: [10, 10, 10, 10, 10, 10, 10 , 10, 10, 10, 10, 10,10],
+						order: 2
+					}, {
+						label: 'Daniel',
+						categoryPercentage: 1,
+						barPercentage: 0.15,
+						backgroundColor: "rgba(124,252,0,1)",
+						data: [10, 10, 10, 10, 10, 10, 10 , 10, 10, 10, 10, 10,10],
+						order: 2
+        }
 			],
         labels: ['SQL', 'Javascript', 'Java', 'MS Windows','Project Management','SAP','Business Management','Building Relationships','Business Analysis','Graphic Design','Technical Support','Microsoft C++','Linux']
     },
