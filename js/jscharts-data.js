@@ -1,5 +1,6 @@
 /* Function for JSFetch Patch */
-function ChartsJSFetchPost(GRAPH) {
+/* Adam - Generate Graph on fetched data */
+function JSFetchGraph(GRAPH) {
 	if (GRAPH) {
 		var ctx = document.getElementById(GRAPH);
 		ctx.height = 150;

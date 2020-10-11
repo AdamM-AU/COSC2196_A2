@@ -496,7 +496,7 @@
 							<div class="col">
 								<ul id="IJ-nav" class="pb-3 nav nav-tabs">
 									<li class="nav-item">
-										<a id="IJ-home" class="tab-IJ nav-link active" href="" onclick="return JSFetch('tab-IJ','ideal-jobs/IJ-home','IJ-content','GRAPH-IJ');">Home</a>
+										<a id="IJ-home" class="tab-IJ nav-link active" href="" onclick="return JSFetch('tab-IJ','ideal-jobs/IJ-home','IJ-content',['GRAPH-IJ', 'GRAPH-IJ2']);">Home</a>
 									</li>
 									<li class="nav-item">
 										<a id="IJ-adam" class="tab-IJ nav-link" href="" onclick="return JSFetch('tab-IJ','ideal-jobs/IJ-adam','IJ-content');">Adam Mutimer</a>
@@ -691,8 +691,8 @@
 		<!-- Populate JSFetch Fileds with Defaults -->
 		<script type="text/javascript">
 			$( document ).ready(function() {
-				JSFetch('tab-IJ','ideal-jobs/IJ-home','IJ-content','GRAPH-IJ');
-				JSFetch(null,'tools/TL-home','TL-content','GRAPH-TL');
+				JSFetch('tab-IJ','ideal-jobs/IJ-home','IJ-content',['GRAPH-IJ', 'GRAPH-IJ2']);
+				JSFetch(null,'tools/TL-home','TL-content',['GRAPH-TL']);
 				JSFetch('tab-ID','industry-data/ID-home','ID-content');
 				JSFetch(null,'it-work/IW-home','IW-content');
 				JSFetch('tab-IT','it-technologies/IT-autonomous-vehicles','IT-content');

@@ -80,7 +80,9 @@ function JSFetch (nav,req,dest,graphobj) {
 
 					// Patch for JsCharts
 					if (graphobj) {
-						ChartsJSFetchPost(graphobj);
+						// Adam - Added Array Iteration 
+						// Channon needed multiple graphs
+						graphobj.forEach(JSFetchGraph);
 					}
 				}
 			}
