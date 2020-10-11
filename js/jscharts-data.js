@@ -1,36 +1,36 @@
 /* Function for JSFetch Patch */
-function ChartsJSFetchPost(GRAPH) {	
+function ChartsJSFetchPost(GRAPH) {
 	if (GRAPH) {
 		var ctx = document.getElementById(GRAPH);
 		ctx.height = 150;
-		
+
 		if (GRAPH == "GRAPH-IJ") {
 			/* Industry Data - Radar Graph  */
 			var data = {
-				labels: ["Eating", "Drinking", "Sleeping", "Designing", "Coding", "Cycling", "Running"],
+				labels: ["SQL", "Programming Languages", "Windows (O.S)", "Business Management", "Graphic Design", "Building Relationships", "Linux" , "Tech Support","Costumer Service"],
 				datasets: [
 					{
-						label: "My First dataset",
+						label: "Adam",
 						backgroundColor: "rgba(179,181,198,0.2)",
 						borderColor: "rgba(179,181,198,1)",
 						pointBackgroundColor: "rgba(179,181,198,1)",
 						pointBorderColor: "#fff",
 						pointHoverBackgroundColor: "#fff",
 						pointHoverBorderColor: "rgba(179,181,198,1)",
-						data: [65, 59, 90, 81, 56, 55, 40]
+						data: [10, 10, 10, 4, 4, 5, 10, 4, 4]
 					},
 					{
-						label: "My Second dataset",
+						label: "Channon",
 						backgroundColor: "rgba(255,99,132,0.2)",
 						borderColor: "rgba(255,99,132,1)",
 						pointBackgroundColor: "rgba(255,99,132,1)",
 						pointBorderColor: "#fff",
 						pointHoverBackgroundColor: "#fff",
 						pointHoverBorderColor: "rgba(255,99,132,1)",
-						data: [28, 48, 40, 19, 96, 27, 100]
+						data: [9, 10, 7, 2, 1, 3, 7, 8, 5]
 					}
 				]
-			};		
+			};
 			var options = {
 					tooltips: {
 						mode: 'label'
@@ -42,7 +42,7 @@ function ChartsJSFetchPost(GRAPH) {
 							}
 						}]
 					}
-				};			
+				};
 			var myChart = new Chart(ctx, {
 				type: 'radar',
 				data: data,
@@ -87,7 +87,7 @@ function ChartsJSFetchPost(GRAPH) {
 						}]
 					}
 				}
-			});		
+			});
 		} else {
 			// Do Nothing
 		}
