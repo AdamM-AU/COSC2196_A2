@@ -540,19 +540,8 @@
 								<h4 class="section-title pb-5">Tools</h4>
 							</div>
 						</div>
-						<div class="row">
-							<div class="col">
-								<h5>GitHub Commit History</h5>
-								<p>
-									<a href="https://github.com/Daniel-Scarfe/COSC2196_A2/commits/master" target="_blank">Daniel-Scarfe/COSC2196_A2 - Master Branch</a><br />
-									<a href="https://github.com/Daniel-Scarfe/COSC2196_A2/commits/website" target="_blank">Daniel-Scarfe/COSC2196_A2 - Website Branch</a><br />
-								</p>
-								<p class="mt-2">
-									<div class="chart-container" style="width:40vw">
-										<canvas id="tools-gitcommit" width="400" height="400"></canvas>
-									</div>
-								</p>
-							</div>
+						<!-- This Div is populated by Adams - JSFetch Function -->
+						<div id="TL-content">
 						</div>
 					</div>
 				</section>
@@ -604,10 +593,8 @@
 								<h4 class="section-title pb-5">IT Work</h4>
 							</div>
 						</div>
-						<div class="row">
-							<div class="col">
-								<p>Work and Get Paid.</p>
-							</div>
+						<!-- This Div is populated by Adams - JSFetch Function -->
+						<div id="IW-content">
 						</div>
 					</div>
 				</section>
@@ -650,10 +637,8 @@
 								<h4 class="section-title pb-5">Our Project</h4>
 							</div>
 						</div>
-						<div class="row">
-							<div class="col">
-								<p>It's a SuperDuper Secret, Level 10 Clearance Required... Move Along! Nothing to see here!</p>
-							</div>
+						<!-- This Div is populated by Adams - JSFetch Function -->
+						<div id="PRO-content">
 						</div>
 					</div>
 				</section>
@@ -697,10 +682,8 @@
 								<h4 class="section-title pb-5">Group Reflection</h4>
 							</div>
 						</div>
-						<div class="row">
-							<div class="col">
-								<p>You can't reflect on pure Awesomeness....</p>
-							</div>
+						<!-- This Div is populated by Adams - JSFetch Function -->
+						<div id="GR-content">
 						</div>
 					</div>
 				</section>
@@ -715,9 +698,13 @@
 		<script type="text/javascript">
 			$( document ).ready(function() {
 				JSFetch('tab-IJ','ideal-jobs/IJ-home','IJ-content','GRAPH-IJ');
+				JSFetch(null,'tools/TL-home','TL-content','GRAPH-TL');
 				JSFetch('tab-ID','industry-data/ID-home','ID-content');
+				JSFetch(null,'it-work/IW-home','IW-content');
 				JSFetch('tab-IT','it-technologies/IT-autonomous-vehicles','IT-content');
+				JSFetch(null,'project/PRO-home','PRO-content');
 				JSFetch('tab-MEET','meetings/MEET-videos','MEET-content');
+				JSFetch(null,'group-reflection/GR-home','GR-content');
 			});
 		</script>
 		

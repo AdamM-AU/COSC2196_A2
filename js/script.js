@@ -85,12 +85,14 @@ function JSFetch (nav,req,dest,graphobj) {
 				}
 			}
 		});
-		// Update Sub Nav Tab
-		var navitem = req.substring(req.indexOf("/") + 1); // Drop data in string before "/" 
-		// Search for current Nav Menu + Active class and remove active class
-		document.getElementsByClassName(nav + " nav-link active")[0].classList.remove("active");
-		// use stipped navitem to set current selected menu item as active
-		document.getElementById(navitem).classList.add("active");
+		if (nav !== null) {
+			// Update Sub Nav Tab
+			var navitem = req.substring(req.indexOf("/") + 1); // Drop data in string before "/" 
+			// Search for current Nav Menu + Active class and remove active class
+			document.getElementsByClassName(nav + " nav-link active")[0].classList.remove("active");
+			// use stipped navitem to set current selected menu item as active
+			document.getElementById(navitem).classList.add("active");
+		}
 	}
 	return false;
 }
