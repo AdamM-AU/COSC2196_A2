@@ -204,18 +204,32 @@ function JSFetchGraph(GRAPH) {
     type: 'bar',
     data: {
         datasets: [{
-            label: 'Bar Dataset',
-            data: [10, 20, 30, 40],
+            label: 'Burning Glass as %',
+            data: [25, 24, 23, 22, 20, 18, 18, 18, 18, 18, 18, 18],
             // this dataset is drawn below
             order: 1
         }, {
-            label: 'Line Dataset',
-            data: [10, 10, 10, 10],
+            label: 'Adam',
+            data: [10, 10, 10, 10, 10, 10, 10 , 10, 10, 10, 10, 10],
             type: 'line',
             // this dataset is drawn on top
             order: 2
-        }],
-        labels: ['January', 'February', 'March', 'April']
+         }
+				 //,{
+        //     label: 'Line Dataset',
+        //     data: [10, 10, 10, 10],
+        //     type: 'line',
+        //     // this dataset is drawn on top
+        //     order: 2
+        // },{
+        //     label: 'Line Dataset',
+        //     data: [10, 10, 10, 10],
+        //     type: 'line',
+        //     // this dataset is drawn on top
+        //     order: 2
+        // }
+			],
+        labels: ['SQL', 'Javascript', 'Java', 'MS Windows','Project Management','SAP','Business Management','Building Relationships','Business Analysis','Graphic Design','Technical Support','Microsoft C++','Linux']
     },
     options: options
 });
