@@ -28,6 +28,46 @@ function ChartsJSFetchPost(GRAPH) {
 						pointHoverBackgroundColor: "#fff",
 						pointHoverBorderColor: "rgba(255,99,132,1)",
 						data: [9, 10, 7, 2, 1, 3, 7, 8, 5]
+					},
+					{
+						label: "Maddie",
+						backgroundColor: "rgba(106,13,173,0.2)",
+						borderColor: "rgba(106,13,173,1)",
+						pointBackgroundColor: "rgba(106,13,173,1)",
+						pointBorderColor: "#fff",
+						pointHoverBackgroundColor: "#fff",
+						pointHoverBorderColor: "rgba(106,13,173,1)",
+						data: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+					},
+					{
+						label: "Samuel",
+						backgroundColor: "rgba(65,105,225,0.2)",
+						borderColor: "rgba(65,105,225,1)",
+						pointBackgroundColor: "rgba(65,105,225,1)",
+						pointBorderColor: "#fff",
+						pointHoverBackgroundColor: "#fff",
+						pointHoverBorderColor: "rgba(65,105,225,1)",
+						data: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+					},
+					{
+						label: "Jorge",
+						backgroundColor: "rgba(255,255,0,0.2)",
+						borderColor: "rgba(255,255,0,1)",
+						pointBackgroundColor: "rgba(255,255,0,1)",
+						pointBorderColor: "#fff",
+						pointHoverBackgroundColor: "#fff",
+						pointHoverBorderColor: "rgba(255,255,0,1)",
+						data: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+					},
+					{
+						label: "Daniel",
+						backgroundColor: "rgba(124,252,0,0.2)",
+						borderColor: "rgba(124,252,0,1)",
+						pointBackgroundColor: "rgba(124,252,0,1)",
+						pointBorderColor: "#fff",
+						pointHoverBackgroundColor: "#fff",
+						pointHoverBorderColor: "rgba(124,252,0,1)",
+						data: [10, 1, 10, 5, 1, 8, 1, 9, 8]
 					}
 				]
 			};
