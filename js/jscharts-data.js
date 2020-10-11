@@ -76,13 +76,6 @@ function JSFetchGraph(GRAPH) {
 					tooltips: {
 						mode: 'label'
 					},
-					scales: {
-						yAxes: [{
-							ticks: {
-								beginAtZero:true
-							}
-						}]
-					}
 				};
 			var myChart = new Chart(ctx, {
 				type: 'radar',
@@ -159,13 +152,6 @@ function JSFetchGraph(GRAPH) {
 				tooltips: {
 					mode: 'label'
 				},
-				scales: {
-					yAxes: [{
-						ticks: {
-							beginAtZero:true
-						}
-					}]
-				}
 			};
 		var myChart = new Chart(ctx, {
 			type: 'radar',
