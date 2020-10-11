@@ -77,6 +77,9 @@
 							<a class="nav-link" href="#tools">Tools</a>
 						</li>
 						<li class="nav-item">
+							<a class="nav-link" href="#meetings">Meetings</a>
+						</li>						
+						<li class="nav-item">
 							<a class="nav-link" href="#industry-data">Industry Data</a>
 						</li>
 						<li class="nav-item">
@@ -87,9 +90,6 @@
 						</li>
 						<li class="nav-item">
 							<a class="nav-link" href="#project">Project Idea</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="#meetings">Meetings</a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link" href="#group-reflection">Group Reflection</a>
@@ -533,6 +533,36 @@
 				</section>
 				<hr class="m-0" />
 
+				<!-- Meetings -->
+				<section id="meetings">
+					<div class="section-content container-fluid">
+						<div class="row">
+							<div class="col">
+								<h4 class="section-title pb-5">Meetings</h4>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col">
+								<ul id="MEET-nav" class="pb-3 nav nav-tabs">
+									<li class="nav-item">
+										<a id="MEET-videos" class="tab-MEET nav-link active" href="" onclick="return JSFetch('tab-MEET','meetings/MEET-videos','MEET-content');">Videos</a>
+									</li>
+									<li class="nav-item">
+										<a id="MEET-documents" class="tab-MEET nav-link" href="" onclick="return JSFetch('tab-MEET','meetings/MEET-documents','MEET-content');">Documents</a>
+									</li>
+									<li class="nav-item">
+										<a id="MEET-links" class="tab-MEET nav-link" href="" onclick="return JSFetch('tab-MEET','meetings/MEET-links','MEET-content');">Links</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+						<!-- This Div is populated by Adams - JSFetch Function -->
+						<div id="MEET-content">
+						</div>
+					</div>
+				</section>
+				<hr class="m-0" />
+
 				<!-- Industry Data -->
 				<section id="industry-data">
 					<div class="section-content container-fluid">
@@ -630,36 +660,6 @@
 				</section>
 				<hr class="m-0" />
 
-				<!-- Meetings -->
-				<section id="meetings">
-					<div class="section-content container-fluid">
-						<div class="row">
-							<div class="col">
-								<h4 class="section-title pb-5">Meetings</h4>
-							</div>
-						</div>
-						<div class="row">
-							<div class="col">
-								<ul id="MEET-nav" class="pb-3 nav nav-tabs">
-									<li class="nav-item">
-										<a id="MEET-videos" class="tab-MEET nav-link active" href="" onclick="return JSFetch('tab-MEET','meetings/MEET-videos','MEET-content');">Videos</a>
-									</li>
-									<li class="nav-item">
-										<a id="MEET-documents" class="tab-MEET nav-link" href="" onclick="return JSFetch('tab-MEET','meetings/MEET-documents','MEET-content');">Documents</a>
-									</li>
-									<li class="nav-item">
-										<a id="MEET-links" class="tab-MEET nav-link" href="" onclick="return JSFetch('tab-MEET','meetings/MEET-links','MEET-content');">Links</a>
-									</li>
-								</ul>
-							</div>
-						</div>
-						<!-- This Div is populated by Adams - JSFetch Function -->
-						<div id="MEET-content">
-						</div>
-					</div>
-				</section>
-				<hr class="m-0" />
-
 				<!-- Group Reflection -->
 				<section id="group-reflection">
 					<div class="section-content container-fluid">
@@ -685,11 +685,11 @@
 			$( document ).ready(function() {
 				JSFetch('tab-IJ','ideal-jobs/IJ-home','IJ-content',['GRAPH-IJ', 'GRAPH-IJ2']);
 				JSFetch(null,'tools/TL-home','TL-content',['GRAPH-TL']);
+				JSFetch('tab-MEET','meetings/MEET-videos','MEET-content');				
 				JSFetch('tab-ID','industry-data/ID-home','ID-content',['GRAPH-ID','GRAPH-ID2']);
 				JSFetch(null,'it-work/IW-home','IW-content');
 				JSFetch('tab-IT','it-technologies/IT-autonomous-vehicles','IT-content');
 				JSFetch(null,'project/PRO-home','PRO-content');
-				JSFetch('tab-MEET','meetings/MEET-videos','MEET-content');
 				JSFetch(null,'group-reflection/GR-home','GR-content');
 			});
 		</script>
