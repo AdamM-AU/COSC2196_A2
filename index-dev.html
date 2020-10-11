@@ -3,7 +3,7 @@
 	<head>
 		<!-- CODE PEEKING HEY! YEAH! I THOUGHT YOU WOULD!!! -->
 		<!-- Would kill for PHP and SQL right about now... -->
-		
+
 		<meta charset="utf-8" />
 
 		<!-- No Search Engine Crawlers -->
@@ -288,7 +288,7 @@
 												<img class="img-fluid mx-auto" src="images/teamprofiles/channon-test2.png" alt="Results: Test 2" />
 											</div>
 										</div>
-										<img class="img-fluid mx-auto center pb-3" src="images/teamprofiles/channon-test3.png" alt="Results: Test 3" /><br />						
+										<img class="img-fluid mx-auto center pb-3" src="images/teamprofiles/channon-test3.png" alt="Results: Test 3" /><br />
 									</div>
 									<div class="modal-footer">
 										<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
@@ -552,7 +552,7 @@
 								<h4 class="section-title pb-5">Industry Data</h4>
 								<ul id="ID-nav" class="pb-3 nav nav-tabs">
 									<li class="nav-item">
-										<a id="ID-home" class="tab-ID nav-link active" href="" onclick="return JSFetch('tab-ID','industry-data/ID-home','ID-content');">Home</a>
+										<a id="ID-home" class="tab-ID nav-link active" href="" onclick="return JSFetch('tab-ID','industry-data/ID-home','ID-content',['GRAPH-ID','GRAPH-ID2']);">Home</a>
 									</li>
 									<li class="nav-item">
 										<a id="ID-adam" class="tab-ID nav-link" href="" onclick="return JSFetch('tab-ID','industry-data/ID-adam','ID-content');">Adam Mutimer</a>
@@ -696,7 +696,7 @@
 			$( document ).ready(function() {
 				JSFetch('tab-IJ','ideal-jobs/IJ-home','IJ-content',['GRAPH-IJ', 'GRAPH-IJ2']);
 				JSFetch(null,'tools/TL-home','TL-content',['GRAPH-TL']);
-				JSFetch('tab-ID','industry-data/ID-home','ID-content');
+				JSFetch('tab-ID','industry-data/ID-home','ID-content'['GRAPH-ID','GRAPH-ID2']);
 				JSFetch(null,'it-work/IW-home','IW-content');
 				JSFetch('tab-IT','it-technologies/IT-autonomous-vehicles','IT-content');
 				JSFetch(null,'project/PRO-home','PRO-content');
