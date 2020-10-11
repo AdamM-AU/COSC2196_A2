@@ -7,7 +7,7 @@ function ChartsJSFetchPost(GRAPH) {
 		if (GRAPH == "GRAPH-IJ") {
 			/* Industry Data - Radar Graph  */
 			var data = {
-				labels: ["SQL", "Programming Languages", "Windows (O.S)", "Business Management", "Graphic Design", "Building Relationships", "Linux" , "Tech Support","Costumer Service"],
+				labels: ["SQL", "Programming Languages", "MS Windows", "Business Management", "Graphic Design", "Building Relationships", "Linux" , "Tech Support","Costumer Service"],
 				datasets: [
 					{
 						label: "Adam",
@@ -90,7 +90,7 @@ function ChartsJSFetchPost(GRAPH) {
 			});
 		} else if (GRAPH =="GRAPH-IJ2"){
 		var data = {
-			labels: ["SQL", "Programming Languages", "Windows (O.S)", "Business Management", "Graphic Design", "Building Relationships", "Linux" , "Tech Support","Costumer Service"],
+			labels: ["Communication", "Problem Solving", "Organizational skills", "Writing inc Coding", "Teamwork", "Troubleshooting", "Planning" , "Detail-Orientated","Creativity"],
 			datasets: [
 				{
 					label: "Adam",
@@ -100,7 +100,7 @@ function ChartsJSFetchPost(GRAPH) {
 					pointBorderColor: "#fff",
 					pointHoverBackgroundColor: "#fff",
 					pointHoverBorderColor: "rgba(179,181,198,1)",
-					data: [10, 10, 10, 4, 4, 5, 10, 4, 4]
+					data: [8, 10, 10, 10, 10, 10, 10, 10, 5]
 				},
 				{
 					label: "Channon",
@@ -110,7 +110,7 @@ function ChartsJSFetchPost(GRAPH) {
 					pointBorderColor: "#fff",
 					pointHoverBackgroundColor: "#fff",
 					pointHoverBorderColor: "rgba(255,99,132,1)",
-					data: [9, 10, 7, 2, 1, 3, 7, 8, 5]
+					data: [8, 10, 9, 10, 5, 8, 6, 8, 10]
 				},
 				{
 					label: "Maddie",
@@ -150,7 +150,7 @@ function ChartsJSFetchPost(GRAPH) {
 					pointBorderColor: "#fff",
 					pointHoverBackgroundColor: "#fff",
 					pointHoverBorderColor: "rgba(124,252,0,1)",
-					data: [10, 1, 10, 5, 1, 8, 1, 9, 8]
+					data: [10, 8, 9, 8, 8, 9, 10, 5, 6]
 				}
 			]
 		};
