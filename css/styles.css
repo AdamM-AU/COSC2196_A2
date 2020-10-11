@@ -53,6 +53,8 @@ section {
   align-items: center;
   max-width: 75rem;
   min-height: 100vh;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
 }
 
 .section-title {
