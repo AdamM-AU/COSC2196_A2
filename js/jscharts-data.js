@@ -230,7 +230,7 @@ function JSFetchGraph(GRAPH) {
             data: [10, 10, 10, 10,10,10,10,10,10,10,10,10,10],
 
              // this dataset is drawn on top
-           order: 2}
+           order: 2},
         // },{
         //     label: 'Line Dataset',
         //     data: [10, 10, 10, 10],
