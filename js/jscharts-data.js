@@ -41,6 +41,7 @@ var myChart = new Chart(ctx, {
 });
 
 /* Industry Data - Radar Graph  */
+/* Function for JSFetch Patch */
 function ChartsJSFetchPost(GRAPH) {	
 	if (GRAPH) {
 		var ctx = document.getElementById(GRAPH);
