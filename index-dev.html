@@ -502,7 +502,7 @@
 							<div class="col">
 								<ul id="IJ-nav" class="pb-3 nav nav-tabs">
 									<li class="nav-item">
-										<a id="IJ-home" class="tab-IJ nav-link active" href="" onclick="return JSFetch('tab-IJ','ideal-jobs/IJ-home','IJ-content');">Home</a>
+										<a id="IJ-home" class="tab-IJ nav-link active" href="" onclick="return JSFetch('tab-IJ','ideal-jobs/IJ-home','IJ-content','GRAPH-IJ');">Home</a>
 									</li>
 									<li class="nav-item">
 										<a id="IJ-adam" class="tab-IJ nav-link" href="" onclick="return JSFetch('tab-IJ','ideal-jobs/IJ-adam','IJ-content');">Adam Mutimer</a>
@@ -698,17 +698,17 @@
 
 			</div>
 		</div>
+		<!-- jsCharts - Data -->
+		<script src="js/jscharts-data.js"></script>		
+		
 		<!-- Populate JSFetch Fileds with Defaults -->
 		<script type="text/javascript">
 			$( document ).ready(function() {
-				JSFetch('tab-IJ','ideal-jobs/IJ-home','IJ-content');
+				JSFetch('tab-IJ','ideal-jobs/IJ-home','IJ-content','GRAPH-IJ');
 				JSFetch('tab-ID','industry-data/ID-home','ID-content');
 				JSFetch('tab-IT','it-technologies/IT-home','IT-content');
 			});
 		</script>
-		
-		<!-- jsCharts - Data -->
-		<script src="js/jscharts-data.js"></script>
 		
 		<!-- Page Loader Animation -->
 		<script type="text/javascript">

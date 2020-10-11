@@ -64,7 +64,7 @@ function redbuttonFunction(link) {
 
 /** JS Complex/Bulk Data Fetcher **/
 /** Adam Mutimer **/
-function JSFetch (nav,req,dest) {
+function JSFetch (nav,req,dest,graphobj) {
 	if (!req || !dest) {
 		
 	} else {
@@ -77,6 +77,11 @@ function JSFetch (nav,req,dest) {
 					// Push Data into destination
 					var filepath = "<div class=\"row\">\n<div class=\"col\">\n<p class=\"pt-5\"><strong>File Location:</strong><span class=\"font-weight-light font-italic\"> data/" + req + ".html</span></p></div></div>";
 					document.getElementById(dest).innerHTML = data + filepath;
+
+					// Patch for JsCharts
+					if (graphobj) {
+						ChartsJSFetchPost(graphobj);
+					}
 				}
 			}
 		});
