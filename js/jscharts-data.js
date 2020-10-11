@@ -12,62 +12,62 @@ function JSFetchGraph(GRAPH) {
 				datasets: [
 					{
 						label: "Adam",
-						backgroundColor: "rgba(179,181,198,0.2)",
-						borderColor: "rgba(179,181,198,1)",
-						pointBackgroundColor: "rgba(179,181,198,1)",
+						backgroundColor: 'rgba(255, 99, 132, 0.2)',
+						borderColor: 'rgba(255, 99, 132, 1)',
+						pointBackgroundColor: 'rgba(255, 99, 132, 1)',
 						pointBorderColor: "#fff",
 						pointHoverBackgroundColor: "#fff",
-						pointHoverBorderColor: "rgba(179,181,198,1)",
+						pointHoverBorderColor: 'rgba(255, 99, 132, 1)',
 						data: [10, 10, 10, 4, 4, 5, 10, 4, 4]
 					},
 					{
 						label: "Channon",
-						backgroundColor: "rgba(255,99,132,0.2)",
-						borderColor: "rgba(255,99,132,1)",
-						pointBackgroundColor: "rgba(255,99,132,1)",
+						backgroundColor: 'rgba(54, 162, 235, .2)',
+						borderColor: 'rgba(54, 162, 235, 1)',
+						pointBackgroundColor: 'rgba(54, 162, 235, 1)',
 						pointBorderColor: "#fff",
 						pointHoverBackgroundColor: "#fff",
-						pointHoverBorderColor: "rgba(255,99,132,1)",
+						pointHoverBorderColor: 'rgba(54, 162, 235, 1)',
 						data: [9, 10, 7, 2, 1, 3, 7, 8, 5]
 					},
 					{
-						label: "Maddie",
-						backgroundColor: "rgba(106,13,173,0.2)",
-						borderColor: "rgba(106,13,173,1)",
-						pointBackgroundColor: "rgba(106,13,173,1)",
+						label: "Madeleine",
+						backgroundColor: 	'rgba(153, 102, 255, 0.2)',
+						borderColor:	'rgba(153, 102, 255, 1)',
+						pointBackgroundColor:	'rgba(153, 102, 255, 1)',
 						pointBorderColor: "#fff",
 						pointHoverBackgroundColor: "#fff",
-						pointHoverBorderColor: "rgba(106,13,173,1)",
+						pointHoverBorderColor: 	'rgba(153, 102, 255, 1)',
 						data: [0, 0, 0, 0, 0, 0, 0, 0, 0]
 					},
 					{
 						label: "Samuel",
-						backgroundColor: "rgba(65,105,225,0.2)",
-						borderColor: "rgba(65,105,225,1)",
-						pointBackgroundColor: "rgba(65,105,225,1)",
+						backgroundColor: 	'rgba(255, 159, 64, 0.2)',
+						borderColor: 	'rgba(255, 159, 64, 1)',
+						pointBackgroundColor: 	'rgba(255, 159, 64, 1)',
 						pointBorderColor: "#fff",
 						pointHoverBackgroundColor: "#fff",
-						pointHoverBorderColor: "rgba(65,105,225,1)",
+						pointHoverBorderColor: 	'rgba(255, 159, 64, 1)',
 						data: [0, 0, 0, 0, 0, 0, 0, 0, 0]
 					},
 					{
 						label: "Jorge",
-						backgroundColor: "rgba(255,255,0,0.2)",
-						borderColor: "rgba(255,255,0,1)",
-						pointBackgroundColor: "rgba(255,255,0,1)",
+						backgroundColor: 	'rgba(75, 192, 192, .2)',
+						borderColor:	'rgba(75, 192, 192, 1)',
+						pointBackgroundColor: 	'rgba(75, 192, 192, 1)',
 						pointBorderColor: "#fff",
 						pointHoverBackgroundColor: "#fff",
-						pointHoverBorderColor: "rgba(255,255,0,1)",
+						pointHoverBorderColor: 	'rgba(75, 192, 192, 1)',
 						data: [0, 0, 0, 0, 0, 0, 0, 0, 0]
 					},
 					{
 						label: "Daniel",
-						backgroundColor: "rgba(124,252,0,0.2)",
-						borderColor: "rgba(124,252,0,1)",
-						pointBackgroundColor: "rgba(124,252,0,1)",
+						backgroundColor: 	'rgba(255, 206, 86, 0.2)',
+						borderColor: 	'rgba(255, 206, 86, 1)',
+						pointBackgroundColor: 	'rgba(255, 206, 86, 1)',
 						pointBorderColor: "#fff",
 						pointHoverBackgroundColor: "#fff",
-						pointHoverBorderColor: "rgba(124,252,0,1)",
+						pointHoverBorderColor: 	'rgba(255, 206, 86, 1)',
 						data: [10, 1, 10, 5, 1, 8, 1, 9, 8]
 					}
 				]
@@ -88,62 +88,62 @@ function JSFetchGraph(GRAPH) {
 			datasets: [
 				{
 					label: "Adam",
-					backgroundColor: "rgba(179,181,198,0.2)",
-					borderColor: "rgba(179,181,198,1)",
-					pointBackgroundColor: "rgba(179,181,198,1)",
+					backgroundColor: 'rgba(255, 99, 132, 0.2)',
+					borderColor: 'rgba(255, 99, 132, 1)',
+					pointBackgroundColor:'rgba(255, 99, 132, 1)',
 					pointBorderColor: "#fff",
 					pointHoverBackgroundColor: "#fff",
-					pointHoverBorderColor: "rgba(179,181,198,1)",
+					pointHoverBorderColor: 'rgba(255, 99, 132, 1)',
 					data: [8, 10, 10, 10, 10, 10, 10, 10, 5]
 				},
 				{
 					label: "Channon",
-					backgroundColor: "rgba(255,99,132,0.2)",
-					borderColor: "rgba(255,99,132,1)",
-					pointBackgroundColor: "rgba(255,99,132,1)",
+					backgroundColor: 'rgba(54, 162, 235, 0.2)',
+					borderColor: 'rgba(54, 162, 235, 1)',
+					pointBackgroundColor: 'rgba(54, 162, 235, 1)',
 					pointBorderColor: "#fff",
 					pointHoverBackgroundColor: "#fff",
-					pointHoverBorderColor: "rgba(255,99,132,1)",
+					pointHoverBorderColor: 'rgba(54, 162, 235, 1)',
 					data: [8, 10, 9, 10, 5, 8, 6, 8, 10]
 				},
 				{
-					label: "Maddie",
-					backgroundColor: "rgba(106,13,173,0.2)",
-					borderColor: "rgba(106,13,173,1)",
-					pointBackgroundColor: "rgba(106,13,173,1)",
+					label: "Madeleine",
+					backgroundColor:	'rgba(153, 102, 255, 0.2)',
+					borderColor:	'rgba(153, 102, 255, 1)',
+					pointBackgroundColor:	'rgba(153, 102, 255, 1)',
 					pointBorderColor: "#fff",
 					pointHoverBackgroundColor: "#fff",
-					pointHoverBorderColor: "rgba(106,13,173,1)",
+					pointHoverBorderColor:	'rgba(153, 102, 255, 1)',
 					data: [0, 0, 0, 0, 0, 0, 0, 0, 0]
 				},
 				{
 					label: "Samuel",
-					backgroundColor: "rgba(65,105,225,0.2)",
-					borderColor: "rgba(65,105,225,1)",
-					pointBackgroundColor: "rgba(65,105,225,1)",
+					backgroundColor: 	'rgba(255, 159, 64, 0.2)',
+					borderColor: 	'rgba(255, 159, 64, 1)',
+					pointBackgroundColor:	'rgba(255, 159, 64, 1)',
 					pointBorderColor: "#fff",
 					pointHoverBackgroundColor: "#fff",
-					pointHoverBorderColor: "rgba(65,105,225,1)",
+					pointHoverBorderColor:	'rgba(255, 159, 64, 1)',
 					data: [0, 0, 0, 0, 0, 0, 0, 0, 0]
 				},
 				{
 					label: "Jorge",
-					backgroundColor: "rgba(255,255,0,0.2)",
-					borderColor: "rgba(255,255,0,1)",
-					pointBackgroundColor: "rgba(255,255,0,1)",
+					backgroundColor: 	'rgba(75, 192, 192, 0.2)',
+					borderColor:	'rgba(75, 192, 192, 1)',
+					pointBackgroundColor: 	'rgba(75, 192, 192, 1)',
 					pointBorderColor: "#fff",
 					pointHoverBackgroundColor: "#fff",
-					pointHoverBorderColor: "rgba(255,255,0,1)",
+					pointHoverBorderColor: 	'rgba(75, 192, 192, 1)',
 					data: [0, 0, 0, 0, 0, 0, 0, 0, 0]
 				},
 				{
 					label: "Daniel",
-					backgroundColor: "rgba(124,252,0,0.2)",
-					borderColor: "rgba(124,252,0,1)",
-					pointBackgroundColor: "rgba(124,252,0,1)",
+					backgroundColor: 	'rgba(255, 206, 86, 0.2)',
+					borderColor:	'rgba(255, 206, 86, 1)',
+					pointBackgroundColor: 	'rgba(255, 206, 86, 1)',
 					pointBorderColor: "#fff",
 					pointHoverBackgroundColor: "#fff",
-					pointHoverBorderColor: "rgba(124,252,0,1)",
+					pointHoverBorderColor:	'rgba(255, 206, 86, 1)',
 					data: [10, 8, 9, 8, 8, 9, 10, 5, 6]
 				}
 			]
@@ -206,41 +206,47 @@ function JSFetchGraph(GRAPH) {
         datasets: [{
             label: 'Burning Glass as %',
             data: [10, 9, 8, 7, 6, 5, 5, 8, 8, 8, 8, 8,0],
-						backgroundColor: "rgba(255,255,0,0)",
-						borderColor: "rgba(255,255,0,1)",
-						pointBackgroundColor: "rgba(255,255,0,1)",
+						backgroundColor: 'rgba(255,255,0,0)',
+						borderColor: 'rgba(255,255,0,1)',
+						pointBackgroundColor: 'rgba(255,255,0,1)',
 						// this dataset is drawn below
 						type: 'line',
 						order: 1
 					}, {
 						label: 'Adam',
-						backgroundColor: 'rgba(179,181,198, 1)',
+						backgroundColor: 'rgba(255, 99, 132, 0.2)',
+						borderColor: 'rgba(255, 99, 132, 1)',
 						data: [10, 10, 10, 10, 10, 10, 10 , 10, 10, 10, 10, 10,10],
 						// this dataset is drawn on top
 						order: 2
 					}, {
 						label: 'Channon',
-						backgroundColor: "rgba(255,99,132,1)",
+						backgroundColor: 'rgba(54, 162, 235, 0.2)',
+						borderColor:	'rgba(54, 162, 235, 1)',
 						data: [10, 10, 10, 10,10,10,10,10,10,10,10,10,10],
 						order: 2
 					}, {
-						label: 'Maddie',
-						backgroundColor: "rgba(106,13,173,1)",
+						label: 'Madeleine',
+						backgroundColor:	'rgba(153, 102, 255, 0.2)',
+						borderColor:	'rgba(153, 102, 255, 1)',
 						data: [10, 10, 10, 10, 10, 10, 5 , 10, 10, 10, 10, 10,10],
 						order: 2
 					}, {
 						label: 'Samuel',
-						backgroundColor: "rgba(65,105,225,1)",
+						backgroundColor: 	'rgba(255, 159, 64, 0.2)',
+						borderColor:	'rgba(255, 159, 64, 1)',
 						data: [10, 10, 10, 10, 10, 10, 10 , 10, 10, 10, 10, 10,10],
 						order: 2
 					}, {
 						label: 'Jorge',
-						backgroundColor: "rgba(255,255,0,1)",
+						backgroundColor: 'rgba(75, 192, 192, 0.2)',
+						borderColor:'rgba(75, 192, 192, 1)',
 						data: [10, 10, 10, 10, 10, 10, 10 , 10, 10, 10, 10, 10,10],
 						order: 2
 					}, {
 						label: 'Daniel',
-						backgroundColor: "rgba(124,252,0,1)",
+						backgroundColor:	'rgba(255, 206, 86, 0.2)',
+						borderColor:	'rgba(255, 206, 86, 1)',
 						data: [10, 10, 10, 10, 10, 10, 10 , 10, 10, 10, 10, 10,10],
 						order: 2
         }
