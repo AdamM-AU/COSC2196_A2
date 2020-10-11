@@ -207,11 +207,15 @@ function JSFetchGraph(GRAPH) {
             label: 'Burning Glass as %',
             data: [25, 24, 23, 22, 20, 18, 18, 18, 18, 18, 18, 18],
             // this dataset is drawn below
+						type: 'line',
             order: 1
         }, {
             label: 'Adam',
-            data: [10, 10, 10, 10, 10, 10, 10 , 10, 10, 10, 10, 10],
-            type: 'line',
+						barPercentage: 0.15,
+						categoryPercentage: 1,
+						
+						data: [10, 10, 10, 10, 10, 10, 10 , 10, 10, 10, 10, 10],
+
             // this dataset is drawn on top
             order: 2
          }
