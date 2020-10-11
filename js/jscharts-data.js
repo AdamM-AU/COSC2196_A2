@@ -205,8 +205,8 @@ function JSFetchGraph(GRAPH) {
     data: {
         datasets: [{
             label: 'Burning Glass as %',
-            data: [10, 9, 8, 7, 6, 5, 5, 8, 8, 8, 8, 8],
-						backgroundColor: "rgba(255,255,0,0.2)",
+            data: [10, 9, 8, 7, 6, 5, 5, 8, 8, 8, 8, 8,0],
+						backgroundColor: "rgba(255,255,0,0)",
 						borderColor: "rgba(255,255,0,1)",
 						pointBackgroundColor: "rgba(255,255,0,1)",
 						// this dataset is drawn below
@@ -216,18 +216,21 @@ function JSFetchGraph(GRAPH) {
             label: 'Adam',
 						categoryPercentage: 1,
 						barPercentage: 0.15,
-						data: [10, 10, 10, 10, 10, 10, 10 , 10, 10, 10, 10, 10],
 						backgroundColor: [
-							'rgba(255, 99, 132, 0.2)',],
-            // this dataset is drawn on top
+							'rgba(179,181,198, 1)',],
+						data: [10, 10, 10, 10, 10, 10, 10 , 10, 10, 10, 10, 10,10],
+					  // this dataset is drawn on top
             order: 2
          }
-				 //,{
-        //     label: 'Line Dataset',
-        //     data: [10, 10, 10, 10],
-        //     type: 'line',
-        //     // this dataset is drawn on top
-        //     order: 2
+				 ,{
+            label: 'Channon',
+					  categoryPercentage: 1,
+ 						barPercentage: 0.15,
+						backgroundColor: "rgba(255,99,132,1)",
+            data: [10, 10, 10, 10,10,10,10,10,10,10,10,10,10],
+
+             // this dataset is drawn on top
+           order: 2
         // },{
         //     label: 'Line Dataset',
         //     data: [10, 10, 10, 10],
