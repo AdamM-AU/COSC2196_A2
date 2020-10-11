@@ -44,17 +44,49 @@ var myChart = new Chart(ctx, {
 function ChartsJSFetchPost(GRAPH) {	
 	if (GRAPH) {
 		var ctx = document.getElementById(GRAPH);
-		ctx.height = 150;
-		
+		ctx.height = 150;		
 		if (GRAPH == "GRAPH-IJ") {
+			var data = {
+				labels: ["Eating", "Drinking", "Sleeping", "Designing", "Coding", "Cycling", "Running"],
+				datasets: [
+					{
+						label: "My First dataset",
+						backgroundColor: "rgba(179,181,198,0.2)",
+						borderColor: "rgba(179,181,198,1)",
+						pointBackgroundColor: "rgba(179,181,198,1)",
+						pointBorderColor: "#fff",
+						pointHoverBackgroundColor: "#fff",
+						pointHoverBorderColor: "rgba(179,181,198,1)",
+						data: [65, 59, 90, 81, 56, 55, 40]
+					},
+					{
+						label: "My Second dataset",
+						backgroundColor: "rgba(255,99,132,0.2)",
+						borderColor: "rgba(255,99,132,1)",
+						pointBackgroundColor: "rgba(255,99,132,1)",
+						pointBorderColor: "#fff",
+						pointHoverBackgroundColor: "#fff",
+						pointHoverBorderColor: "rgba(255,99,132,1)",
+						data: [28, 48, 40, 19, 96, 27, 100]
+					}
+				]
+			};		
+			var options = {
+					tooltips: {
+						mode: 'label'
+					},
+					scales: {
+						yAxes: [{
+							ticks: {
+								beginAtZero:true
+							}
+						}]
+					}
+				};			
 			var myChart = new Chart(ctx, {
 				type: 'radar',
-				data: {
-					labels: ['Running', 'Swimming', 'Eating', 'Cycling'],
-					datasets: [{
-						data: [20, 10, 4, 2]
-					}]
-				}
+				data: data,
+				options: options
 			});
 		}
 	}
