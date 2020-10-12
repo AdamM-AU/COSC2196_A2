@@ -68,36 +68,54 @@ function JSFetch (nav,req,dest,graphobj) {
 	if (!req || !dest) {
 		
 	} else {
-		// Use ajax to fetch the html file and process that data
-		$.ajax({url:'data/' + req + '.html', success: 
-			function (data){
-				if (data.length < 0) {
-					data = "Error: No Data Found";
-				} else {
-					// Push Data into destination
-					var filepath = "<div class=\"row\">\n<div class=\"col\">\n<p class=\"pt-5\"><strong>File Location:</strong><span class=\"font-weight-light font-italic\"> data/" + req + ".html</span></p></div></div>";
-					document.getElementById(dest).innerHTML = data + filepath;
+		// Adam: Added Array of Requests - 13/10/20
+		if (Array.isArray(req)) {
+			req.forEach(function (preq) {
+				var filepath;
+				$.ajax({url:'data/' + preq + '.html', success: 
+					function (data){
+						if (data.length < 0) {
+							data = "Error: No Data Found";
+						} else {
+							document.getElementById(dest).innerHTML += data;
+							document.getElementById(dest + '-location').innerHTML += 'data/' + preq + ".html ";
+						}
+					}
+				});
+			});
+		} else {
+			// Use ajax to fetch the html file and process that data
+			$.ajax({url:'data/' + req + '.html', success: 
+				function (data){
+					if (data.length < 0) {
+						data = "Error: No Data Found";
+					} else {			
+						// Push Data into destination
+						var filepath = "<div class=\"row\">\n<div class=\"col\">\n<p class=\"pt-5\"><strong>File Location:</strong><span class=\"font-weight-light font-italic\"> data/" + req + ".html</span></p></div></div>";
+						document.getElementById(dest).innerHTML = data + filepath;
 
-					// Patch for JsCharts
-					if (graphobj) {
-						// Adam - Added Array Iteration 
-						// Channon needed multiple graphs
-						graphobj.forEach(JSFetchGraph);
+						// Patch for JsCharts
+						if (graphobj) {
+							// Adam - Added Array Iteration 
+							// Channon needed multiple graphs
+							graphobj.forEach(JSFetchGraph);
+						}
 					}
 				}
-			}
-		});
-		if (nav !== null) {
-			// Update Sub Nav Tab
-			var navitem = req.substring(req.indexOf("/") + 1); // Drop data in string before "/" 
-			// Search for current Nav Menu + Active class and remove active class
-			document.getElementsByClassName(nav + " nav-link active")[0].classList.remove("active");
-			// use stipped navitem to set current selected menu item as active
-			document.getElementById(navitem).classList.add("active");
+			});
+			if (nav !== null) {
+				// Update Sub Nav Tab
+				var navitem = req.substring(req.indexOf("/") + 1); // Drop data in string before "/" 
+				// Search for current Nav Menu + Active class and remove active class
+				document.getElementsByClassName(nav + " nav-link active")[0].classList.remove("active");
+				// use stipped navitem to set current selected menu item as active
+				document.getElementById(navitem).classList.add("active");
+			}			
 		}
 	}
 	return false;
 }
+
 /* Scroll to Top - Floating Button */
 $(document).ready(function(){
 	$(window).scroll(function () {

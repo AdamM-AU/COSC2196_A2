@@ -649,6 +649,11 @@
 						<!-- This Div is populated by Adams - JSFetch Function -->
 						<div id="PRO-content">
 						</div>
+						<div class="row">
+							<div class="col">
+								<p class="pt-5"><strong>File Locations:</strong><span id="PRO-content-location" class="font-weight-light font-italic"> </span></p>
+							</div>
+						</div>						
 					</div>
 				</section>
 				<hr class="m-0" />
@@ -711,7 +716,7 @@
 				JSFetch('tab-ID','industry-data/ID-home','ID-content',['GRAPH-ID','GRAPH-ID2']);
 				JSFetch(null,'it-work/IW-home','IW-content');
 				JSFetch('tab-IT','it-technologies/IT-autonomous-vehicles','IT-content');
-				JSFetch(null,'project/PRO-home','PRO-content');
+				JSFetch(null,['project/PRO-overview','project/PRO-motivation'],'PRO-content');
 				JSFetch(null,'group-reflection/GR-home','GR-content');
 			});
 		</script>
