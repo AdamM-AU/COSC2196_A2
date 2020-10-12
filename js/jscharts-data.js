@@ -124,7 +124,7 @@ function JSFetchGraph(GRAPH) {
 					pointBorderColor: "#fff",
 					pointHoverBackgroundColor: "#fff",
 					pointHoverBorderColor:	'rgba(255, 159, 64, 1)',
-					data: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+					data: [10,10,9, 8, 8, 10, 10, 5, 6]
 				},
 				{
 					label: "Jorge",
@@ -205,7 +205,7 @@ function JSFetchGraph(GRAPH) {
     data: {
         datasets: [{
             label: 'Burning Glass as %',
-            data: [10, 9, 8, 7, 6, 5, 5, 8, 8, 8, 8, 8,0],
+            data: [10, 9, 8.5, 7.6, 7.5, 7.6, 7.2, 7.3, 6.5, 6.75, 6],
 						backgroundColor: 'rgba(255,255,0,0)',
 						borderColor: 'rgba(255,255,0,0.75)',
 						pointBackgroundColor: 'rgba(255,255,0,0.75)',
@@ -216,42 +216,42 @@ function JSFetchGraph(GRAPH) {
 						label: 'Adam',
 						backgroundColor: 'rgba(255, 99, 132, 0.8)',
 						borderColor: 'rgba(255, 99, 132, 1)',
-						data: [10, 10, 10, 10, 10, 10, 10 , 10, 10, 10, 10, 10,10],
+						data: [10, 10, 10, 9 ,9, 4, 4, 5 , 10, 4, 4],
 						// this dataset is drawn on top
 						order: 2
 					}, {
 						label: 'Channon',
 						backgroundColor: 'rgba(54, 162, 235, 0.8)',
 						borderColor:	'rgba(54, 162, 235, 1)',
-						data: [10, 10, 10, 10,10,10,10,10,10,10,10,10,10],
+						data: [9, 10, 8, 8,8, 5, 1, 3, 8, 8, 5],
 						order: 2
 					}, {
 						label: 'Madeleine',
 						backgroundColor:	'rgba(153, 102, 255, 0.8)',
 						borderColor:	'rgba(153, 102, 255, 1)',
-						data: [10, 10, 10, 10, 10, 10, 5 , 10, 10, 10, 10, 10,10],
+						data: [1, 5, 5, 8,8, 1, 1, 7 , 1, 10, 10],
 						order: 2
 					}, {
 						label: 'Samuel',
 						backgroundColor: 	'rgba(255, 159, 64, 0.8)',
 						borderColor:	'rgba(255, 159, 64, 1)',
-						data: [10, 10, 10, 10, 10, 10, 10 , 10, 10, 10, 10, 10,10],
+						data: [10, 5, 8,8, 8, 8, 3, 7 , 1, 9, 9],
 						order: 2
 					}, {
 						label: 'Jorge',
 						backgroundColor: 'rgba(75, 192, 192, 0.8)',
 						borderColor:'rgba(75, 192, 192, 1)',
-						data: [10, 10, 10, 10, 10, 10, 10 , 10, 10, 10, 10, 10,10],
+						data: [5, 2, 9, 7,8, 9, 1, 7 , 1, 7, 9],
 						order: 2
 					}, {
 						label: 'Daniel',
 						backgroundColor:	'rgba(255, 206, 86, 0.8)',
 						borderColor:	'rgba(255, 206, 86, 1)',
-						data: [10, 10, 10, 10, 10, 10, 10 , 10, 10, 10, 10, 10,10],
+						data: [10, 1, 9, 8,8, 9, 1, 7, 1, 7, 9],
 						order: 2
         }
 			],
-        labels: ['SQL', 'Javascript', 'Java', 'MS Windows','Project Management','SAP','Business Management','Building Relationships','Business Analysis','Graphic Design','Technical Support','Microsoft C++','Linux']
+        labels: ['SQL', 'Programming (Java/JavaScript)', 'MS Windows','Project Management','SAP', 'Business Management/Analysis', 'Graphic Design', 'Building Relationships', 'Linux' , 'Tech Support','Costumer Service']
     },
     options: options
 });
@@ -261,7 +261,7 @@ function JSFetchGraph(GRAPH) {
     data: {
         datasets: [{
             label: 'Burning Glass as %',
-            data: [10, 9, 8, 7, 6, 5, 5, 8, 8, 8, 8, 8,0],
+            data: [10, 9, 8, 7, 6, 5, 5, 8, 8, 8],
 						backgroundColor: 'rgba(255,255,0,0)',
 						borderColor: 'rgba(255,255,0,0.75)',
 						pointBackgroundColor: 'rgba(255,255,0,0.75)',
@@ -272,42 +272,42 @@ function JSFetchGraph(GRAPH) {
 						label: 'Adam',
 						backgroundColor: 'rgba(255, 99, 132, 0.8)',
 						borderColor: 'rgba(255, 99, 132, 1)',
-						data: [10, 10, 10, 10, 10, 10, 10 , 10, 10, 10, 10, 10,10],
+						data: [8, 10, 10, 10, 10, 10, 10 , 10, 5, 7],
 						// this dataset is drawn on top
 						order: 2
 					}, {
 						label: 'Channon',
 						backgroundColor: 'rgba(54, 162, 235, 0.8)',
 						borderColor:	'rgba(54, 162, 235, 1)',
-						data: [10, 10, 10, 10,10,10,10,10,10,10,10,10,10],
+						data: [8, 10, 9, 10, 5, 8, 6, 8, 10, 8],
 						order: 2
 					}, {
 						label: 'Madeleine',
 						backgroundColor:	'rgba(153, 102, 255, 0.8)',
 						borderColor:	'rgba(153, 102, 255, 1)',
-						data: [10, 10, 10, 10, 10, 10, 5 , 10, 10, 10, 10, 10,10],
+						data: [10, 10, 9, 5, 9, 10, 9 , 4, 2, 6],
 						order: 2
 					}, {
 						label: 'Samuel',
 						backgroundColor: 	'rgba(255, 159, 64, 0.8)',
 						borderColor:	'rgba(255, 159, 64, 1)',
-						data: [10, 10, 10, 10, 10, 10, 10 , 10, 10, 10, 10, 10,10],
+						data: [10, 10, 9, 8, 9, 10, 7 , 7, 7, 7],
 						order: 2
 					}, {
 						label: 'Jorge',
 						backgroundColor: 'rgba(75, 192, 192, 0.8)',
 						borderColor:'rgba(75, 192, 192, 1)',
-						data: [10, 10, 10, 10, 10, 10, 10 , 10, 10, 10, 10, 10,10],
+						data: [8, 9, 9, 5, 6, 9, 9 , 8, 8,7],
 						order: 2
 					}, {
 						label: 'Daniel',
 						backgroundColor:	'rgba(255, 206, 86, 0.8)',
 						borderColor:	'rgba(255, 206, 86, 1)',
-						data: [10, 10, 10, 10, 10, 10, 10 , 10, 10, 10, 10, 10,10],
+						data: [10, 8, 9, 8, 8, 8, 9 , 10, 5, 6, 7],
 						order: 2
         }
 			],
-        labels: ['Communication', 'Problem Solving', 'Organisational Skills', 'Writing','Team Work','Troubleshooting','Planning','Detail-Orientated','Creativity','Research','Leadership','Time Management','Mentoring']
+        labels: ['Communication', 'Problem Solving', 'Organizational skills', 'Writing inc Coding', 'Teamwork', 'Troubleshooting', 'Planning' , 'Detail-Orientated','Creativity','Research']
     },
     options: options
 });
