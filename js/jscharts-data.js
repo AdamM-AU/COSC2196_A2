@@ -204,7 +204,7 @@ function JSFetchGraph(GRAPH) {
     type: 'bar',
     data: {
         datasets: [{
-            label: 'Burning Glass as %',
+            label: 'Burning Glass Ranking',
             data: [10, 9, 8.5, 7.6, 7.5, 7.6, 7.2, 7.3, 6.5, 6.75, 6],
 						backgroundColor: 'rgba(255,255,0,0)',
 						borderColor: 'rgba(255,255,0,0.75)',
