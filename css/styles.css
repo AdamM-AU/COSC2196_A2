@@ -112,6 +112,14 @@ section {
 	/* color: rgba(255,255,255,.5); */
 }
 
+/* Scroll to Top - Floating Button */
+.back-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    display: none;
+}
+
 /* Modal Style Overrides */
 .modal-title {
 	font-weight: bold;
