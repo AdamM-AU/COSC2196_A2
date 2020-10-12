@@ -260,8 +260,8 @@ function JSFetchGraph(GRAPH) {
     type: 'bar',
     data: {
         datasets: [{
-            label: 'Burning Glass as %',
-            data: [10, 9, 8, 7, 6, 5, 5, 8, 8, 8],
+            label: 'Burning Glass Ranking',
+            data: [10, 6.2, 6.2, 6.2, 5.9, 5.6, 5.6, 5.2, 5, 5],
 						backgroundColor: 'rgba(255,255,0,0)',
 						borderColor: 'rgba(255,255,0,0.75)',
 						pointBackgroundColor: 'rgba(255,255,0,0.75)',
