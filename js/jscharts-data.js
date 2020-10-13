@@ -247,11 +247,11 @@ function JSFetchGraph(GRAPH) {
 						label: 'Daniel',
 						backgroundColor:	'rgba(255, 206, 86, 0.8)',
 						borderColor:	'rgba(255, 206, 86, 1)',
-						data: [10, 1, 9, 8,8, 9, 1, 7, 1, 7, 9],
+						data: [10, 1, 10, 1,5, 1, 8, 6, 6, 9],
 						order: 2
         }
 			],
-        labels: ['SQL', 'Programming (Java/JavaScript)', 'MS Windows','SAP', 'Business Management/Analysis', 'Graphic Design', 'Building Relationships', 'Linux' , 'Tech Support','Costumer Service']
+        labels: ['SQL', 'Java/JavaScript', 'MS Windows','SAP', 'Business Management/Analysis', 'Graphic Design', 'Building Relationships', 'Linux' , 'Tech Support','Costumer Service']
     },
     options: options
 });
