@@ -272,38 +272,38 @@ function JSFetchGraph(GRAPH) {
 						label: 'Adam',
 						backgroundColor: 'rgba(255, 99, 132, 0.8)',
 						borderColor: 'rgba(255, 99, 132, 1)',
-						data: [8, 10, 10, 10, 10, 10, 10 , 10, 5, 7],
+						data: [8, 10, 10, 10, 10, 10, 10 , 10, 5, 8],
 						// this dataset is drawn on top
 						order: 2
 					}, {
 						label: 'Channon',
 						backgroundColor: 'rgba(54, 162, 235, 0.8)',
 						borderColor:	'rgba(54, 162, 235, 1)',
-						data: [8, 10, 9, 10, 5, 8, 6, 8, 10, 8],
+						data: [8, 10, 9, 10, 6, 8, 6, 8, 10, 9],
 						order: 2
 					}, {
 						label: 'Madeleine',
 						backgroundColor:	'rgba(153, 102, 255, 0.8)',
 						borderColor:	'rgba(153, 102, 255, 1)',
-						data: [10, 10, 9, 5, 9, 10, 9 , 4, 2, 6],
+						data: [10, 10, 9, 5, 9, 10, 9 , 4, 2, 7],
 						order: 2
 					}, {
 						label: 'Samuel',
 						backgroundColor: 	'rgba(255, 159, 64, 0.8)',
 						borderColor:	'rgba(255, 159, 64, 1)',
-						data: [10, 10, 9, 8, 9, 10, 7 , 7, 7, 7],
+						data: [10, 8, 8, 8, 9, 8, 8 , 8, 7, 9],
 						order: 2
 					}, {
 						label: 'Jorge',
 						backgroundColor: 'rgba(75, 192, 192, 0.8)',
 						borderColor:'rgba(75, 192, 192, 1)',
-						data: [8, 9, 9, 5, 6, 9, 9 , 8, 8,7],
+						data: [8, 9, 9, 5, 6, 9, 9 , 8, 8,8],
 						order: 2
 					}, {
 						label: 'Daniel',
 						backgroundColor:	'rgba(255, 206, 86, 0.8)',
 						borderColor:	'rgba(255, 206, 86, 1)',
-						data: [10, 8, 9, 8, 8, 8, 9 , 10, 5, 6, 7],
+						data: [10, 8, 9, 8, 8, 9, 10 , 9, 5, 6, 3],
 						order: 2
         }
 			],
