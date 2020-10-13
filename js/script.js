@@ -91,7 +91,9 @@ function JSFetch (nav,req,dest,graphobj) {
 			}
 			// Wait until array is fully populated
 			$.when(PageContent).done(function(results){
+				// Loop Though the Array
 				PageContent.forEach(function(data) {
+					// Add content to the targets on each run
 					document.getElementById(dest).innerHTML += data.data;
 					document.getElementById(dest + '-location').innerHTML += data.location;
 				});
