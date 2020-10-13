@@ -229,7 +229,7 @@ function JSFetchGraph(GRAPH) {
 						label: 'Madeleine',
 						backgroundColor:	'rgba(153, 102, 255, 0.8)',
 						borderColor:	'rgba(153, 102, 255, 1)',
-						data: [1, 5, 5, 8,8, 1, 1, 7 , 1, 10, 10],
+						data: [1, 5, 5, 1,1, 1, 7, 1 , 10, 10],
 						order: 2
 					}, {
 						label: 'Samuel',
