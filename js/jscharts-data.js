@@ -8,7 +8,7 @@ function JSFetchGraph(GRAPH) {
 		if (GRAPH == "GRAPH-IJ") {
 			/* Industry Data - Radar Graph  */
 			var data = {
-				labels: ["SQL", "Programming Languages", "MS Windows", "Business Management", "Graphic Design", "Building Relationships", "Linux" , "Tech Support","Costumer Service"],
+				labels: ["SQL", "Java/JavaScript", "MS Windows","SAP", "Business Management/Analysis", "Graphic Design", "Building Relationships", "Linux" , "Tech Support","Costumer Service"],
 				datasets: [
 					{
 						label: "Adam",
@@ -84,7 +84,7 @@ function JSFetchGraph(GRAPH) {
 			});
 		} else if (GRAPH =="GRAPH-IJ2"){
 		var data = {
-			labels: ["Communication", "Problem Solving", "Organizational skills", "Writing inc Coding", "Teamwork", "Troubleshooting", "Planning" , "Detail-Orientated","Creativity"],
+			labels: ["Communication", "Problem Solving", "Organizational skills", "Writing inc Coding", "Teamwork", "Troubleshooting", "Planning" , "Detail-Orientated","Creativity","Research"],
 			datasets: [
 				{
 					label: "Adam",
