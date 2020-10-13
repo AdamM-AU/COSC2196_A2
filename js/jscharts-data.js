@@ -216,7 +216,7 @@ function JSFetchGraph(GRAPH) {
 						label: 'Adam',
 						backgroundColor: 'rgba(255, 99, 132, 0.8)',
 						borderColor: 'rgba(255, 99, 132, 1)',
-						data: [10, 10, 10, 9 ,9, 4, 4, 5 , 10, 4, 4],
+						data: [10, 10, 10, 5 ,4, 4, 5, 10 , 4, 4],
 						// this dataset is drawn on top
 						order: 2
 					}, {
@@ -251,7 +251,7 @@ function JSFetchGraph(GRAPH) {
 						order: 2
         }
 			],
-        labels: ['SQL', 'Programming (Java/JavaScript)', 'MS Windows','Project Management','SAP', 'Business Management/Analysis', 'Graphic Design', 'Building Relationships', 'Linux' , 'Tech Support','Costumer Service']
+        labels: ['SQL', 'Programming (Java/JavaScript)', 'MS Windows','SAP', 'Business Management/Analysis', 'Graphic Design', 'Building Relationships', 'Linux' , 'Tech Support','Costumer Service']
     },
     options: options
 });
