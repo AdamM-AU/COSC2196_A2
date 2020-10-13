@@ -223,7 +223,7 @@ function JSFetchGraph(GRAPH) {
 						label: 'Channon',
 						backgroundColor: 'rgba(54, 162, 235, 0.8)',
 						borderColor:	'rgba(54, 162, 235, 1)',
-						data: [9, 10, 8, 8,8, 5, 1, 3, 8, 8, 5],
+						data: [9, 10, 7, 5,5, 1, 5, 7, 8, 5],
 						order: 2
 					}, {
 						label: 'Madeleine',
