@@ -38,7 +38,7 @@ function JSFetchGraph(GRAPH) {
 						pointBorderColor: "#fff",
 						pointHoverBackgroundColor: "#fff",
 						pointHoverBorderColor: 	'rgba(153, 102, 255, 1)',
-						data: [1, 5, 5, 1, 1,1, 7, 1, 10, 10]
+						data: [1, 5, 5, 1, 1, 1, 7, 1, 10, 10]
 					},
 					{
 						label: "Samuel",
@@ -48,7 +48,7 @@ function JSFetchGraph(GRAPH) {
 						pointBorderColor: "#fff",
 						pointHoverBackgroundColor: "#fff",
 						pointHoverBorderColor: 	'rgba(255, 159, 64, 1)',
-						data: [10, 9, 9,10, 8, 5, 8, 6, 6, 9]
+						data: [10, 9, 9, 10, 8, 5, 8, 6, 6, 9]
 					},
 					{
 						label: "Jorge",
@@ -58,7 +58,7 @@ function JSFetchGraph(GRAPH) {
 						pointBorderColor: "#fff",
 						pointHoverBackgroundColor: "#fff",
 						pointHoverBorderColor: 	'rgba(75, 192, 192, 1)',
-						data: [8, 9, 9, 5, 6, 9, 9, 8, 8]
+						data: [5, 2, 9, 1, 9, 1, 7, 1, 7, 9]
 					},
 					{
 						label: "Daniel",
@@ -68,7 +68,7 @@ function JSFetchGraph(GRAPH) {
 						pointBorderColor: "#fff",
 						pointHoverBackgroundColor: "#fff",
 						pointHoverBorderColor: 	'rgba(255, 206, 86, 1)',
-						data: [10, 1, 10, 5, 1, 8, 1, 9, 8]
+						data: [10, 1, 10, 1, 5, 1, 8, 1, 9, 8]
 					}
 				]
 			};
