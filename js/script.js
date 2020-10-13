@@ -70,17 +70,30 @@ function JSFetch (nav,req,dest,graphobj) {
 	} else {
 		// Adam: Added Array of Requests - 13/10/20
 		if (Array.isArray(req)) {
-			req.forEach(function (preq) {
-				var filepath;
-				$.ajax({url:'data/' + preq + '.html', success: 
+			var keys = req.keys(); // Get request/reg Array Keys for Ordering and Process Loop
+			var PageContent = new Array(); // Create Empty Array
+
+			for (x of keys) {
+				var preq = req[x];
+				
+				$.ajax({url:'data/' + preq + '.html', async: false, success: 
 					function (data){
 						if (data.length < 0) {
 							data = "Error: No Data Found";
 						} else {
-							document.getElementById(dest).innerHTML += data;
-							document.getElementById(dest + '-location').innerHTML += 'data/' + preq + ".html ";
+							// Create Array Object
+							var obj = {data: data, location: 'data/' + preq + '.html '};
+							// Enter Array Object Using ORDER key of request/req
+							PageContent[x] = obj;
 						}
 					}
+				});
+			}
+			// Wait until array is fully populated
+			$.when(PageContent).done(function(results){
+				PageContent.forEach(function(data) {
+					document.getElementById(dest).innerHTML += data.data;
+					document.getElementById(dest + '-location').innerHTML += data.location;
 				});
 			});
 		} else {
