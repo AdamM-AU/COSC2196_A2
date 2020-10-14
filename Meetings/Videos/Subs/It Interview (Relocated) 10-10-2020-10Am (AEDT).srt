@@ -1,0 +1,2311 @@
+﻿1
+00:00:02,910 --> 00:00:04,510
+Waiting for it to record.
+
+2
+00:00:05,040 --> 00:00:10,467
+Very good. Thank you for joining
+us, Steve. Really appreciate it.
+
+3
+00:00:10,467 --> 00:00:13,797
+I know you've got value. Your
+time is very valuable.
+
+4
+00:00:14,590 --> 00:00:20,354
+No problem. I will just
+start if Stevie can introduce
+
+5
+00:00:20,354 --> 00:00:21,826
+yourself and your role.
+
+6
+00:00:22,980 --> 00:00:24,288
+What you do?
+
+7
+00:00:25,140 --> 00:00:28,920
+Certainly so my name is Steven
+Spiller. You can just call me
+
+8
+00:00:28,920 --> 00:00:32,700
+Steve. I work as a senior
+software engineer in the Xbox or
+
+9
+00:00:32,700 --> 00:00:37,170
+get Microsoft. I work in a
+little team is called. Let's not
+
+10
+00:00:37,170 --> 00:00:40,010
+so little anymore, but it's
+called ATG, where the Advanced
+
+11
+00:00:40,010 --> 00:00:45,011
+Technology Group. And our role
+in the organization is to help
+
+12
+00:00:45,011 --> 00:00:49,620
+game developers make the best
+use of the platform of Xbox.
+
+13
+00:00:50,240 --> 00:00:53,408
+And then specifically, I work in
+networking and multiplayer
+
+14
+00:00:53,408 --> 00:00:58,886
+systems. So. So
+yeah, I've titles are having
+
+15
+00:00:58,886 --> 00:01:02,582
+trouble or they need advice or
+they are behind this severely
+
+16
+00:01:02,582 --> 00:01:06,614
+behind and they can't get their
+stuff to work on our platform.
+
+17
+00:01:06,614 --> 00:01:10,982
+Our team is the one that helps
+them out and save the day.
+
+18
+00:01:11,750 --> 00:01:15,430
+Exactly on the. It's not as
+interesting on the networking
+
+19
+00:01:15,430 --> 00:01:19,478
+multiplayer side, but the on the
+graphics side. Those are the
+
+20
+00:01:19,478 --> 00:01:23,526
+guys that really help titles
+tune on our platform so they'll
+
+21
+00:01:23,526 --> 00:01:24,998
+be able to take.
+
+22
+00:01:25,750 --> 00:01:28,470
+Basically traces the games
+running, evaluate them, and
+
+23
+00:01:28,470 --> 00:01:32,550
+offer back tips that can help
+them run faster so they'll get
+
+24
+00:01:32,550 --> 00:01:36,290
+games to run at least in the
+previous generation. You know
+
+25
+00:01:36,290 --> 00:01:38,670
+all the way at 1080P instead of
+
+26
+00:01:38,670 --> 00:01:43,020
+only 900P. Things like that.
+So really our goal is to make
+
+27
+00:01:43,020 --> 00:01:47,076
+all the titles that run on
+Xbox the best they can be on
+
+28
+00:01:47,076 --> 00:01:50,196
+Xbox. I think that was our
+motto at one time.
+
+29
+00:01:51,820 --> 00:01:55,573
+OK, now, well, I think
+that answers the first
+
+30
+00:01:55,573 --> 00:01:58,909
+question of please tell
+us about your artwork.
+
+31
+00:02:01,350 --> 00:02:04,470
+Can you tell us a little bit
+about the industry that you're
+
+32
+00:02:04,470 --> 00:02:10,326
+working? So. I mean,
+as being at Microsoft, I've done
+
+33
+00:02:10,326 --> 00:02:14,670
+a lot of things in a lot of
+different areas, but most
+
+34
+00:02:14,670 --> 00:02:19,014
+recently we can just stay with
+video games industry so the Xbox
+
+35
+00:02:19,014 --> 00:02:22,272
+stuff is what I've been working
+on since 2013.
+
+36
+00:02:22,870 --> 00:02:24,530
+So the last seven years.
+
+37
+00:02:25,150 --> 00:02:28,350
+And mostly as a.
+
+38
+00:02:29,180 --> 00:02:34,180
+Is what Microsoft provides
+platforms and services for
+
+39
+00:02:34,180 --> 00:02:35,430
+game developers.
+
+40
+00:02:37,060 --> 00:02:41,464
+And see I mean, it is a fairly
+large industry, right? You've
+
+41
+00:02:41,464 --> 00:02:45,134
+got billions of dollars and
+millions of millions of gamers
+
+42
+00:02:45,134 --> 00:02:49,538
+across the across the world. And
+that's what we're trying to do.
+
+43
+00:02:49,538 --> 00:02:53,208
+We're trying to make things
+better and easier for gamers
+
+44
+00:02:53,208 --> 00:02:54,309
+across the entire.
+
+45
+00:02:55,230 --> 00:02:58,998
+I don't know panacea of the
+world. Good way of saying that,
+
+46
+00:02:58,998 --> 00:03:00,882
+but we want to make everybody.
+
+47
+00:03:01,400 --> 00:03:02,628
+Everybody's like he's here.
+
+48
+00:03:04,460 --> 00:03:09,122
+Is there any? I'm sorry, is what
+other kinds of work do you have
+
+49
+00:03:09,122 --> 00:03:10,787
+to do in your role?
+
+50
+00:03:11,340 --> 00:03:17,100
+So in my role, I'll do things
+like answer simple questions on
+
+51
+00:03:17,100 --> 00:03:19,020
+it. We have a.
+
+52
+00:03:19,590 --> 00:03:23,720
+Let's see that developer forum
+that specific for Xbox Partners.
+
+53
+00:03:24,340 --> 00:03:28,480
+And so if they have issues,
+that's one of the first places
+
+54
+00:03:28,480 --> 00:03:32,620
+they'll go, so I'll do a little
+time answering those, and those
+
+55
+00:03:32,620 --> 00:03:36,070
+can be from really simple
+questions like is this supposed
+
+56
+00:03:36,070 --> 00:03:40,210
+to work like this too? Hey,
+we're getting a crash in this
+
+57
+00:03:40,210 --> 00:03:44,350
+very strange situation. Can you
+help us figure that out? And so
+
+58
+00:03:44,350 --> 00:03:47,800
+I will investigate issues that
+have been reported by external
+
+59
+00:03:47,800 --> 00:03:51,595
+developers. I work directly with
+the platform team so the people
+
+60
+00:03:51,595 --> 00:03:54,700
+that actually, the ones that
+wrote all the code.
+
+61
+00:03:54,750 --> 00:03:59,190
+Like I work with them to get
+things figured out and resolve
+
+62
+00:03:59,190 --> 00:04:01,410
+bugs, find gaps in our our
+
+63
+00:04:01,410 --> 00:04:04,953
+solutions. I'm also developed
+samples and demonstrate best
+
+64
+00:04:04,953 --> 00:04:09,021
+practices for using the platform
+and our services. So like if you
+
+65
+00:04:09,021 --> 00:04:11,733
+want to know how to do
+matchmaking, multiplayer
+
+66
+00:04:11,733 --> 00:04:14,784
+matchmaking through Xbox Live,
+we have specific examples and
+
+67
+00:04:14,784 --> 00:04:18,852
+lots of documentation that I put
+together to help with that. And
+
+68
+00:04:18,852 --> 00:04:22,581
+then of course if people still
+have issues they can come
+
+69
+00:04:22,581 --> 00:04:23,598
+straight to us.
+
+70
+00:04:24,280 --> 00:04:28,780
+Because we do work straight not
+just from forums. We will also
+
+71
+00:04:28,780 --> 00:04:32,905
+engage via email lot more on
+teams lately over the phone,
+
+72
+00:04:32,905 --> 00:04:35,905
+video conferencing, but will
+also go straight to.
+
+73
+00:04:36,690 --> 00:04:40,290
+And sit on site with developers
+to help them get issues resolved
+
+74
+00:04:40,290 --> 00:04:43,590
+or to help them get their game
+working on Xbox is.
+
+75
+00:04:44,260 --> 00:04:47,872
+And I've I've done that several
+times. Which is it's kind of
+
+76
+00:04:47,872 --> 00:04:50,708
+fun. It's very busy though.
+
+77
+00:04:51,700 --> 00:04:57,563
+We also deliver content for what
+used to be in person
+
+78
+00:04:57,563 --> 00:05:01,794
+conferences. I don't know. We
+had to cancel the last few and
+
+79
+00:05:01,794 --> 00:05:04,842
+turn them into digital only and
+I don't know what the future
+
+80
+00:05:04,842 --> 00:05:07,890
+holds as far as those go, but we
+have several annual conferences.
+
+81
+00:05:08,530 --> 00:05:13,813
+Directed around Xbox developers
+in gaming and we provide
+
+82
+00:05:13,813 --> 00:05:17,060
+educational. Training and.
+
+83
+00:05:17,710 --> 00:05:20,626
+However, there you know Doug,
+discussion sessions and Whatnot
+
+84
+00:05:20,626 --> 00:05:24,514
+where people actually come out
+and and listen to us talk, which
+
+85
+00:05:24,514 --> 00:05:26,134
+is just kind of fun.
+
+86
+00:05:27,650 --> 00:05:30,540
+I think that covers almost
+everything I do right now.
+
+87
+00:05:31,120 --> 00:05:33,514
+Think that also covers the
+different people that you
+
+88
+00:05:33,514 --> 00:05:35,376
+interact with in your job,
+wouldn't it?
+
+89
+00:05:36,610 --> 00:05:41,118
+Yes, so I mean I do a lot of
+different things as you could
+
+90
+00:05:41,118 --> 00:05:44,660
+tell right? And those have
+different people I work with, so
+
+91
+00:05:44,660 --> 00:05:48,202
+when we're developing new
+samples we want them to have a
+
+92
+00:05:48,202 --> 00:05:51,422
+consistent look and feel. So we
+actually have designers, graphic
+
+93
+00:05:51,422 --> 00:05:55,286
+designers that help us design
+the UI flows and figure out what
+
+94
+00:05:55,286 --> 00:05:57,218
+the scenarios that we want to
+
+95
+00:05:57,218 --> 00:06:01,513
+show. Program managers who
+actually are the we call them
+
+96
+00:06:01,513 --> 00:06:05,440
+the butt on the line. So the
+people that actually own
+
+97
+00:06:05,440 --> 00:06:08,653
+features that are responsible
+for making sure that they're
+
+98
+00:06:08,653 --> 00:06:11,866
+status distract correctly that
+they're doing the right thing.
+
+99
+00:06:12,660 --> 00:06:15,594
+All that work other software
+developers obviously, and then
+
+100
+00:06:15,594 --> 00:06:19,832
+we have another special type of
+person in the Xbox Org that we
+
+101
+00:06:19,832 --> 00:06:23,092
+call developer account managers
+and these are the people that
+
+102
+00:06:23,092 --> 00:06:25,700
+actually own the relationship
+with the different publishers
+
+103
+00:06:25,700 --> 00:06:29,286
+and Whatnot. So we have one
+person that owns Electronic Arts
+
+104
+00:06:29,286 --> 00:06:33,198
+and so when Electronic Arts has
+any sort of problems, they need
+
+105
+00:06:33,198 --> 00:06:36,784
+to do something they want to ask
+about future plans. Anything
+
+106
+00:06:36,784 --> 00:06:40,370
+related to this? They talked
+their damn and then their damn
+
+107
+00:06:40,370 --> 00:06:43,630
+will be the one that often
+Contacts us with specific
+
+108
+00:06:43,630 --> 00:06:47,495
+issues. Or other problems they
+might be having, or if they just
+
+109
+00:06:47,495 --> 00:06:49,385
+want advice on things, runs the
+
+110
+00:06:49,385 --> 00:06:54,580
+gamut. And then those roles are
+internal people. Then of course
+
+111
+00:06:54,580 --> 00:06:58,490
+externals, which I think falls
+more under your clients, yeah?
+
+112
+00:07:00,170 --> 00:07:02,290
+Alright um.
+
+113
+00:07:03,340 --> 00:07:07,630
+You can you tell us about
+your interactions with other
+
+114
+00:07:07,630 --> 00:07:08,488
+IT professionals.
+
+115
+00:07:10,210 --> 00:07:14,788
+I wasn't quite sure what you
+mean by this, so I mean I have.
+
+116
+00:07:15,490 --> 00:07:19,252
+There's five people I might
+immediate team or my peers, and
+
+117
+00:07:19,252 --> 00:07:21,304
+we all basically work on the
+
+118
+00:07:21,304 --> 00:07:26,620
+same thing. Then we roll up.
+There's a bunch of teams like
+
+119
+00:07:26,620 --> 00:07:31,638
+mine that take on the different
+areas of Xbox. So you add audio
+
+120
+00:07:31,638 --> 00:07:33,182
+graphics. Ours is networking.
+
+121
+00:07:33,190 --> 00:07:37,030
+Systems and CPU and things like
+that, but then of course you
+
+122
+00:07:37,030 --> 00:07:40,550
+have the whole platform side of
+things where the guys that
+
+123
+00:07:40,550 --> 00:07:44,390
+actually write the OS they write
+the special Xbox layers on top
+
+124
+00:07:44,390 --> 00:07:46,310
+of things and we interact with
+
+125
+00:07:46,310 --> 00:07:51,058
+them quite often. So you
+wouldn't have much interactions
+
+126
+00:07:51,058 --> 00:07:56,371
+with other club with the clients
+directly or investors, I would
+
+127
+00:07:56,371 --> 00:08:02,830
+say. So most of the work
+I do is direct clients.
+
+128
+00:08:03,400 --> 00:08:07,252
+So either through a forum,
+through email, through teams.
+
+129
+00:08:07,820 --> 00:08:11,015
+You know, up and up and up to on
+
+130
+00:08:11,015 --> 00:08:14,940
+site visits. Yeah.
+
+131
+00:08:17,040 --> 00:08:20,650
+Yeah, but some of that would be
+facilitated through their
+
+132
+00:08:20,650 --> 00:08:26,065
+clients DM as well. Yeah, so the
+the DMS will will set up what we
+
+133
+00:08:26,065 --> 00:08:30,036
+call an engagement. So if
+there's a real problem we need
+
+134
+00:08:30,036 --> 00:08:32,202
+to set aside time to actually.
+
+135
+00:08:32,210 --> 00:08:36,172
+It's going to take more than a
+day or so to look at this.
+
+136
+00:08:36,172 --> 00:08:39,002
+They'll set up what's called an
+engagement, and then, depending
+
+137
+00:08:39,002 --> 00:08:42,398
+on the level of that and then
+other factors like, where are
+
+138
+00:08:42,398 --> 00:08:44,276
+they located physically?
+Travel restrictions, things
+
+139
+00:08:44,276 --> 00:08:47,928
+like that. So if there's a
+developer that's just down the
+
+140
+00:08:47,928 --> 00:08:52,244
+street and there are some that
+are like that, we will just go
+
+141
+00:08:52,244 --> 00:08:53,572
+there 'cause it's easier.
+
+142
+00:08:54,780 --> 00:08:58,344
+Other times, yeah, we can do
+things over the phone and over
+
+143
+00:08:58,344 --> 00:09:01,611
+email and that that actually
+works out fairly well and it's
+
+144
+00:09:01,611 --> 00:09:05,769
+nice 'cause it has a paper trail
+so we can go back and reference
+
+145
+00:09:05,769 --> 00:09:09,333
+this stuff again. So anytime we
+go and we solve problems, we
+
+146
+00:09:09,333 --> 00:09:12,006
+figure something out. We have
+this big knowledge base.
+
+147
+00:09:12,020 --> 00:09:15,265
+It's really a OneNote now. We
+stuck all this information and
+
+148
+00:09:15,265 --> 00:09:17,625
+so we can go back and search for
+
+149
+00:09:17,625 --> 00:09:22,998
+it again. Sometimes the easiest
+tools are the best tools.
+
+150
+00:09:23,000 --> 00:09:28,026
+Think it So what would you find
+that you spend the most time on
+
+151
+00:09:28,026 --> 00:09:32,334
+in your role at would be the
+networking side of things or
+
+152
+00:09:32,334 --> 00:09:33,770
+more solving client issues?
+
+153
+00:09:34,560 --> 00:09:39,040
+That is almost like a sine wave,
+right? We will go from where we
+
+154
+00:09:39,040 --> 00:09:42,560
+are doing nothing but working
+with customers and right now is
+
+155
+00:09:42,560 --> 00:09:46,720
+one of those times we have the
+new launch of the console coming
+
+156
+00:09:46,720 --> 00:09:51,840
+up in a month and we have a ton
+of titles that are all trying to
+
+157
+00:09:51,840 --> 00:09:55,360
+certify they're trying to get
+their stuff updated to the new
+
+158
+00:09:55,360 --> 00:09:59,200
+platform work so there's a lot
+of people all working in with
+
+159
+00:09:59,200 --> 00:10:02,720
+new things all at the same time,
+so we're quite busy.
+
+160
+00:10:02,800 --> 00:10:05,194
+Answering questions and helping
+people figure out that how
+
+161
+00:10:05,194 --> 00:10:07,854
+things are supposed to work.
+These days they were already
+
+162
+00:10:07,854 --> 00:10:11,046
+started about that new Xbox. I
+know it's great, isn't it? And
+
+163
+00:10:11,046 --> 00:10:14,504
+then on the other side of that,
+so you'll have these big lulls
+
+164
+00:10:14,504 --> 00:10:17,164
+where people just they've become
+familiar with the platforms and
+
+165
+00:10:17,164 --> 00:10:19,824
+the systems. They don't have
+issues as much anymore where
+
+166
+00:10:19,824 --> 00:10:21,686
+there's just not a lot of work
+
+167
+00:10:21,686 --> 00:10:26,100
+going on. 'cause you know it is
+somewhat cyclical as to when
+
+168
+00:10:26,100 --> 00:10:28,692
+software or dog software
+specifically, but games are
+
+169
+00:10:28,692 --> 00:10:33,878
+released. During those times we
+get to work on what we think of
+
+170
+00:10:33,878 --> 00:10:37,418
+is more forward looking items,
+so we will have incubation
+
+171
+00:10:37,418 --> 00:10:41,312
+projects for new tools, new
+ideas, new services, as well as
+
+172
+00:10:41,312 --> 00:10:45,206
+being able to do work where
+we're building up new samples
+
+173
+00:10:45,206 --> 00:10:48,980
+new. I'm trying to think new
+middleware projects. So one
+
+174
+00:10:48,980 --> 00:10:54,300
+thing that we don't offer a lot
+of his middleware and by that I
+
+175
+00:10:54,300 --> 00:10:56,580
+mean things like the unity and
+
+176
+00:10:56,580 --> 00:11:00,154
+unreal engine's. A lot of
+developers go to those because
+
+177
+00:11:00,154 --> 00:11:05,374
+it it's pre cat has a lot of
+stuff so we work with epic and
+
+178
+00:11:05,374 --> 00:11:08,854
+unity to have Xbox platform
+support built in for everybody
+
+179
+00:11:08,854 --> 00:11:13,030
+and so sometimes we will do
+things like that. In fact, just
+
+180
+00:11:13,030 --> 00:11:16,858
+recently one of my colleagues
+and I finished adding a new
+
+181
+00:11:16,858 --> 00:11:20,686
+platform piece that's called
+play fat party on Xbox which is
+
+182
+00:11:20,686 --> 00:11:23,818
+a pre canned voice, an
+networking solution an now
+
+183
+00:11:23,818 --> 00:11:27,646
+that's something that you can
+choose to use if you use.
+
+184
+00:11:27,650 --> 00:11:31,511
+In real you gonna say Yep, I
+wanna use that piece. You check
+
+185
+00:11:31,511 --> 00:11:34,481
+the box and basically it just
+automatically starts using it
+
+186
+00:11:34,481 --> 00:11:38,045
+'cause it's built into their
+engine. So we do some of that
+
+187
+00:11:38,045 --> 00:11:41,609
+work too and that's a lot of
+fun, right? That's when you're
+
+188
+00:11:41,609 --> 00:11:44,282
+spending more time coding then
+troubleshooting and other times
+
+189
+00:11:44,282 --> 00:11:47,252
+it's more troubleshooting coding
+since it's actually one of the
+
+190
+00:11:47,252 --> 00:11:49,906
+things I like. It comes up
+
+191
+00:11:49,906 --> 00:11:54,946
+later. I think a lot of us would
+like to spend more time coding
+
+192
+00:11:54,946 --> 00:11:58,048
+than dealing with some of the
+clients. Yeah, there, it's it's
+
+193
+00:11:58,048 --> 00:12:01,714
+really hard. I mean, I've worked
+in a lot of different types of
+
+194
+00:12:01,714 --> 00:12:04,816
+groups around Microsoft and no
+matter what, there is never a
+
+195
+00:12:04,816 --> 00:12:07,636
+job where you're just spending
+all your time writing code.
+
+196
+00:12:07,636 --> 00:12:11,020
+There's just too many other
+things that have to be done as
+
+197
+00:12:11,020 --> 00:12:14,404
+part of the process of shipping
+software that you can't get away
+
+198
+00:12:14,404 --> 00:12:20,680
+from. What aspects of your work
+would you find most challenging?
+
+199
+00:12:21,650 --> 00:12:26,105
+So what I find personally most
+challenging often is.
+
+200
+00:12:26,610 --> 00:12:28,661
+Trying to understand each
+different developers actual
+
+201
+00:12:28,661 --> 00:12:32,763
+needs so a lot of times they'll
+come and say Hey I'm trying to
+
+202
+00:12:32,763 --> 00:12:36,572
+do this and it's not working
+right. Can you tell me what the
+
+203
+00:12:36,572 --> 00:12:39,795
+problem is? And well, yes, I
+could tell you specifically why
+
+204
+00:12:39,795 --> 00:12:43,311
+that isn't working, but this
+seems like it's a symptom of a
+
+205
+00:12:43,311 --> 00:12:46,827
+larger issue, right? You may be
+doing something at a more meta
+
+206
+00:12:46,827 --> 00:12:50,050
+level. That's incorrect as far
+as the pattern that you should
+
+207
+00:12:50,050 --> 00:12:55,028
+follow. So we really need to
+spend the time or you know to
+
+208
+00:12:55,028 --> 00:12:58,812
+understand what the goal is.
+What are they trying to achieve
+
+209
+00:12:58,812 --> 00:13:02,940
+and what limitations they have
+so that we can then find the
+
+210
+00:13:02,940 --> 00:13:07,412
+right way to solve that problem
+for them or to help them solve
+
+211
+00:13:07,412 --> 00:13:11,196
+the problem. And then of course
+you know things sometimes that
+
+212
+00:13:11,196 --> 00:13:15,324
+works out really well and
+sometimes you go on and on and
+
+213
+00:13:15,324 --> 00:13:18,764
+being a global product sometimes
+is challenging just with the
+
+214
+00:13:18,764 --> 00:13:21,860
+translations. So some things we
+have where I'm saying.
+
+215
+00:13:21,930 --> 00:13:25,074
+Trying to say like when I work
+with the Japanese developer, we
+
+216
+00:13:25,074 --> 00:13:27,694
+have an intermediary that
+translates back and forth for us
+
+217
+00:13:27,694 --> 00:13:30,576
+so well like all type of
+response, they'll go in and
+
+218
+00:13:30,576 --> 00:13:33,196
+translate it. The other person
+will then type their response.
+
+219
+00:13:33,196 --> 00:13:35,816
+That'll get translated back and
+it's kind of interesting, but
+
+220
+00:13:35,816 --> 00:13:39,222
+you can lose a lot easier. That
+looks a bit in translation, so
+
+221
+00:13:39,222 --> 00:13:42,104
+yeah, it does make it take
+longer, and sometimes you just
+
+222
+00:13:42,104 --> 00:13:44,986
+you don't. It doesn't come out
+in translation exactly. You do
+
+223
+00:13:44,986 --> 00:13:48,916
+lose what it is. I had one on
+from like, oh, I thought I saw
+
+224
+00:13:48,916 --> 00:13:52,060
+that they were asking for, but
+then they came back and asked.
+
+225
+00:13:52,120 --> 00:13:55,180
+Yes, it came back a slightly
+different way. Like oh OK, I
+
+226
+00:13:55,180 --> 00:13:58,240
+guess they meant this other
+thing and so that can be a
+
+227
+00:13:58,240 --> 00:14:03,263
+challenge. Um? But Secondly, the
+with the complexity of all the
+
+228
+00:14:03,263 --> 00:14:06,750
+systems and how they have to
+work together like you wouldn't
+
+229
+00:14:06,750 --> 00:14:10,237
+believe how many things are
+involved from you. Sit on your
+
+230
+00:14:10,237 --> 00:14:14,675
+Xbox sending an invite to one of
+your friends to play a game and
+
+231
+00:14:14,675 --> 00:14:19,113
+for them to receive it and join
+and be able to play. There are
+
+232
+00:14:19,113 --> 00:14:22,600
+many many steps and different
+systems that all the things flow
+
+233
+00:14:22,600 --> 00:14:26,800
+through. Sometimes it is really
+hard to find a root cause,
+
+234
+00:14:26,800 --> 00:14:30,331
+right? You'll say, Oh, I have
+this problem. It's it's showing
+
+235
+00:14:30,331 --> 00:14:33,862
+up. Because of this, the user
+won't sign in correctly, but
+
+236
+00:14:33,862 --> 00:14:36,751
+it's not actually assigning
+problem, but it actually turns
+
+237
+00:14:36,751 --> 00:14:40,924
+out that that user is part of
+this title group that has this
+
+238
+00:14:40,924 --> 00:14:44,134
+special properties set that only
+works in this other situation,
+
+239
+00:14:44,134 --> 00:14:47,665
+right? And it takes 510 people
+sometimes on an email thread
+
+240
+00:14:47,665 --> 00:14:51,196
+just to figure out what the
+what's supposed to happen, what
+
+241
+00:14:51,196 --> 00:14:53,443
+is happening and how we can fix
+
+242
+00:14:53,443 --> 00:14:58,610
+it. I'm glad that showed up. And
+to be fair a lot of times fixing
+
+243
+00:14:58,610 --> 00:15:02,060
+it means telling the title
+developer that they were doing
+
+244
+00:15:02,060 --> 00:15:05,855
+something wrong, so it's not
+always our fault, but I usually
+
+245
+00:15:05,855 --> 00:15:10,045
+take that. Angle first that I
+take the assumption that it's
+
+246
+00:15:10,045 --> 00:15:13,620
+something that our stuff is
+doing wrong and then let people
+
+247
+00:15:13,620 --> 00:15:16,545
+discover that it's not
+necessarily the case. I think
+
+248
+00:15:16,545 --> 00:15:20,120
+the end users will just blame
+you guys anyway, wouldn't I?
+
+249
+00:15:20,120 --> 00:15:23,370
+Yeah yeah, sometimes it's really
+hard to read Twitter comments
+
+250
+00:15:23,370 --> 00:15:25,970
+because the lack of actual
+understanding is frustrating
+
+251
+00:15:25,970 --> 00:15:28,245
+when you read some of the things
+
+252
+00:15:28,245 --> 00:15:31,660
+I say. Yeah.
+
+253
+00:15:32,180 --> 00:15:36,701
+Finally, can you show finally
+for this group of questions? Can
+
+254
+00:15:36,701 --> 00:15:41,222
+you share an example of your
+work? The best captures the
+
+255
+00:15:41,222 --> 00:15:45,332
+essence of the IT industry or
+your role they suppose.
+
+256
+00:15:46,010 --> 00:15:51,008
+Yes, So what is the essence I've
+when I thought about it, I came
+
+257
+00:15:51,008 --> 00:15:54,221
+up with the definition that was
+it's basically utilizing
+
+258
+00:15:54,221 --> 00:15:58,862
+technology to accomplish tasks
+or to get work done. And if I go
+
+259
+00:15:58,862 --> 00:16:03,503
+by that I would say that when we
+were developing our samples and
+
+260
+00:16:03,503 --> 00:16:07,787
+it sound well I didn't really
+giving you the scope of what
+
+261
+00:16:07,787 --> 00:16:11,714
+samples are. Samples do range
+from like one code file that
+
+262
+00:16:11,714 --> 00:16:15,998
+just does something really
+simple to a full game. We have a
+
+263
+00:16:15,998 --> 00:16:20,282
+full game. That example is a
+sample for a bunch of different
+
+264
+00:16:20,282 --> 00:16:23,846
+things. Which is a lot of fun to
+
+265
+00:16:23,846 --> 00:16:28,103
+work on. So by doing that and
+having those out there, when we
+
+266
+00:16:28,103 --> 00:16:31,436
+developed them, we developed in
+this that they would pass our
+
+267
+00:16:31,436 --> 00:16:34,163
+own certifications that they
+follow all our own best
+
+268
+00:16:34,163 --> 00:16:38,102
+practices so that it's a working
+example of the right way to do
+
+269
+00:16:38,102 --> 00:16:42,041
+it. And nice thing about doing
+that is that a lot of developers
+
+270
+00:16:42,041 --> 00:16:45,374
+will just take that code
+directly and they'll make it fit
+
+271
+00:16:45,374 --> 00:16:49,313
+in their engine so we know then
+with when they take that they're
+
+272
+00:16:49,313 --> 00:16:52,949
+taking code that we've developed
+and tested and we know will pass
+
+273
+00:16:52,949 --> 00:16:54,161
+certification and they're just
+
+274
+00:16:54,161 --> 00:16:57,607
+using it. So it's it's kind of
+win win and I think that's
+
+275
+00:16:57,607 --> 00:16:59,663
+actually one of those
+synergistic things where you
+
+276
+00:16:59,663 --> 00:17:02,490
+gain more out of the end
+results. Again, with the effort
+
+277
+00:17:02,490 --> 00:17:04,032
+that was put into it initially.
+
+278
+00:17:05,860 --> 00:17:09,318
+It also makes support easier for
+it as well. I'm sorry you said
+
+279
+00:17:09,318 --> 00:17:12,510
+again, will also make support
+easy for it as well if they're
+
+280
+00:17:12,510 --> 00:17:15,702
+using your examples. So yes,
+yeah, in fact, that's one of my
+
+281
+00:17:15,702 --> 00:17:18,894
+favourites. Goto is hey, I'm
+trying to use chat and my chat
+
+282
+00:17:18,894 --> 00:17:21,820
+doesn't work in this situation
+like well. Can you load the
+
+283
+00:17:21,820 --> 00:17:25,012
+sample and see if the sample has
+the same problem right? The
+
+284
+00:17:25,012 --> 00:17:27,406
+samples the same problem then?
+We're probably looking at
+
+285
+00:17:27,406 --> 00:17:30,066
+something had changed or broken
+the platform and we can
+
+286
+00:17:30,066 --> 00:17:33,524
+investigate that way if it works
+in the sample then we can narrow
+
+287
+00:17:33,524 --> 00:17:36,982
+it down to OK. Well, it must be
+something in the way you're
+
+288
+00:17:36,982 --> 00:17:42,318
+calling the code. Let's focus on
+that work and in so yes it does.
+
+289
+00:17:42,318 --> 00:17:44,358
+It does help a lot.
+
+290
+00:17:45,180 --> 00:17:49,944
+I'm going to leave the last few
+questions for Mattie to answer
+
+291
+00:17:49,944 --> 00:17:54,311
+up to ask and go from there.
+Matt, Are you ready?
+
+292
+00:17:55,230 --> 00:17:59,766
+Hi, I'm just for the sake of
+simplicity when it comes to
+
+293
+00:17:59,766 --> 00:18:03,924
+audio, I'll just ask the next
+few questions which came from
+
+294
+00:18:03,924 --> 00:18:09,216
+one from each of us. So Daniel
+wanted to know do you work from
+
+295
+00:18:09,216 --> 00:18:14,508
+home at all and if so do you
+prefer it to working in the
+
+296
+00:18:14,508 --> 00:18:19,422
+office? Or if not, would you
+like to work from home at least
+
+297
+00:18:19,422 --> 00:18:23,202
+some days? Yes, so current
+situations aside, I had been
+
+298
+00:18:23,202 --> 00:18:25,092
+working about 5050 between home
+
+299
+00:18:25,092 --> 00:18:29,570
+and office. And I found that to
+be a really good balance for me.
+
+300
+00:18:29,570 --> 00:18:32,980
+'cause I do enjoy the comfort
+and convenience of being at
+
+301
+00:18:32,980 --> 00:18:36,700
+home, right? I can just get up.
+I have everything around me.
+
+302
+00:18:36,700 --> 00:18:39,800
+It's it's simple, but there's
+times when I'm working with
+
+303
+00:18:39,800 --> 00:18:43,210
+people directly or we're trying
+to troubleshoot issues or I need
+
+304
+00:18:43,210 --> 00:18:46,930
+more equipment than I have
+rights at work. I have a stack
+
+305
+00:18:46,930 --> 00:18:50,340
+of Xbox Dev kits that can
+utilized in many different ways
+
+306
+00:18:50,340 --> 00:18:53,750
+to do things at home. I only
+have two and it's.
+
+307
+00:18:54,260 --> 00:18:58,316
+You know I can't do as many
+things and it's more difficult,
+
+308
+00:18:58,316 --> 00:19:02,372
+more time consuming to do
+certain things, but I do like to
+
+309
+00:19:02,372 --> 00:19:06,428
+work from home and I will keep
+when we do openoffice backup.
+
+310
+00:19:06,428 --> 00:19:08,118
+Stick to our 5050 style.
+
+311
+00:19:08,700 --> 00:19:13,050
+That's that's a surprising
+answer, because I guess we might
+
+312
+00:19:13,050 --> 00:19:17,400
+have thought you would have
+worked mainly in the office
+
+313
+00:19:17,400 --> 00:19:21,546
+before covid. But yeah, that
+does sound like a lovely
+
+314
+00:19:21,546 --> 00:19:25,190
+balance. Um, so Adam wanted to
+know what aspect of your work do
+
+315
+00:19:25,190 --> 00:19:26,810
+you find most enjoyable and why?
+
+316
+00:19:27,740 --> 00:19:32,598
+The things I enjoy the most is
+when I provide a solution or an
+
+317
+00:19:32,598 --> 00:19:36,762
+answer to somebody and they come
+back with oh thank you this
+
+318
+00:19:36,762 --> 00:19:40,926
+works. I've been working this
+forever and I could beat my head
+
+319
+00:19:40,926 --> 00:19:45,090
+over and you solve my problem.
+Thank you so much, right? So
+
+320
+00:19:45,090 --> 00:19:46,825
+when I help people solve
+
+321
+00:19:46,825 --> 00:19:50,831
+problems. That's just that's my
+favorite thing. That's what I
+
+322
+00:19:50,831 --> 00:19:54,659
+enjoy the end up getting the
+most enjoyment out of. I mean,
+
+323
+00:19:54,659 --> 00:19:57,211
+there's personal satisfaction
+with doing your own projects,
+
+324
+00:19:57,211 --> 00:20:00,401
+and these things like that, but
+when you, when somebody
+
+325
+00:20:00,401 --> 00:20:03,910
+physically tells you hey, you
+solve my problem and helped me,
+
+326
+00:20:03,910 --> 00:20:08,057
+I really like that. Yeah, that
+must be a lovely feeling and I
+
+327
+00:20:08,057 --> 00:20:12,204
+think we can relate when we're
+able to help someone out. And I
+
+328
+00:20:12,204 --> 00:20:16,351
+also really enjoy the fact that
+my job is so eclectic at times
+
+329
+00:20:16,351 --> 00:20:20,179
+that I'm not in the same rut of
+doing the same things.
+
+330
+00:20:20,290 --> 00:20:25,350
+Each each task each problems a
+new challenge, almost, so it's
+
+331
+00:20:25,350 --> 00:20:27,190
+it keeps it interesting.
+
+332
+00:20:27,800 --> 00:20:30,750
+So you like the variability?
+
+333
+00:20:30,750 --> 00:20:35,456
+Oh Uh, so my question was, what
+advice would you give to someone
+
+334
+00:20:35,456 --> 00:20:38,972
+who is just beginning to study
+or work in the IT industry?
+
+335
+00:20:39,690 --> 00:20:45,934
+So it's gone a long way for me
+is to find areas that you're
+
+336
+00:20:45,934 --> 00:20:48,164
+really interested in and then.
+
+337
+00:20:48,920 --> 00:20:52,406
+Kind of saturate yourself
+with that.
+
+338
+00:20:53,470 --> 00:20:57,778
+And really, the biggest the
+biggest thing you can do to help
+
+339
+00:20:57,778 --> 00:21:00,291
+yourself is to do it hands on.
+
+340
+00:21:01,030 --> 00:21:04,954
+So if there's if you think that
+you know configuring and running
+
+341
+00:21:04,954 --> 00:21:07,243
+server farms is going to be fun.
+
+342
+00:21:08,390 --> 00:21:12,836
+Go out to Azure or someplace
+where you can get free VM space
+
+343
+00:21:12,836 --> 00:21:16,940
+for tinkering and do it. Do it
+over and over again. Try
+
+344
+00:21:16,940 --> 00:21:20,018
+different things, break it
+because you will break it.
+
+345
+00:21:20,018 --> 00:21:23,780
+Figure out what you did wrong.
+Basically. Now give yourself a
+
+346
+00:21:23,780 --> 00:21:27,884
+sandbox to play in because that
+immersion is what, at least for
+
+347
+00:21:27,884 --> 00:21:31,554
+me. Makes everything else come
+together more easily.
+
+348
+00:21:32,870 --> 00:21:37,595
+Sixense Oh yeah, so um practiced
+I just study.
+
+349
+00:21:38,420 --> 00:21:44,430
+Right yes. Anne Shannon wanted
+to know, do you find it hard
+
+350
+00:21:44,430 --> 00:21:47,265
+keeping skills slash learning
+up-to-date? So there's a That's
+
+351
+00:21:47,265 --> 00:21:51,675
+a yes or no for me since we are
+providing we is Xbox, Microsoft
+
+352
+00:21:51,675 --> 00:21:54,825
+provide new services and new
+technologies all the time. It's
+
+353
+00:21:54,825 --> 00:21:59,550
+just kind of part of my job to
+learn and know that is that are
+
+354
+00:21:59,550 --> 00:22:02,385
+being developed and has we're
+supporting them and helping
+
+355
+00:22:02,385 --> 00:22:04,275
+other people figure out. How do
+
+356
+00:22:04,275 --> 00:22:09,372
+we use them. But I don't have
+alot of time to invest in skills
+
+357
+00:22:09,372 --> 00:22:14,020
+outside of my job right now. So
+if I decided I wanted to learn
+
+358
+00:22:14,020 --> 00:22:17,672
+something that's unrelated to my
+job, I would really have to
+
+359
+00:22:17,672 --> 00:22:19,996
+spend most of my private time to
+
+360
+00:22:19,996 --> 00:22:24,290
+do it and. It's just I mean, if
+it's something you really love
+
+361
+00:22:24,290 --> 00:22:27,095
+then great, but it's harder to
+invest in something that you
+
+362
+00:22:27,095 --> 00:22:30,410
+don't know will pay off when
+it's taking up that much of your
+
+363
+00:22:30,410 --> 00:22:35,878
+time. In my situation so it can
+be hard, but it can also.
+
+364
+00:22:36,560 --> 00:22:40,520
+You know, if you put yourself in
+the right position, they didn't
+
+365
+00:22:40,520 --> 00:22:44,150
+just come along with the
+territory. Do you find that's a
+
+366
+00:22:44,150 --> 00:22:47,690
+result of. The release date
+coming up and covered or is is
+
+367
+00:22:47,690 --> 00:22:51,134
+that always the way with your
+job over the past seven years?
+
+368
+00:22:52,080 --> 00:22:53,290
+Ah.
+
+369
+00:22:54,420 --> 00:22:59,016
+It's it's been more
+lately, obviously.
+
+370
+00:23:01,090 --> 00:23:04,275
+It's the way I do things, like
+when I find something that I'm
+
+371
+00:23:04,275 --> 00:23:07,705
+interested in and I want to do
+it. I'm just going to do it
+
+372
+00:23:07,705 --> 00:23:11,135
+right now. That's why I choose
+to spend my free time on if that
+
+373
+00:23:11,135 --> 00:23:13,340
+happens to be learning new
+technology, then that's that
+
+374
+00:23:13,340 --> 00:23:16,770
+works out. In that case alot of
+times though, I tend to want to
+
+375
+00:23:16,770 --> 00:23:21,233
+go back and. Do things that I
+would find more relaxing I
+
+376
+00:23:21,233 --> 00:23:24,303
+guess, so doing more retro
+things, going back and playing
+
+377
+00:23:24,303 --> 00:23:27,680
+on the old Apple that ers 80s
+old game console programming.
+
+378
+00:23:28,240 --> 00:23:31,260
+You know something simplistic.
+It doesn't have to go anywhere.
+
+379
+00:23:31,260 --> 00:23:35,186
+It may or may not help you in
+the in what you're currently
+
+380
+00:23:35,186 --> 00:23:36,998
+doing, but it's it does still
+
+381
+00:23:36,998 --> 00:23:40,055
+help you. Or if it helps you
+
+382
+00:23:40,055 --> 00:23:45,214
+bet. Yeah, you keep using your
+your skills fresh. I guess the
+
+383
+00:23:45,214 --> 00:23:49,328
+more you do different things,
+the easier it is to switch
+
+384
+00:23:49,328 --> 00:23:54,100
+between things. And, Um, George
+wanted to know what do you think
+
+385
+00:23:54,100 --> 00:23:57,928
+are the most important skills
+and attributes for a job like
+
+386
+00:23:57,928 --> 00:24:03,320
+this? I'm sorry that means, like
+my job specifically, then we're
+
+387
+00:24:03,320 --> 00:24:06,148
+looking at having strong
+troubleshooting skills, good
+
+388
+00:24:06,148 --> 00:24:09,380
+knowledge of relevant
+technologies, so most games are
+
+389
+00:24:09,380 --> 00:24:13,824
+written in C++. If you don't
+know C++ very well, you'll
+
+390
+00:24:13,824 --> 00:24:17,460
+probably have a hard time
+understanding why certain things
+
+391
+00:24:17,460 --> 00:24:21,500
+do certain things because you're
+not feeling with what side
+
+392
+00:24:21,500 --> 00:24:25,944
+effects are or how memory is
+treated and what not. Equally,
+
+393
+00:24:25,944 --> 00:24:27,964
+if you're not familiar with
+
+394
+00:24:27,964 --> 00:24:32,120
+rest. APIs over the web.
+You could easily make a lot
+
+395
+00:24:32,120 --> 00:24:32,858
+of mistakes.
+
+396
+00:24:34,090 --> 00:24:37,370
+So basically, uh, patients
+
+397
+00:24:37,370 --> 00:24:42,588
+and. The dedication to be able
+to complete tasks. That's one of
+
+398
+00:24:42,588 --> 00:24:46,764
+the hardest things I find
+between myself and a lot of my
+
+399
+00:24:46,764 --> 00:24:50,244
+programmer friends is we all
+have a million side projects
+
+400
+00:24:50,244 --> 00:24:51,636
+that never get done.
+
+401
+00:24:51,650 --> 00:24:55,106
+If you can actually sit down and
+make yourself go through the
+
+402
+00:24:55,106 --> 00:24:57,986
+process of doing everything to
+completeness, that just makes it
+
+403
+00:24:57,986 --> 00:25:01,154
+makes it easier because you've
+practiced it and your life will
+
+404
+00:25:01,154 --> 00:25:04,322
+be better anyway, because you
+won't have things coming back to
+
+405
+00:25:04,322 --> 00:25:05,474
+haunt you as much.
+
+406
+00:25:06,540 --> 00:25:10,170
+So you'd say dedication and.
+
+407
+00:25:10,810 --> 00:25:12,890
+A good understanding of.
+
+408
+00:25:13,430 --> 00:25:16,920
+The skills that they the job
+requires initially and are
+
+409
+00:25:16,920 --> 00:25:22,116
+going. And patient was another
+good one, sometimes it's.
+
+410
+00:25:22,650 --> 00:25:25,950
+It's really hard. You'll and one
+of my colleagues was having this
+
+411
+00:25:25,950 --> 00:25:28,700
+issue today where he just
+couldn't get a problem that
+
+412
+00:25:28,700 --> 00:25:31,450
+somebody reported to reproduce
+even with their own code. And
+
+413
+00:25:31,450 --> 00:25:35,300
+he's like I just don't know what
+to do anymore. I just don't. I'm
+
+414
+00:25:35,300 --> 00:25:39,150
+stuck. Like, Well, let's just
+keep going through it and you
+
+415
+00:25:39,150 --> 00:25:42,798
+just kind of keep trucking and
+eventually things pop up or you
+
+416
+00:25:42,798 --> 00:25:46,142
+figure something out. But if you
+put it aside or you.
+
+417
+00:25:46,800 --> 00:25:51,084
+Yeah, you kind of give up on it
+then you obviously can't do that
+
+418
+00:25:51,084 --> 00:25:53,838
+too much when you're getting
+paid for it, but.
+
+419
+00:25:53,840 --> 00:25:58,152
+Anne helps overall, yeah, and
+Sam wanted to know what new,
+
+420
+00:25:58,152 --> 00:26:02,856
+what new skills do you think
+will be in demand in the
+
+421
+00:26:02,856 --> 00:26:04,424
+industry in five years?
+
+422
+00:26:05,300 --> 00:26:09,566
+Oh well, the big future
+investments these days are
+
+423
+00:26:09,566 --> 00:26:13,358
+around artificial intelligence,
+machine learning and big data
+
+424
+00:26:13,358 --> 00:26:17,946
+processing. In games, especially
+machine learning, and not until
+
+425
+00:26:17,946 --> 00:26:22,313
+just for games, as in like
+gameplay, but systems that are
+
+426
+00:26:22,313 --> 00:26:27,871
+in used to make games. So I mean
+a game is really about moving
+
+427
+00:26:27,871 --> 00:26:32,238
+and manipulating large chunks of
+data over and over and over
+
+428
+00:26:32,238 --> 00:26:37,260
+again. So if you can have a
+computer that can use a machine
+
+429
+00:26:37,260 --> 00:26:41,680
+learning Type, 2 minute can look
+and evaluate. Hey, I seem to be
+
+430
+00:26:41,680 --> 00:26:45,080
+loading these chunks from this
+specific place on this interval
+
+431
+00:26:45,080 --> 00:26:49,160
+in this mode, so I'm going to
+self optimize this. An prefetch
+
+432
+00:26:49,160 --> 00:26:53,920
+things that I think are going to
+come up and by simply doing that
+
+433
+00:26:53,920 --> 00:26:58,000
+you've all of a sudden increased
+your load times for your game
+
+434
+00:26:58,000 --> 00:27:02,080
+and for other things. As an
+example, AI would be more along
+
+435
+00:27:02,080 --> 00:27:04,120
+the lines of if you having
+
+436
+00:27:04,120 --> 00:27:07,846
+smarter. Systems to you
+
+437
+00:27:07,846 --> 00:27:12,975
+in the. Player interaction
+systems. So the computer is
+
+438
+00:27:12,975 --> 00:27:17,955
+doing more and the players doing
+this or the creators are doing
+
+439
+00:27:17,955 --> 00:27:22,761
+this. It's if you think about it
+as when you're developing the
+
+440
+00:27:22,761 --> 00:27:26,973
+game you you know there's a
+certain certain way you go about
+
+441
+00:27:26,973 --> 00:27:31,185
+doing things and you try to
+optimize for what you think are
+
+442
+00:27:31,185 --> 00:27:35,046
+going to be. The most common
+scenarios, but you don't really
+
+443
+00:27:35,046 --> 00:27:40,311
+know what those are going to be,
+and even if you do find the most
+
+444
+00:27:40,311 --> 00:27:44,523
+common scenarios, what if it's
+only 60% of your users and the
+
+445
+00:27:44,523 --> 00:27:48,033
+other 40% are having a less than
+perfect experience using
+
+446
+00:27:48,033 --> 00:27:49,086
+something like Emil?
+
+447
+00:27:49,090 --> 00:27:51,738
+The software itself could make
+the determination and
+
+448
+00:27:51,738 --> 00:27:54,386
+dynamically pick the best
+optimizations for you, instead
+
+449
+00:27:54,386 --> 00:27:58,358
+of having to statically choose
+ones that you hope are the right
+
+450
+00:27:58,358 --> 00:27:59,682
+ones ahead of time.
+
+451
+00:28:00,410 --> 00:28:06,545
+That's great. I think that was
+all the questions we had.
+
+452
+00:28:06,620 --> 00:28:11,482
+Um, did we want to ask any
+follow up questions to those or
+
+453
+00:28:11,482 --> 00:28:13,352
+we all happy with bash?
+
+454
+00:28:15,020 --> 00:28:17,770
+I think that was really
+
+455
+00:28:17,770 --> 00:28:21,062
+informative. So much for
+
+456
+00:28:21,062 --> 00:28:26,070
+that, yeah? We really appreciate
+your time and I'm not sure how
+
+457
+00:28:26,070 --> 00:28:29,568
+long we've been recording now,
+but you've just come home from
+
+458
+00:28:29,568 --> 00:28:33,702
+work and put in the extra effort
+for us, so we really appreciate
+
+459
+00:28:33,702 --> 00:28:36,470
+it. Thanks Rob.
+
+460
+00:28:36,510 --> 00:28:41,632
+I love to help. Like I said, I
+volunteer at my local high
+
+461
+00:28:41,632 --> 00:28:45,572
+school and help the kids there
+with programming classes. Great,
+
+462
+00:28:45,572 --> 00:28:50,196
+that's fantastic. Well, I guess
+we won't talk about take up
+
+463
+00:28:50,196 --> 00:28:55,284
+anymore of your time and just
+hope you have a lovely day.
+
+464
+00:28:56,610 --> 00:28:59,700
+And I have a nice relaxing,
+
+465
+00:28:59,700 --> 00:29:04,230
+lovely night. Anything you want
+to ask again, or for any reason,
+
+466
+00:29:04,230 --> 00:29:08,780
+whatever Adam can get ahold of
+me. Yeah, if you want to feel
+
+467
+00:29:08,780 --> 00:29:12,980
+free. It's been great getting to
+know you and learning about your
+
+468
+00:29:12,980 --> 00:29:15,850
+work. Steve, thank you so much.
+
+469
+00:29:15,850 --> 00:29:19,440
+Thank you. Thanks you too.
+
+470
+00:29:19,440 --> 00:29:20,300
+See ya.
+
+471
+00:29:22,010 --> 00:29:25,545
+It's
+
+472
+00:29:25,545 --> 00:29:29,080
+frozen.
+
+473
+00:29:29,080 --> 00:29:36,348
+Thanks.
+Yeah, it's alright.
+
+474
+00:29:36,350 --> 00:29:40,991
+The guy from Xbox should give us
+some good marks. Oh yeah, yeah,
+
+475
+00:29:40,991 --> 00:29:44,918
+we'll put him to put him to
+shame. Obviously hopeless like
+
+476
+00:29:44,918 --> 00:29:50,518
+the recording. I'll just Shannon
+just sent a message. I'll ask
+
+477
+00:29:50,518 --> 00:29:54,312
+him if he wants to Join Now.
+
+478
+00:29:54,900 --> 00:30:01,110
+Did you wanna stop the
+the meeting recording? Yeah.

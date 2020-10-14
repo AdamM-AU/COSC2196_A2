@@ -1,0 +1,2656 @@
+﻿1
+00:00:02,310 --> 00:00:06,060
+So first group meeting on
+
+2
+00:00:06,060 --> 00:00:10,419
+the. 26 of
+September.
+
+3
+00:00:11,740 --> 00:00:15,346
+And I will meet my friend.
+
+4
+00:00:15,350 --> 00:00:18,750
+Sorry.
+
+5
+00:00:20,000 --> 00:00:25,122
+He was it was on earlier today,
+but I just haven't seen him
+
+6
+00:00:25,122 --> 00:00:29,119
+since about. 12 one o'clock.
+
+7
+00:00:29,810 --> 00:00:32,858
+I thought we.
+
+8
+00:00:32,860 --> 00:00:36,620
+Started too early so we haven't
+heard back from Adam.
+
+9
+00:00:37,290 --> 00:00:40,503
+Will probably be here any minute
+I guess yeah.
+
+10
+00:00:41,070 --> 00:00:42,858
+Happy to wait.
+
+11
+00:00:43,400 --> 00:00:49,740
+Yeah. So what do you guys
+think of assignment one? How did
+
+12
+00:00:49,740 --> 00:00:53,790
+you go with assignment? 1M? How
+you feeling post?
+
+13
+00:00:53,800 --> 00:00:56,900
+I think it was OK.
+
+14
+00:00:57,410 --> 00:01:01,337
+Like it was a bit more work than
+I expected for.
+
+15
+00:01:01,980 --> 00:01:04,070
+I don't know if I did too
+much or not, but.
+
+16
+00:01:05,090 --> 00:01:06,756
+Or too little I I'm not really
+
+17
+00:01:06,756 --> 00:01:10,201
+sure 'cause. Is there's like a
+lot of elements that you had to
+
+18
+00:01:10,201 --> 00:01:15,566
+put together. And I think my
+website was pretty gross.
+
+19
+00:01:15,570 --> 00:01:22,320
+Black one black one. Yeah
+yeah yeah that one.
+
+20
+00:01:22,320 --> 00:01:25,140
+Purple, pink or purple or
+something like that. Yeah, like
+
+21
+00:01:25,140 --> 00:01:28,524
+when I originally did the links
+like they were like a really
+
+22
+00:01:28,524 --> 00:01:32,472
+dark blue and I couldn't see
+them so I made in pink and it
+
+23
+00:01:32,472 --> 00:01:35,574
+looked really good with the
+Black. Yeah, I like that. That's
+
+24
+00:01:35,574 --> 00:01:39,522
+what I remember about it. I saw
+it in the like the rubric it
+
+25
+00:01:39,522 --> 00:01:41,214
+discussed how it needs to look
+
+26
+00:01:41,214 --> 00:01:45,790
+good. But I don't really know
+what they expect. The good
+
+27
+00:01:45,790 --> 00:01:50,830
+looking website to be. Yeah, I
+like. I like my 2002 vibe for my
+
+28
+00:01:50,830 --> 00:01:52,630
+website, so it's pretty good.
+
+29
+00:01:53,620 --> 00:01:57,880
+Couple of your websites looked
+really good, so I mean they were
+
+30
+00:01:57,880 --> 00:02:02,495
+pretty good, but I'm I think a
+few of them. Like with the
+
+31
+00:02:02,495 --> 00:02:04,270
+Scroll down and like the.
+
+32
+00:02:05,040 --> 00:02:07,740
+The section changed as you
+Scroll down. That was really
+
+33
+00:02:07,740 --> 00:02:10,440
+good. I think that might've been
+you George or someone.
+
+34
+00:02:11,000 --> 00:02:15,102
+No, I think that was a Adam. Or
+maybe Adam. Yeah, yeah. I think
+
+35
+00:02:15,102 --> 00:02:18,618
+Shannon had the best like title
+page that was super slow. Yeah
+
+36
+00:02:18,618 --> 00:02:22,134
+yeah, that's a template. Or use
+that said, you could use a
+
+37
+00:02:22,134 --> 00:02:25,943
+template. So I decided to go
+with it. Yeah, why not? It looks
+
+38
+00:02:25,943 --> 00:02:30,045
+pretty good. I mean it did take
+a little bit of editing in it,
+
+39
+00:02:30,045 --> 00:02:32,096
+but not as much as I thought.
+
+40
+00:02:32,120 --> 00:02:37,220
+Find any templates I like trying
+to collect all of the resources
+
+41
+00:02:37,220 --> 00:02:41,470
+for GitHub and like all of the
+HTML stuff and.
+
+42
+00:02:41,990 --> 00:02:45,770
+All new to me, but I didn't
+realize there were things like
+
+43
+00:02:45,770 --> 00:02:49,865
+that to go off of this so much
+information that I found after
+
+44
+00:02:49,865 --> 00:02:53,015
+submitting the assignment that
+would help me, and there's still
+
+45
+00:02:53,015 --> 00:02:56,480
+more than I'm discovering now.
+I'm like, oh, that would have
+
+46
+00:02:56,480 --> 00:02:57,740
+helped. That would help.
+
+47
+00:02:57,740 --> 00:03:02,120
+Yes, I would have liked to have
+made menus or like multiple
+
+48
+00:03:02,120 --> 00:03:05,770
+windows that would be nice. Most
+multiple tabs I mean.
+
+49
+00:03:06,500 --> 00:03:11,661
+Yeah, I spent a lot of time on
+W3 schools looking at random
+
+50
+00:03:11,661 --> 00:03:14,043
+stuff. That's pretty much how I
+
+51
+00:03:14,043 --> 00:03:16,754
+yeah, no. Website actually
+actually don't think it's that
+
+52
+00:03:16,754 --> 00:03:20,834
+bad, but was it W 3 schools or
+the other one that was like one
+
+53
+00:03:20,834 --> 00:03:23,826
+I found really easy and one that
+I found really hard.
+
+54
+00:03:25,230 --> 00:03:30,558
+I just love you guys. Can't hear
+things like here Mega website.
+
+55
+00:03:30,558 --> 00:03:31,890
+Yeah you like.
+
+56
+00:03:31,900 --> 00:03:35,584
+Rules are light. It was the
+other one that was like a
+
+57
+00:03:35,584 --> 00:03:38,961
+tutorial on what you did a
+walkthrough tutorial, so I can't
+
+58
+00:03:38,961 --> 00:03:43,861
+get it. That on some of those
+GitHub tutorials I had were a
+
+59
+00:03:43,861 --> 00:03:48,997
+bit a bit full on yeah and then
+and then Tim just did it like in
+
+60
+00:03:48,997 --> 00:03:50,602
+two seconds on the lecture.
+
+61
+00:03:51,470 --> 00:03:55,634
+Yeah yeah, and I found a written
+format of that. Those directions
+
+62
+00:03:55,634 --> 00:03:58,757
+and really simple form after
+they submitted the assignment.
+
+63
+00:03:58,757 --> 00:04:03,615
+So cool I'll say that later, but
+I'm is. I did let the whole
+
+64
+00:04:03,615 --> 00:04:07,432
+thing. They followed the video
+where it used their terminal to
+
+65
+00:04:07,432 --> 00:04:11,495
+use GitHub. But I'm just scared
+of using it and accidentally
+
+66
+00:04:11,495 --> 00:04:15,032
+like destroying everything. But
+in the right run command like,
+
+67
+00:04:15,032 --> 00:04:17,992
+I'm pretty sure like it it
+wouldn't, but you know.
+
+68
+00:04:19,050 --> 00:04:23,090
+Just like one command and you've
+just like destroyed everyone
+
+69
+00:04:23,090 --> 00:04:25,514
+else is work kind of thing,
+
+70
+00:04:25,514 --> 00:04:31,648
+Yeah? I I did all of mine within
+GitHub on my browser. I didn't
+
+71
+00:04:31,648 --> 00:04:36,160
+use anything else. I didn't use
+a text file or anything, 'cause
+
+72
+00:04:36,160 --> 00:04:41,048
+I just didn't know how. Yeah I,
+I ended up doing that halfway
+
+73
+00:04:41,048 --> 00:04:45,184
+through 'cause it's just easy
+like when I was like adding
+
+74
+00:04:45,184 --> 00:04:49,696
+photos and stuff. I just dragged
+it in instead of pushing into
+
+75
+00:04:49,696 --> 00:04:54,768
+the repository. So I'm I'm still
+learning all of the commands.
+
+76
+00:04:54,770 --> 00:04:57,959
+Off the website.
+
+77
+00:04:59,230 --> 00:05:05,496
+Where can I might like when when
+last we do this again for
+
+78
+00:05:05,496 --> 00:05:10,798
+assignment two? I might like
+right down my own commands like
+
+79
+00:05:10,798 --> 00:05:13,208
+guide sheet or formula died
+
+80
+00:05:13,208 --> 00:05:17,290
+once. Yeah, what about you
+George? How do you go?
+
+81
+00:05:18,150 --> 00:05:21,571
+Yeah, mine was pretty simple
+like just like plain white an
+
+82
+00:05:21,571 --> 00:05:23,748
+yeah I was reading a lot of.
+
+83
+00:05:24,270 --> 00:05:29,110
+W3 that that website and I'll
+just basically just like
+
+84
+00:05:29,110 --> 00:05:33,466
+following every step. And yeah I
+read a lot.
+
+85
+00:05:34,790 --> 00:05:38,981
+But yeah, I think like I have a
+copy of my.
+
+86
+00:05:39,680 --> 00:05:43,194
+Of my website, so I think I can
+you know, as we progress, I
+
+87
+00:05:43,194 --> 00:05:45,955
+think I can just keep keep
+changing things and then just
+
+88
+00:05:45,955 --> 00:05:47,210
+keep making it like look.
+
+89
+00:05:48,310 --> 00:05:51,530
+Better. It's just the start, so
+
+90
+00:05:51,530 --> 00:05:56,916
+yeah. Yeah, we heard
+from Adam yet.
+
+91
+00:05:56,920 --> 00:06:01,378
+Not yet. I thought there were
+six of us and then I thought
+
+92
+00:06:01,378 --> 00:06:04,834
+there were five of us, and then
+there's definitely 6 and I
+
+93
+00:06:04,834 --> 00:06:06,850
+thought I was going a bit nuts.
+
+94
+00:06:07,790 --> 00:06:11,378
+I think I think originally there
+was six, I don't, I'm not sure.
+
+95
+00:06:12,050 --> 00:06:17,046
+Yeah. They're they're still six.
+I mean, it was like an hour ago.
+
+96
+00:06:17,046 --> 00:06:18,218
+I was like 5.
+
+97
+00:06:18,830 --> 00:06:25,250
+What what's the limit on team
+members is like 6 or 6?
+
+98
+00:06:25,250 --> 00:06:25,650
+OK.
+
+99
+00:06:26,660 --> 00:06:31,670
+Pretty good, that's right. Try
+recommended in four to six.
+
+100
+00:06:31,740 --> 00:06:36,978
+Oh, maybe Phil Haack
+in sometimes?
+
+101
+00:06:38,260 --> 00:06:44,826
+Yeah.
+Bad or something when you want.
+
+102
+00:06:44,826 --> 00:06:48,386
+When you start a meeting mine I
+didn't get anything.
+
+103
+00:06:49,050 --> 00:06:54,933
+Nominator. Charlie going. I
+think we have to put it on the
+
+104
+00:06:54,933 --> 00:06:58,376
+on the calendar maybe and then
+you get like a reminder,
+
+105
+00:06:58,376 --> 00:07:01,819
+something I didn't add it in
+through. I didn't add actual
+
+106
+00:07:01,819 --> 00:07:04,636
+attendees, I just automatically
+assumed that goes for everyone
+
+107
+00:07:04,636 --> 00:07:07,766
+in the group, but my reminder
+came through Microsoft Outlook
+
+108
+00:07:07,766 --> 00:07:13,485
+itself. I had outlook open,
+so there the reminder came
+
+109
+00:07:13,485 --> 00:07:15,060
+up through outlook.
+
+110
+00:07:16,570 --> 00:07:18,856
+No, I really want three screens.
+
+111
+00:07:19,950 --> 00:07:27,200
+It's great. I'm
+not sure. I've just opened Ms
+
+112
+00:07:27,200 --> 00:07:29,480
+teams on my laptop.
+
+113
+00:07:29,480 --> 00:07:36,050
+Yeah. But
+it didn't.
+
+114
+00:07:37,310 --> 00:07:38,430
+That's alright.
+
+115
+00:07:40,790 --> 00:07:45,386
+Anyone have any good name ideas?
+Yes, just thinking that like no.
+
+116
+00:07:45,386 --> 00:07:49,982
+I was thinking about that the
+other day. Yeah 'cause it says
+
+117
+00:07:49,982 --> 00:07:54,594
+in the. Assignment like shape
+that like employers could look
+
+118
+00:07:54,594 --> 00:07:55,818
+it up later.
+
+119
+00:07:56,350 --> 00:08:00,959
+So yeah, we don't do so. Be
+mindful of you silly.
+
+120
+00:08:01,470 --> 00:08:04,890
+Damn nonhuman
+
+121
+00:08:04,890 --> 00:08:12,672
+sign. It's something cool,
+something that sounds like smart
+
+122
+00:08:12,672 --> 00:08:15,550
+and technical. Yeah,
+
+123
+00:08:15,550 --> 00:08:22,860
+yeah, nothing. Did they
+give you some sort of format for
+
+124
+00:08:22,860 --> 00:08:26,340
+the teams? Like
+
+125
+00:08:26,340 --> 00:08:30,918
+We sort of sport wise or I I
+have no idea like even examples
+
+126
+00:08:30,918 --> 00:08:33,207
+of teams they said it could be
+
+127
+00:08:33,207 --> 00:08:37,356
+anything. But my friend started.
+It is like Oh Nighty Company and
+
+128
+00:08:37,356 --> 00:08:41,854
+it was called Ret SIM which is
+just Mr backwards. But it looks
+
+129
+00:08:41,854 --> 00:08:43,584
+like a really fancy technology
+
+130
+00:08:43,584 --> 00:08:50,859
+name. Yes.
+Try putting aladji on the end of
+
+131
+00:08:50,859 --> 00:08:53,710
+another word. Yeah.
+
+132
+00:08:54,620 --> 00:08:58,230
+This is not my Department.
+
+133
+00:08:58,230 --> 00:09:05,870
+Maybe we can think
+on that as we
+
+134
+00:09:05,870 --> 00:09:08,850
+go, yeah? Sure.
+
+135
+00:09:09,880 --> 00:09:16,000
+Our agenda first was team
+profile name and.
+
+136
+00:09:17,010 --> 00:09:20,310
+So it's kind of roles in the
+group, but we can.
+
+137
+00:09:21,070 --> 00:09:24,088
+I was thinking maybe we could
+
+138
+00:09:24,088 --> 00:09:28,609
+start with. 'cause I seem to
+want us to.
+
+139
+00:09:29,310 --> 00:09:36,102
+Discuss assignment one abit and
+how that impacts us as a group
+
+140
+00:09:36,102 --> 00:09:37,800
+is bizarre but.
+
+141
+00:09:39,470 --> 00:09:40,560
+We've got to do that.
+
+142
+00:09:41,920 --> 00:09:47,418
+Sign in. The
+assignment 2.
+
+143
+00:09:48,960 --> 00:09:52,590
+What page in my arm?
+
+144
+00:09:52,730 --> 00:09:54,090
+Page.
+
+145
+00:09:55,850 --> 00:09:59,168
+Page 2 actually.
+
+146
+00:10:01,210 --> 00:10:02,770
+No.
+
+147
+00:10:03,930 --> 00:10:06,662
+No, you're
+
+148
+00:10:06,662 --> 00:10:10,830
+right. Um yeah, so
+profile.
+
+149
+00:10:12,220 --> 00:10:17,704
+Page 4
+profile down
+
+150
+00:10:17,704 --> 00:10:23,268
+to specifications. Um, that
+aim profile so will need a team
+
+151
+00:10:23,268 --> 00:10:26,544
+name, but we can think on that.
+That doesn't need to come first.
+
+152
+00:10:26,544 --> 00:10:27,804
+It we're having trouble there.
+
+153
+00:10:28,550 --> 00:10:34,010
+Um, so will each need to wash
+our own little paragraph of
+
+154
+00:10:34,010 --> 00:10:37,624
+personal information. Which I
+think we can do separately and
+
+155
+00:10:37,624 --> 00:10:39,314
+then just bring that down.
+
+156
+00:10:39,850 --> 00:10:43,882
+That's fairly straightforward.
+Yeah, and then we need to
+
+157
+00:10:43,882 --> 00:10:48,810
+discuss the the test that we've
+the personality test. I think
+
+158
+00:10:48,810 --> 00:10:56,144
+they mean. Um, I'm just
+what that means for us.
+
+159
+00:10:56,150 --> 00:11:00,378
+Spell and you will have a chance
+to reflect on how well you got
+
+160
+00:11:00,378 --> 00:11:03,700
+this work later, so giving you
+feedback on assignment one as
+
+161
+00:11:03,700 --> 00:11:07,626
+well, and I'm not sure if like
+we're supposed to talk about the
+
+162
+00:11:07,626 --> 00:11:08,834
+results from our first
+
+163
+00:11:08,834 --> 00:11:14,876
+assignment as well. They will
+wait for the hour, yeah?
+
+164
+00:11:15,680 --> 00:11:19,988
+I think we need to touch on it
+by def. It's definitely
+
+165
+00:11:19,988 --> 00:11:22,860
+mentioned that we should talk
+about it, yeah?
+
+166
+00:11:23,040 --> 00:11:25,092
+But the other country that just
+
+167
+00:11:25,092 --> 00:11:31,173
+yet. But we can talk about the
+three personality tests for the
+
+168
+00:11:31,173 --> 00:11:37,680
+team profile. Just to, I'm not
+sure how they want us to write
+
+169
+00:11:37,680 --> 00:11:41,980
+that out, but it says to
+condense the relevant content
+
+170
+00:11:41,980 --> 00:11:43,700
+you produced from assignment
+
+171
+00:11:43,700 --> 00:11:49,620
+one. I I completely misread, so
+I can't condense one anymore.
+
+172
+00:11:49,620 --> 00:11:52,824
+It's pretty much basic as it
+
+173
+00:11:52,824 --> 00:11:57,330
+was. Only write 11 big paragraph
+about the all three tests.
+
+174
+00:11:57,960 --> 00:12:00,633
+'cause I honestly think
+these tests were. I don't
+
+175
+00:12:00,633 --> 00:12:01,524
+know. They just.
+
+176
+00:12:02,710 --> 00:12:04,622
+Yeah, they're slightly accurate,
+
+177
+00:12:04,622 --> 00:12:07,880
+but. I found
+
+178
+00:12:07,880 --> 00:12:14,675
+something, yeah? After it
+very accurate too as well.
+
+179
+00:12:14,680 --> 00:12:18,596
+I found one pretty accurate,
+150% accurate and one was like
+
+180
+00:12:18,596 --> 00:12:20,376
+completely the opposite of me.
+
+181
+00:12:21,240 --> 00:12:25,178
+I think I think two of mine
+actually got contradicted each
+
+182
+00:12:25,178 --> 00:12:27,684
+other a little bit. Yeah, I got
+
+183
+00:12:27,684 --> 00:12:31,936
+that. Yeah, but like I don't
+know if it's just like you know
+
+184
+00:12:31,936 --> 00:12:36,135
+when you see like a tarot card
+reader and they say Oh yeah,
+
+185
+00:12:36,135 --> 00:12:39,688
+this and this and like put
+connections in your head that
+
+186
+00:12:39,688 --> 00:12:42,918
+you might not really be
+connected with. Yeah yeah, that
+
+187
+00:12:42,918 --> 00:12:44,533
+explains me perfectly when it
+
+188
+00:12:44,533 --> 00:12:48,822
+doesn't really. And then it
+becomes a bit of a self
+
+189
+00:12:48,822 --> 00:12:51,902
+fulfilling prophecy. Or it's
+just so broad that it can
+
+190
+00:12:51,902 --> 00:12:57,462
+attribute to anyone. New things
+will be happening to you
+
+191
+00:12:57,462 --> 00:13:01,690
+tomorrow. Probably like you, you
+may end up with financial
+
+192
+00:13:01,690 --> 00:13:03,740
+troubles in the coming months.
+
+193
+00:13:04,340 --> 00:13:08,773
+You know, or you have to pay
+bills or something? I could have
+
+194
+00:13:08,773 --> 00:13:09,796
+told you that.
+
+195
+00:13:09,880 --> 00:13:11,320
+Now I will.
+
+196
+00:13:12,000 --> 00:13:16,524
+Yeah, I'm sorry, maybe we just
+need to. It says to summarize or
+
+197
+00:13:16,524 --> 00:13:18,612
+condense. So I think maybe it's
+
+198
+00:13:18,612 --> 00:13:22,338
+like. So who was
+introverted? I was.
+
+199
+00:13:23,440 --> 00:13:26,970
+Yeah, I got like 79%.
+
+200
+00:13:26,970 --> 00:13:30,579
+Wake up 99.
+
+201
+00:13:30,580 --> 00:13:34,102
+Not sure. I think online were
+
+202
+00:13:34,102 --> 00:13:39,756
+pretty like. Similar like I was
+like a bit of everything, but I
+
+203
+00:13:39,756 --> 00:13:41,386
+got like the turbulent mediator.
+
+204
+00:13:42,140 --> 00:13:48,630
+From the 16 personalities one,
+yeah I got mediator as well,
+
+205
+00:13:48,630 --> 00:13:51,159
+yeah? Well I got.
+
+206
+00:13:51,810 --> 00:13:55,690
+The learning styles 1.
+
+207
+00:13:56,960 --> 00:13:59,440
+Like it was a bit of bit of
+
+208
+00:13:59,440 --> 00:14:04,570
+everything as well. For the
+learning styles I had.
+
+209
+00:14:06,140 --> 00:14:10,060
+Visual learner and partly
+
+210
+00:14:10,060 --> 00:14:15,930
+kinesthetic. So it was like
+even Stevens, but slightly
+
+211
+00:14:15,930 --> 00:14:17,460
+slightly more visual.
+
+212
+00:14:18,860 --> 00:14:25,508
+Wish my brain was
+working a little faster
+
+213
+00:14:25,508 --> 00:14:30,212
+today. People do for the third
+test like the one you could
+
+214
+00:14:30,212 --> 00:14:34,436
+choose like. I just did another
+personality one. Yes I do it,
+
+215
+00:14:34,436 --> 00:14:37,250
+yeah. Yeah, same.
+
+216
+00:14:37,250 --> 00:14:40,848
+As I look through the other ones
+and I just didn't really, I felt
+
+217
+00:14:40,848 --> 00:14:42,390
+the output of the actual thing
+
+218
+00:14:42,390 --> 00:14:47,610
+wasn't. I like told you whether
+you're one of two different
+
+219
+00:14:47,610 --> 00:14:49,650
+things you know, like, yeah.
+
+220
+00:14:49,650 --> 00:14:54,996
+Aspera, see how lucky you are to
+fully conspiracy theory one.
+
+221
+00:14:55,000 --> 00:14:57,820
+I don't know if you wanna tell
+your employee that kind of.
+
+222
+00:14:58,510 --> 00:15:01,078
+Employer that kind of
+
+223
+00:15:01,078 --> 00:15:06,260
+information. Think only added
+one year. It's just what I run.
+
+224
+00:15:06,260 --> 00:15:09,660
+What kind of celebrity
+personality do you represent?
+
+225
+00:15:09,660 --> 00:15:14,335
+Like it, it gives you the other
+percentages. But then what?
+
+226
+00:15:14,335 --> 00:15:19,435
+Celebrities? Nice life and mine
+came out as Dexter and I thought
+
+227
+00:15:19,435 --> 00:15:20,710
+that wasn't right.
+
+228
+00:15:20,740 --> 00:15:23,812
+Good thing this isn't online
+course I guess. I just thought I
+
+229
+00:15:23,812 --> 00:15:26,884
+just, you know, take that away,
+not put that one on there.
+
+230
+00:15:27,520 --> 00:15:33,620
+Around this.
+My computer is slightly frozen.
+
+231
+00:15:35,050 --> 00:15:38,890
+Camera like very
+
+232
+00:15:38,890 --> 00:15:45,208
+dark. Yeah I can. I can
+just see a silhouette every Adam
+
+233
+00:15:45,208 --> 00:15:49,788
+pretty dark. You look like a
+hacker offi ads, yeah?
+
+234
+00:15:50,820 --> 00:15:55,123
+Yeah, I got the computer screen
+glowing on you, so it looks even
+
+235
+00:15:55,123 --> 00:15:59,460
+more ominous. If I can fix
+it, but it keeps giving me
+
+236
+00:15:59,460 --> 00:16:02,540
+an error when I get a load
+up the camera settings.
+
+237
+00:16:04,960 --> 00:16:08,356
+So I just want you doing that
+and I'll just summarize what
+
+238
+00:16:08,356 --> 00:16:12,035
+we've touched on so far, so we
+haven't come up with a group
+
+239
+00:16:12,035 --> 00:16:13,167
+name yet, because that's.
+
+240
+00:16:14,180 --> 00:16:18,428
+A lot of creativity, so I'm just
+thinking about that in the
+
+241
+00:16:18,428 --> 00:16:19,844
+background as we talk.
+
+242
+00:16:20,160 --> 00:16:24,276
+Um, and then we kind of talked
+about assessment one, how many,
+
+243
+00:16:24,276 --> 00:16:28,392
+how we went. Obviously we don't
+have any feedback yet. We don't
+
+244
+00:16:28,392 --> 00:16:33,194
+have our mark, so we can't talk
+about that. But they do want us
+
+245
+00:16:33,194 --> 00:16:34,566
+to at some point.
+
+246
+00:16:34,570 --> 00:16:41,478
+And then we need to summarize
+out personality tests and woman
+
+247
+00:16:41,478 --> 00:16:46,112
+into. Like a great personality
+or summary of the personalities
+
+248
+00:16:46,112 --> 00:16:50,270
+within the group. So we're just
+going over our personality test
+
+249
+00:16:50,270 --> 00:16:54,666
+results. Just briefly, and I
+think we'll have to.
+
+250
+00:16:55,610 --> 00:17:00,954
+OK Alright. Personality summary,
+like obviously some of us have
+
+251
+00:17:00,954 --> 00:17:05,896
+summarized it quite a lot, but
+if we could just put 4 hours, 16
+
+252
+00:17:05,896 --> 00:17:09,779
+personalities the Myers Briggs
+test, we could just put the the
+
+253
+00:17:09,779 --> 00:17:13,662
+name rather than the description
+and then for the next one.
+
+254
+00:17:13,662 --> 00:17:15,074
+Whether we are a.
+
+255
+00:17:16,150 --> 00:17:17,836
+Visual learner, kinesthetic
+
+256
+00:17:17,836 --> 00:17:23,975
+learner or. So like 7 rise again
+in like 160 words to the for the
+
+257
+00:17:23,975 --> 00:17:30,964
+page. Yeah I yeah.
+Or even I think
+
+258
+00:17:30,964 --> 00:17:33,640
+because the. It works.
+
+259
+00:17:35,230 --> 00:17:38,540
+Say.
+
+260
+00:17:38,540 --> 00:17:44,883
+Yep. As a only a small
+mark that it gets anyway, yeah,
+
+261
+00:17:44,883 --> 00:17:50,252
+it doesn't make too much if it
+like. The Rubric says that it's
+
+262
+00:17:50,252 --> 00:17:53,556
+just all relevant information
+and keeping it simple.
+
+263
+00:17:53,570 --> 00:17:57,756
+I have to get, expects us to
+write like a big essay on group
+
+264
+00:17:57,756 --> 00:18:01,942
+dynamics and that kind of stuff.
+So like I'm thinking if I was to
+
+265
+00:18:01,942 --> 00:18:04,035
+write mine, I'd write that I am
+
+266
+00:18:04,035 --> 00:18:08,548
+a. What is
+my?
+
+267
+00:18:09,650 --> 00:18:15,266
+Oh, it's an ISFP dash T, which
+means the adventurer and just a
+
+268
+00:18:15,266 --> 00:18:20,882
+sentence on what that means. And
+then I would put that on a
+
+269
+00:18:20,882 --> 00:18:24,338
+mostly visual learner but partly
+tactile kinesthetic learner
+
+270
+00:18:24,338 --> 00:18:26,498
+probably don't need to write.
+
+271
+00:18:26,520 --> 00:18:29,721
+And then a like a very
+short summary of might be
+
+272
+00:18:29,721 --> 00:18:32,631
+quiet personality test. So
+we could each do that and
+
+273
+00:18:32,631 --> 00:18:36,123
+just leave that there if we
+want it. What do you think?
+
+274
+00:18:37,630 --> 00:18:43,536
+Sounds like. So are we
+also said earlier Adam that we
+
+275
+00:18:43,536 --> 00:18:45,406
+need to do a tiny?
+
+276
+00:18:46,450 --> 00:18:50,730
+I'm just looking at the
+assignment team profile on page
+
+277
+00:18:50,730 --> 00:18:53,778
+4. Have you got that off in
+
+278
+00:18:53,778 --> 00:18:58,960
+front of you? I
+go in a minute.
+
+279
+00:19:19,630 --> 00:19:24,032
+Yeah,
+I
+
+280
+00:19:24,032 --> 00:19:28,434
+got
+it
+
+281
+00:19:28,434 --> 00:19:30,635
+open
+
+282
+00:19:30,635 --> 00:19:34,160
+now. Page 4
+
+283
+00:19:34,840 --> 00:19:37,848
+Um, down at specifications.
+
+284
+00:19:38,420 --> 00:19:42,746
+So we haven't come up with a
+name yet, but will will do that.
+
+285
+00:19:42,746 --> 00:19:45,527
+That's straight forward and then
+personal information. We can.
+
+286
+00:19:45,527 --> 00:19:48,617
+Each writer and paragraph and
+then bring that together and
+
+287
+00:19:48,617 --> 00:19:52,325
+just put on the page and then
+for the team profile each
+
+288
+00:19:52,325 --> 00:19:56,033
+summarize our three tests and
+then put that in there as well.
+
+289
+00:19:56,780 --> 00:20:00,860
+Sorry, do you think we could
+each do that individually?
+
+290
+00:20:00,860 --> 00:20:02,084
+Interest rate altogether.
+
+291
+00:20:02,630 --> 00:20:05,870
+Yeah yeah, yeah.
+
+292
+00:20:05,890 --> 00:20:11,190
+So. We want
+to ideal jobs.
+
+293
+00:20:12,290 --> 00:20:16,340
+We
+
+294
+00:20:36,340 --> 00:20:43,522
+Yes. Time to organize this one,
+so it might be good to have some
+
+295
+00:20:43,522 --> 00:20:48,827
+regular times. At least one
+scheduled time each week.
+
+296
+00:20:48,830 --> 00:20:50,235
+Scheduled half an hour or
+
+297
+00:20:50,235 --> 00:20:54,468
+something at least. I've been
+looking through the assignment
+
+298
+00:20:54,468 --> 00:20:57,246
+details and what team said in
+
+299
+00:20:57,246 --> 00:21:03,035
+the. The. Meeting this
+week. It seems like we have to
+
+300
+00:21:03,035 --> 00:21:06,740
+do too, but it would be good to
+have at least one plan.
+
+301
+00:21:07,510 --> 00:21:12,430
+Sorry, can we all available
+tomorrow to do this week
+
+302
+00:21:12,430 --> 00:21:15,874
+second meeting? Or does
+anyone not available
+
+303
+00:21:15,874 --> 00:21:17,350
+tomorrow afternoon evening?
+
+304
+00:21:18,640 --> 00:21:22,496
+I can after 630
+
+305
+00:21:22,496 --> 00:21:26,250
+again. Or not, yeah,
+
+306
+00:21:26,250 --> 00:21:30,970
+I'm fine. Or or or tomorrow
+morning, but I know I think one
+
+307
+00:21:30,970 --> 00:21:32,790
+of you is from Perth. That might
+
+308
+00:21:32,790 --> 00:21:40,295
+be a bit. Yeah, I could
+probably set an alarm, I don't
+
+309
+00:21:40,295 --> 00:21:47,272
+mind. If it's 6:00 AM, maybe but
+yeah, so same time tomorrow for
+
+310
+00:21:47,272 --> 00:21:48,850
+our second meeting.
+
+311
+00:21:48,850 --> 00:21:52,920
+Cancel. Just want
+to chair tomorrow.
+
+312
+00:21:54,860 --> 00:21:57,520
+Discuss
+
+313
+00:21:57,520 --> 00:22:03,775
+tomorrow.
+Sorry, I guess
+
+314
+00:22:03,775 --> 00:22:08,130
+we'll. Yeah we can. How long
+have we been recording for?
+
+315
+00:22:09,170 --> 00:22:12,716
+2728 minutes OK
+
+316
+00:22:12,716 --> 00:22:19,034
+sorry. Oh
+So I got a little bit longer to
+
+317
+00:22:19,034 --> 00:22:24,342
+just come out. One or two more
+things. And yeah, yeah, through
+
+318
+00:22:24,342 --> 00:22:28,830
+the rest of the spec sheet in
+the second meeting tomorrow.
+
+319
+00:22:28,830 --> 00:22:33,726
+Yeah, yeah. So I think we could
+talk about ideal jobs 'cause
+
+320
+00:22:33,726 --> 00:22:37,806
+that kind of needs to be
+discussed bouncing off each
+
+321
+00:22:37,806 --> 00:22:42,860
+other. Compare and contrast the
+ideal job speech person in the
+
+322
+00:22:42,860 --> 00:22:46,500
+group. This may have changed
+feedback from assignment one we
+
+323
+00:22:46,500 --> 00:22:47,592
+don't have feedback.
+
+324
+00:22:48,200 --> 00:22:51,640
+What common elements are there,
+if any, so?
+
+325
+00:22:52,400 --> 00:22:56,246
+I'll start with
+
+326
+00:22:56,246 --> 00:22:58,450
+my. Good job.
+
+327
+00:23:01,460 --> 00:23:03,590
+So I cherish.
+
+328
+00:23:04,110 --> 00:23:09,500
+Search
+
+329
+00:23:10,740 --> 00:23:14,160
+I see support officer in South
+Melbourne and remote working
+
+330
+00:23:14,160 --> 00:23:18,606
+required initially due to cover
+19 so I kind of wanted a job
+
+331
+00:23:18,606 --> 00:23:23,394
+that would be remote most of the
+time but there weren't a lot of
+
+332
+00:23:23,394 --> 00:23:25,788
+jobs going like that. I like the
+
+333
+00:23:25,788 --> 00:23:32,155
+sound up. Um, but I think
+I'd also like to work.
+
+334
+00:23:32,160 --> 00:23:36,892
+Advice at times as well. So this
+is with saying Australia S A&E,
+
+335
+00:23:36,892 --> 00:23:40,168
+which is a national mental
+Health Organization working to
+
+336
+00:23:40,168 --> 00:23:44,172
+make a real difference in the
+lives of people affected with
+
+337
+00:23:44,172 --> 00:23:47,084
+complex mental health issues
+through support research and
+
+338
+00:23:47,084 --> 00:23:51,452
+advocacy. So I would be the
+right person for the staff who
+
+339
+00:23:51,452 --> 00:23:54,364
+work insane Australia. That's
+basically the job, yeah?
+
+340
+00:23:55,140 --> 00:23:58,290
+And.
+
+341
+00:23:59,370 --> 00:24:02,718
+Appeals to me because I have an
+interest in mental health and
+
+342
+00:24:02,718 --> 00:24:05,508
+community service. I've had an
+interest in mental health and
+
+343
+00:24:05,508 --> 00:24:08,298
+community services before I
+studied it for awhile. It taken
+
+344
+00:24:08,298 --> 00:24:11,925
+down that it wasn't the kind of
+work I ultimately wanted to do.
+
+345
+00:24:11,925 --> 00:24:14,994
+However, I wouldn't much like to
+work behind the scenes and
+
+346
+00:24:14,994 --> 00:24:17,505
+provide Technical Support for a
+great organization that provides
+
+347
+00:24:17,505 --> 00:24:19,740
+mental health services. Um?
+
+348
+00:24:21,080 --> 00:24:23,800
+There's a lot of skills and
+experience that's required for
+
+349
+00:24:23,800 --> 00:24:25,432
+the job that I don't have.
+
+350
+00:24:25,950 --> 00:24:31,110
+Just get and I really don't
+understand too much about. So I
+
+351
+00:24:31,110 --> 00:24:35,840
+when the same on page 4. And
+yes, I meant like.
+
+352
+00:24:36,370 --> 00:24:39,920
+What changes may be made like
+other than learning the
+
+353
+00:24:39,920 --> 00:24:43,825
+skills I don't know. I think
+that's what we're supposed to
+
+354
+00:24:43,825 --> 00:24:46,310
+discuss. Did anyone get a
+different impression?
+
+355
+00:24:47,700 --> 00:24:50,530
+Thank you. No.
+
+356
+00:24:51,250 --> 00:24:57,916
+Sorry. I mean, like
+you sort of chose that that
+
+357
+00:24:57,916 --> 00:25:02,272
+position, 'cause it was a bit
+broad as well.
+
+358
+00:25:02,280 --> 00:25:06,152
+Yeah, so that's that's similar
+to what I went through like.
+
+359
+00:25:06,160 --> 00:25:09,440
+You're like a. Systems
+integration officer, which sort
+
+360
+00:25:09,440 --> 00:25:13,466
+of works for like software and
+hardware and everything. So I
+
+361
+00:25:13,466 --> 00:25:17,858
+just picked the one of the
+broadest sort of jobs I could
+
+362
+00:25:17,858 --> 00:25:19,688
+find, 'cause I'm not really.
+
+363
+00:25:20,330 --> 00:25:23,318
+Sure, what path would wanna take
+
+364
+00:25:23,318 --> 00:25:29,337
+yet? It is like is like
+an integration officer for
+
+365
+00:25:29,337 --> 00:25:34,241
+disability. People with like
+impairments like vision and
+
+366
+00:25:34,241 --> 00:25:39,550
+deafness. And with like hardware
+or software to help people
+
+367
+00:25:39,550 --> 00:25:41,110
+integrate with different
+
+368
+00:25:41,110 --> 00:25:44,763
+technologies. The sound of that.
+I wouldn't say that one.
+
+369
+00:25:44,770 --> 00:25:49,294
+That's cool, so does does a bit
+of everything, like with like a
+
+370
+00:25:49,294 --> 00:25:52,426
+lot of web development kind of
+stuff as well.
+
+371
+00:25:53,100 --> 00:25:58,012
+So if I wanted to go to that Ave
+or if I wanted to work with
+
+372
+00:25:58,012 --> 00:26:01,082
+actual hardware systems, it also
+pretty much does everything that
+
+373
+00:26:01,082 --> 00:26:08,166
+job so. So I think the goal
+of this part of the assignment
+
+374
+00:26:08,166 --> 00:26:10,746
+is to just summarize or.
+
+375
+00:26:11,930 --> 00:26:18,915
+Summarize that that is the jobs
+with picked desire. Our ideal
+
+376
+00:26:18,915 --> 00:26:20,820
+jobs are indeed.
+
+377
+00:26:20,820 --> 00:26:22,460
+They compared the jobs.
+
+378
+00:26:23,220 --> 00:26:26,140
+Each person in the group.
+
+379
+00:26:26,140 --> 00:26:32,328
+I'm a bit can I? I'm not 100%
+sure like how was supposed to
+
+380
+00:26:32,328 --> 00:26:34,096
+collaborate with this part.
+
+381
+00:26:34,100 --> 00:26:37,810
+Elements are there, if any.
+That's one of the first
+
+382
+00:26:37,810 --> 00:26:40,778
+questions. Yeah, sorry. Common
+element you've identified is
+
+383
+00:26:40,778 --> 00:26:45,230
+it's broad and both yours and
+mine are bored. So what about?
+
+384
+00:26:45,930 --> 00:26:50,495
+What job did you get? I chose a
+back end developer.
+
+385
+00:26:51,380 --> 00:26:55,532
+Basically, we write the back end
+software. So how to explain it?
+
+386
+00:26:55,532 --> 00:26:59,684
+Probably easy take Facebook. Are
+they got a front end team that
+
+387
+00:26:59,684 --> 00:27:04,528
+does all the UI and the design?
+But then they'll have a back end
+
+388
+00:27:04,528 --> 00:27:06,604
+team that makes all the magic
+
+389
+00:27:06,604 --> 00:27:13,158
+happen. Basically, code that you
+don't see, so like.
+
+390
+00:27:13,160 --> 00:27:17,417
+Content distribution the fact
+that your videos get resized
+
+391
+00:27:17,417 --> 00:27:22,147
+and compressed all happens
+with back end software, not in
+
+392
+00:27:22,147 --> 00:27:23,566
+the interface that's.
+
+393
+00:27:24,720 --> 00:27:28,383
+My sleep watch. How is that?
+Because I don't really like
+
+394
+00:27:28,383 --> 00:27:31,713
+doing the graphical creative
+side of things. My skill sets
+
+395
+00:27:31,713 --> 00:27:33,711
+more suited towards that at the
+
+396
+00:27:33,711 --> 00:27:38,188
+moment, so. So perhaps this
+difference that would be that
+
+397
+00:27:38,188 --> 00:27:42,214
+yours is quite nitty gritty and
+detailed, and ours is probably
+
+398
+00:27:42,214 --> 00:27:46,606
+the ones that Sam and I have
+chosen. Probably more broad. I
+
+399
+00:27:46,606 --> 00:27:49,900
+think that's the question was
+supposed to be answering.
+
+400
+00:27:49,930 --> 00:27:56,244
+Yep. Stardust, like this,
+based on the little knowledge, I
+
+401
+00:27:56,244 --> 00:28:02,130
+have an. Your website, it seems
+like that matches up with your
+
+402
+00:28:02,130 --> 00:28:04,390
+skills. Daniel, where are you?
+
+403
+00:28:05,110 --> 00:28:11,158
+Yeah I did I did not put very
+much thought into this, but I
+
+404
+00:28:11,158 --> 00:28:15,046
+just found a systems
+administrator add which I think
+
+405
+00:28:15,046 --> 00:28:17,206
+is pretty broad, like Salmon
+
+406
+00:28:17,206 --> 00:28:20,620
+Madeleine. It's yeah.
+
+407
+00:28:20,620 --> 00:28:24,900
+Just like overseeing and
+computer network for like a City
+
+408
+00:28:24,900 --> 00:28:27,040
+Council, I thought that would
+
+409
+00:28:27,040 --> 00:28:30,785
+be. After a lot of different
+
+410
+00:28:30,785 --> 00:28:34,340
+bases in. Be kind
+
+411
+00:28:34,340 --> 00:28:41,290
+of interesting. But do you know
+what some of the specifics of
+
+412
+00:28:41,290 --> 00:28:43,595
+it? Specific
+
+413
+00:28:43,595 --> 00:28:45,720
+say. Not.
+
+414
+00:28:47,650 --> 00:28:51,808
+Sense of technical skills and
+experience in Windows Server.
+
+415
+00:28:51,808 --> 00:28:55,504
+Active Directory Exchange. SQL
+Server, VM Ware virtualization
+
+416
+00:28:55,504 --> 00:29:01,048
+and San Technologies. I don't
+know what most of that means so.
+
+417
+00:29:01,180 --> 00:29:04,933
+Does anyone know what that
+means? Mostly adding, adding,
+
+418
+00:29:04,933 --> 00:29:08,686
+and maintaining users in Active
+Directory, adding new machines
+
+419
+00:29:08,686 --> 00:29:13,273
+so they domain are there the
+audio visual parts? Probably a
+
+420
+00:29:13,273 --> 00:29:14,941
+conferencing system that they're
+
+421
+00:29:14,941 --> 00:29:17,094
+using. But you've gotta look
+
+422
+00:29:17,094 --> 00:29:22,463
+after. Yeah, so you get given
+pretty much a big stack of
+
+423
+00:29:22,463 --> 00:29:24,115
+paperwork when your movie.
+
+424
+00:29:24,160 --> 00:29:29,774
+Alright, So what was the name of
+the the title of the job systems
+
+425
+00:29:29,774 --> 00:29:33,588
+administrator? I think I think
+that's one you definitely need,
+
+426
+00:29:33,588 --> 00:29:36,808
+like a few years experience as
+well, like a network
+
+427
+00:29:36,808 --> 00:29:38,740
+administrator is at 1.1 sort of
+
+428
+00:29:38,740 --> 00:29:42,896
+more junior job. Do you have a
+junior network administrator?
+
+429
+00:29:43,420 --> 00:29:45,730
+Or systems administrator
+and then a senior.
+
+430
+00:29:46,910 --> 00:29:48,140
+Sweet and makes it easy.
+
+431
+00:29:48,700 --> 00:29:50,863
+How is the place where they had
+
+432
+00:29:50,863 --> 00:29:55,774
+Chinese in Naturals? Yeah, so
+yeah, that would be definitely a
+
+433
+00:29:55,774 --> 00:29:57,889
+good way to do it.
+
+434
+00:29:58,510 --> 00:30:02,810
+Not just learn from the pros,
+not too much pressure.
+
+435
+00:30:03,520 --> 00:30:08,650
+So I'm not sure that I know too
+much about that one, so I can't
+
+436
+00:30:08,650 --> 00:30:10,018
+really draw similarities or
+
+437
+00:30:10,018 --> 00:30:12,428
+differences. There
+can anyone else?
+
+438
+00:30:14,030 --> 00:30:17,438
+I choose the.
+
+439
+00:30:18,220 --> 00:30:22,389
+IT support specialist pretty
+much, I think, the same as you
+
+440
+00:30:22,389 --> 00:30:26,998
+marry. You know, like
+a kind of like abroad.
+
+441
+00:30:28,120 --> 00:30:34,254
+Broad. Korea 'cause I
+don't know much about the job
+
+442
+00:30:34,254 --> 00:30:37,998
+either. But yeah, my plan is
+just to basically.
+
+443
+00:30:38,810 --> 00:30:44,430
+Help businesses you know? Just
+provide the IT support an
+
+444
+00:30:44,430 --> 00:30:46,678
+reportes in maintaining the
+
+445
+00:30:46,678 --> 00:30:48,600
+networks. Oh cool.
+
+446
+00:30:49,120 --> 00:30:52,270
+Stop. Yeah so.
+
+447
+00:30:52,770 --> 00:30:56,514
+Submitted crossover. Even with
+Daniels job there as well.
+
+448
+00:30:57,080 --> 00:30:59,485
+Yeah, every choice, yeah so
+
+449
+00:30:59,485 --> 00:31:04,290
+yeah. So I guess what I think it
+might change. I think it might
+
+450
+00:31:04,290 --> 00:31:08,210
+change in the in the future as
+we know more, but for now I
+
+451
+00:31:08,210 --> 00:31:09,330
+think it's just that.
+
+452
+00:31:10,770 --> 00:31:14,850
+So I guess Adam is already got a
+bit bit more of an idea of what
+
+453
+00:31:14,850 --> 00:31:17,655
+his one training and we're not
+really sure, so we pick
+
+454
+00:31:17,655 --> 00:31:20,460
+something general just to just
+to start off with I guess.
+
+455
+00:31:21,290 --> 00:31:24,320
+Controls
+
+456
+00:31:24,320 --> 00:31:28,947
+Then Weird with the question. I
+ask 'cause you have to actually
+
+457
+00:31:28,947 --> 00:31:32,548
+for an advert for a job all can
+actually falling advert for a
+
+458
+00:31:32,548 --> 00:31:36,426
+job that I actually wanted. So I
+just put one that I've found so
+
+459
+00:31:36,426 --> 00:31:39,750
+I wanted to do something for one
+I chose was cyber security
+
+460
+00:31:39,750 --> 00:31:42,520
+analyst. However I just wanted
+something within the field of
+
+461
+00:31:42,520 --> 00:31:43,628
+cybersecurity. Now there's so
+
+462
+00:31:43,628 --> 00:31:46,309
+many different specific.
+Certifications in different
+
+463
+00:31:46,309 --> 00:31:50,425
+ways. You can do cyber security.
+The one I'm looking at is
+
+464
+00:31:50,425 --> 00:31:53,855
+actually like the integral
+hacker role where I can actually
+
+465
+00:31:53,855 --> 00:31:57,285
+breach the defenses so they can
+implement devices to protect
+
+466
+00:31:57,285 --> 00:31:58,314
+their systems better.
+
+467
+00:31:59,140 --> 00:32:05,386
+Cool sounds definitely like the
+most glamorous know then.
+
+468
+00:32:05,390 --> 00:32:06,650
+Out of all of ours.
+
+469
+00:32:07,270 --> 00:32:09,778
+Put on the wire.
+
+470
+00:32:09,780 --> 00:32:15,929
+Best drain it's movie like the
+Hugh Jackman Swordfish we got
+
+471
+00:32:15,929 --> 00:32:18,165
+the cubes coming together.
+
+472
+00:32:18,170 --> 00:32:22,110
+So what's the French? It's each
+position position from the
+
+473
+00:32:22,110 --> 00:32:26,444
+others. If anything, I think we
+summarize that how similar or
+
+474
+00:32:26,444 --> 00:32:29,990
+different leukorrhea plans
+across the group. I think we
+
+475
+00:32:29,990 --> 00:32:31,172
+covered that too.
+
+476
+00:32:31,940 --> 00:32:37,510
+Um? Be tackled
+numerous ways in writing
+
+477
+00:32:37,510 --> 00:32:41,390
+and in visual elements of
+concise coverage analysis,
+
+478
+00:32:41,390 --> 00:32:44,785
+slash, completing covering
+all would be good.
+
+479
+00:32:45,870 --> 00:32:49,230
+Concise, so short and to the
+point, which is good because I
+
+480
+00:32:49,230 --> 00:32:51,190
+think we can do that just fine.
+
+481
+00:32:51,880 --> 00:32:54,616
+Um strongly recommended table
+presentation of comparison data
+
+482
+00:32:54,616 --> 00:32:59,404
+as it is a very easy to
+highlight as it is very easy to
+
+483
+00:32:59,404 --> 00:33:02,482
+highlight a lot of information,
+simple for others reading.
+
+484
+00:33:02,482 --> 00:33:03,508
+Interpret too so.
+
+485
+00:33:04,770 --> 00:33:09,369
+I'm thinking maybe we could eat
+right out like.
+
+486
+00:33:09,990 --> 00:33:11,550
+What job title is?
+
+487
+00:33:12,490 --> 00:33:17,144
+Like the main roles and then
+put, put it in a table each.
+
+488
+00:33:17,144 --> 00:33:22,156
+Sorry, put the hour jobs in one
+block of the table edge and then
+
+489
+00:33:22,156 --> 00:33:25,378
+list the differences underneath
+and contribute it like that.
+
+490
+00:33:25,378 --> 00:33:26,810
+Could be very quick.
+
+491
+00:33:28,210 --> 00:33:30,540
+Maybe? Right?
+
+492
+00:33:31,270 --> 00:33:38,190
+So. I'm
+having trouble explaining what I
+
+493
+00:33:38,190 --> 00:33:40,335
+mean, but yeah.
+
+494
+00:33:40,620 --> 00:33:45,168
+And then we just find a little
+aspect of somebody else. Is
+
+495
+00:33:45,168 --> 00:33:49,716
+that similar and say this is
+my ideal job blah blah, and
+
+496
+00:33:49,716 --> 00:33:54,264
+Maddie's is also similar in
+this way and then that kind of
+
+497
+00:33:54,264 --> 00:33:58,054
+might be it? And then will
+just fill those individual
+
+498
+00:33:58,054 --> 00:34:02,223
+ones together and and also do
+a pretty table as well,
+
+499
+00:34:02,223 --> 00:34:06,392
+putting it in a table is
+probably the tricky part I
+
+500
+00:34:06,392 --> 00:34:09,803
+think by trying to make it
+look yeah efficient.
+
+501
+00:34:11,150 --> 00:34:15,290
+Anyone got experience with
+putting that on the website?
+
+502
+00:34:15,290 --> 00:34:20,810
+Making a table on website? My
+website? I made a really tiny
+
+503
+00:34:20,810 --> 00:34:26,186
+table. Just to try it out, but
+it's not not anything pretty
+
+504
+00:34:26,186 --> 00:34:29,946
+like not for something as
+comprehensive as this, but it
+
+505
+00:34:29,946 --> 00:34:32,202
+depends how pretty you want it.
+
+506
+00:34:32,380 --> 00:34:34,165
+And how much time we wanna spend
+
+507
+00:34:34,165 --> 00:34:38,740
+on it? It's a concise, so we
+could keep that part simple.
+
+508
+00:34:38,740 --> 00:34:42,300
+Life like this like this
+elsewhere. As long as we're
+
+509
+00:34:42,300 --> 00:34:43,368
+meeting that criteria.
+
+510
+00:34:43,910 --> 00:34:49,656
+So we've reached the 40 minute
+mark. Do we wanna pick a chair
+
+511
+00:34:49,656 --> 00:34:50,982
+for tomorrow and?
+
+512
+00:34:51,530 --> 00:34:56,460
+Leave it here for today. That
+sounds like a plan.
+
+513
+00:34:56,620 --> 00:34:58,128
+Anyone want to volunteer?
+
+514
+00:34:59,180 --> 00:35:03,370
+I have one question that we
+should probably look at
+
+515
+00:35:03,370 --> 00:35:07,560
+tomorrow. We gotta organize the
+custom questions that we wanna
+
+516
+00:35:07,560 --> 00:35:11,140
+ask Steven. Are you OK 'cause he
+just wants to just like?
+
+517
+00:35:11,790 --> 00:35:15,508
+So we just like each of us just
+come with one different, like
+
+518
+00:35:15,508 --> 00:35:19,226
+what would one question it just
+like added up to like the other.
+
+519
+00:35:20,280 --> 00:35:24,240
+By your questions and yeah.
+
+520
+00:35:24,240 --> 00:35:28,552
+Questions beforehand there so so
+we want to prove messages on
+
+521
+00:35:28,552 --> 00:35:33,256
+teams. Do we want to come up
+with a question each contribute
+
+522
+00:35:33,256 --> 00:35:36,784
+to list and will have that
+sorted by tomorrow.
+
+523
+00:35:37,770 --> 00:35:40,590
+Yeah, we can do that. Yeah
+tonight or something, yeah?
+
+524
+00:35:41,340 --> 00:35:44,712
+How does that sound item with?
+Yeah, that should be great. He
+
+525
+00:35:44,712 --> 00:35:48,365
+just wanted a heads up so 'cause
+he doesn't want to be like
+
+526
+00:35:48,365 --> 00:35:52,299
+caught off guard on a question
+and be like I don't know how to
+
+527
+00:35:52,299 --> 00:35:58,220
+answer it. So just for the
+record, what's what was his name
+
+528
+00:35:58,220 --> 00:36:03,540
+again? Steven, and he's a senior
+software developer at Microsoft.
+
+529
+00:36:03,540 --> 00:36:09,392
+I think he's working in the Xbox
+teams at the moment.
+
+530
+00:36:09,400 --> 00:36:13,104
+Cool man, so you've already
+spoken to him.
+
+531
+00:36:13,620 --> 00:36:17,010
+Yep, it is just waiting for when
+we're ready to.
+
+532
+00:36:17,510 --> 00:36:21,146
+Give him the questions and
+then give him a couple of days
+
+533
+00:36:21,146 --> 00:36:24,479
+notice and then we can do the
+interview. Lovely, he's happy
+
+534
+00:36:24,479 --> 00:36:28,721
+for it to be video recorded,
+so if we want to put the video
+
+535
+00:36:28,721 --> 00:36:30,842
+recording on the website we
+possibly could.
+
+536
+00:36:32,000 --> 00:36:34,676
+Just apply that to the shooter.
+
+537
+00:36:35,420 --> 00:36:41,821
+Yeah, sweet. Phone and as many
+of us who want to attend can
+
+538
+00:36:41,821 --> 00:36:45,340
+will probably limit how many
+people ask questions though.
+
+539
+00:36:45,860 --> 00:36:49,442
+Yeah, each person ask a couple
+of questions each.
+
+540
+00:36:50,210 --> 00:36:53,915
+Say I I think I read that
+we all need to be present,
+
+541
+00:36:53,915 --> 00:36:57,335
+but we don't all need to be
+asking questions is what I
+
+542
+00:36:57,335 --> 00:36:58,760
+think that's what I read.
+
+543
+00:37:00,000 --> 00:37:03,804
+Because it's digital, like if it
+was a interview in person. They
+
+544
+00:37:03,804 --> 00:37:08,242
+said like one or two people, but
+digital and needs to be all of
+
+545
+00:37:08,242 --> 00:37:12,363
+us. The time zone difference
+might be tricky for us all to be
+
+546
+00:37:12,363 --> 00:37:14,265
+there being there. He's in the
+
+547
+00:37:14,265 --> 00:37:18,793
+US. Put that on record, then if
+we if we can't organize it to
+
+548
+00:37:18,793 --> 00:37:22,324
+have us all there. Otherwise
+we're going to do some Cardboard
+
+549
+00:37:22,324 --> 00:37:26,176
+cut out of each person. Just
+having in front of their webcam.
+
+550
+00:37:26,176 --> 00:37:27,781
+Remember what did they move?
+
+551
+00:37:27,810 --> 00:37:29,100
+What did he say, George?
+
+552
+00:37:29,630 --> 00:37:32,378
+Uh, what day is this? When
+are you planning to do the
+
+553
+00:37:32,378 --> 00:37:32,607
+interview?
+
+554
+00:37:33,840 --> 00:37:38,361
+Who will have to discuss it
+tomorrow? 'cause we're going to
+
+555
+00:37:38,361 --> 00:37:42,250
+be there. Well, we can discuss
+it through chat, 'cause I think
+
+556
+00:37:42,250 --> 00:37:45,004
+we're supposed to keep our
+meetings through 40 minutes
+
+557
+00:37:45,004 --> 00:37:51,989
+long. Yeah, so any other
+quick questions before we go
+
+558
+00:37:51,989 --> 00:37:56,386
+or. Do you wanna continue on
+chat if we have any more
+
+559
+00:37:56,386 --> 00:38:00,820
+questions? Yeah, I guess we
+continue on chat. My batteries
+
+560
+00:38:00,820 --> 00:38:03,040
+are dead on my laptop so.
+
+561
+00:38:03,040 --> 00:38:06,640
+Finish quickly, I've added
+little questions, document to
+
+562
+00:38:06,640 --> 00:38:10,690
+IT, work tab for the questions
+for him so.
+
+563
+00:38:11,420 --> 00:38:15,622
+Of all these birds with these
+questions on there, yeah yeah,
+
+564
+00:38:15,622 --> 00:38:18,678
+how about just add extra
+question on today?
+
+565
+00:38:18,690 --> 00:38:20,940
+For all that Word document
+
+566
+00:38:20,940 --> 00:38:27,368
+itself. Alright, I'll stop
+the recording here then.

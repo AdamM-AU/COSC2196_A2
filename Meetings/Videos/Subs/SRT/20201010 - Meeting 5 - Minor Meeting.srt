@@ -1,0 +1,707 @@
+﻿1
+00:00:02,260 --> 00:00:06,166
+So I mean research the rest.
+
+2
+00:00:07,310 --> 00:00:13,147
+So after a quick idea is that
+for both Android and iOS, that
+
+3
+00:00:13,147 --> 00:00:17,188
+will evaluate a individuals
+privacy settings that they have
+
+4
+00:00:17,188 --> 00:00:21,229
+on their various social media
+accounts, be it Instagram,
+
+5
+00:00:21,229 --> 00:00:26,168
+Facebook, Twitter, we chat. Or
+we can always expand add more
+
+6
+00:00:26,168 --> 00:00:31,556
+later Ascential E the user is
+going to give us permission to
+
+7
+00:00:31,556 --> 00:00:35,597
+access their social media
+accounts with their details to
+
+8
+00:00:35,597 --> 00:00:38,291
+which we will then check their
+
+9
+00:00:38,291 --> 00:00:41,550
+privacy settings. For example,
+like on Facebook there post
+
+10
+00:00:41,550 --> 00:00:44,850
+public, are there Pictures
+public that don't need to be
+
+11
+00:00:44,850 --> 00:00:47,490
+besides their profile pictures
+and then will make
+
+12
+00:00:47,490 --> 00:00:50,790
+recommendations based on what we
+found? We can't actually change
+
+13
+00:00:50,790 --> 00:00:55,410
+this. A lot of the settings for
+them, so the idea is that will
+
+14
+00:00:55,410 --> 00:01:00,030
+say hey, this is bad. This is
+bad. This is bad and here are
+
+15
+00:01:00,030 --> 00:01:04,320
+some videos that we can link you
+to on that we've created on
+
+16
+00:01:04,320 --> 00:01:07,950
+YouTube with a step by step
+tutorial showing them how to
+
+17
+00:01:07,950 --> 00:01:11,250
+resolve those security issues.
+So basically it's going to just
+
+18
+00:01:11,250 --> 00:01:16,476
+do a. Security and privacy
+checkup. Yeah cool I mean Yeah
+
+19
+00:01:16,476 --> 00:01:21,516
+it also push them notifications
+and push them notifications if
+
+20
+00:01:21,516 --> 00:01:25,548
+their privacy agreements with
+the social media platforms
+
+21
+00:01:25,548 --> 00:01:29,134
+change. So like Facebook forever
+changing their privacy settings
+
+22
+00:01:29,134 --> 00:01:33,446
+and making it harder to turn off
+some things and easy to turn off
+
+23
+00:01:33,446 --> 00:01:36,834
+others. So when that happens or
+they've changed it, so saying
+
+24
+00:01:36,834 --> 00:01:39,914
+that, well, we're going to share
+your information with this
+
+25
+00:01:39,914 --> 00:01:42,070
+company. Now we need to buy the
+
+26
+00:01:42,070 --> 00:01:46,320
+user of that. Cool, I get to
+yeah. Do they update those terms
+
+27
+00:01:46,320 --> 00:01:49,620
+and agreements just all the time
+in the background and just don't
+
+28
+00:01:49,620 --> 00:01:52,645
+tell anyone where they normally
+give you like this little Gray
+
+29
+00:01:52,645 --> 00:01:56,220
+message bar up in the top. Do
+it. My lot of people when
+
+30
+00:01:56,220 --> 00:01:58,970
+they're signing in. Just click
+dismiss. Yeah, well, you just
+
+31
+00:01:58,970 --> 00:02:02,270
+get that notification and you're
+like oh that's not one of my
+
+32
+00:02:02,270 --> 00:02:05,295
+friends whatever and in there
+it's like oh we're gonna tell
+
+33
+00:02:05,295 --> 00:02:09,145
+everybody that you own a house
+or if you agree to this we own
+
+34
+00:02:09,145 --> 00:02:12,720
+10% of your house 'cause nobody
+reads the yoga so we gotta make
+
+35
+00:02:12,720 --> 00:02:14,370
+sure it like we check those.
+
+36
+00:02:14,420 --> 00:02:18,188
+And maybe say hi, you might not
+like this anymore because they
+
+37
+00:02:18,188 --> 00:02:20,700
+are, they're giving your
+information to these people.
+
+38
+00:02:20,700 --> 00:02:24,782
+Yeah, yeah, because if you still
+need to use the app, you just
+
+39
+00:02:24,782 --> 00:02:28,864
+have to accept it you. But yeah,
+most people would just after you
+
+40
+00:02:28,864 --> 00:02:32,946
+want 10% of my house. Fine you
+wanna use my text phone number?
+
+41
+00:02:32,946 --> 00:02:37,656
+That's OK you got me in a corner
+here. Yeah I still need to talk
+
+42
+00:02:37,656 --> 00:02:41,424
+to those people in those cat
+means I just can't live without.
+
+43
+00:02:41,430 --> 00:02:47,200
+Yes. Sorry,
+you're happy too.
+
+44
+00:02:47,790 --> 00:02:52,808
+Drop a graph, a draft of what
+you think that might look like.
+
+45
+00:02:52,808 --> 00:02:57,826
+Daniel and then share it with
+Adam. I'll try and have a draft
+
+46
+00:02:57,826 --> 00:03:03,230
+done by our next meeting, so
+then we'll be able to do that in
+
+47
+00:03:03,230 --> 00:03:08,248
+the last 30 minutes, like 4 days
+to get it all over scratch
+
+48
+00:03:08,248 --> 00:03:12,494
+because we've got a fairly
+simple project idea which we can
+
+49
+00:03:12,494 --> 00:03:16,354
+really hash out pretty quickly
+on for the project plans.
+
+50
+00:03:16,380 --> 00:03:19,903
+Yeah. Discover
+
+51
+00:03:19,903 --> 00:03:26,962
+type yeah. And I'll be
+available next Saturday, but the
+
+52
+00:03:26,962 --> 00:03:29,518
+one coming up so.
+
+53
+00:03:29,750 --> 00:03:33,490
+If anyone else had available,
+maybe we'll hash out some last
+
+54
+00:03:33,490 --> 00:03:36,890
+minute things 'cause I'm sure
+we'll have some as well.
+
+55
+00:03:37,460 --> 00:03:43,860
+Yeah. Really good idea. So my
+mentioned that in Ms teams so
+
+56
+00:03:43,860 --> 00:03:49,030
+that everyone else knows that if
+if they are available on
+
+57
+00:03:49,030 --> 00:03:51,850
+Saturday we might have a last
+
+58
+00:03:51,850 --> 00:03:57,722
+minute thing. And then it's
+probably due Sunday night, isn't
+
+59
+00:03:57,722 --> 00:04:03,264
+it? Yeah. That's why we
+gotta get some. Read all the
+
+60
+00:04:03,264 --> 00:04:06,520
+spelling mistakes on the website
+that I just copied and pasted
+
+61
+00:04:06,520 --> 00:04:10,564
+it. I do that for my job so I
+could help out there. I've
+
+62
+00:04:10,564 --> 00:04:14,308
+looked at capital of times and
+like how did I miss that? Don't
+
+63
+00:04:14,308 --> 00:04:16,324
+know why. How did word miss that
+
+64
+00:04:16,324 --> 00:04:20,301
+spelling mistake? I'm telling
+you there's not much squared
+
+65
+00:04:20,301 --> 00:04:21,720
+picks up on.
+
+66
+00:04:21,720 --> 00:04:26,428
+This would be right if it was
+American spelling. Change the
+
+67
+00:04:26,428 --> 00:04:28,996
+setting like fix, fix, fix, fix,
+
+68
+00:04:28,996 --> 00:04:32,560
+fix. I'm so I've gotta add
+an ideal job section. Don't
+
+69
+00:04:32,560 --> 00:04:33,795
+lie to the web page.
+
+70
+00:04:35,660 --> 00:04:38,650
+For yourself or know for
+everyone for everybody. And then
+
+71
+00:04:38,650 --> 00:04:42,238
+I'm thinking the home page will
+be the comparison. Was like I'll
+
+72
+00:04:42,238 --> 00:04:46,125
+do a tab style like the other
+industry data where it's got the
+
+73
+00:04:46,125 --> 00:04:49,713
+individual ones so you can click
+their names to just get their
+
+74
+00:04:49,713 --> 00:04:53,130
+ideal job summary. That's just
+the paragraph where it's like
+
+75
+00:04:53,130 --> 00:04:57,810
+this is my ideal job and then
+we'll do the comparison on the
+
+76
+00:04:57,810 --> 00:05:02,130
+main page I guess. Yeah, no. I
+think the comparison was just
+
+77
+00:05:02,130 --> 00:05:06,090
+know know the because the
+comparison is worth 2 points. We
+
+78
+00:05:06,090 --> 00:05:10,050
+were just going to try to
+paragraph. I think Daniel you've
+
+79
+00:05:10,050 --> 00:05:13,650
+already done. Yeah, I've got
+mine. Mines currently in the
+
+80
+00:05:13,650 --> 00:05:16,170
+personal information section
+like profile section. Just
+
+81
+00:05:16,170 --> 00:05:19,770
+another paragraph at the end of
+those profile personality test
+
+82
+00:05:19,770 --> 00:05:22,650
+things. Yeah. So just a
+paragraph saying how?
+
+83
+00:05:22,720 --> 00:05:27,054
+Our job is similar to or
+different to the other peoples
+
+84
+00:05:27,054 --> 00:05:31,782
+drugs. Yeah, the questions are
+in the in the PDF and summit
+
+85
+00:05:31,782 --> 00:05:37,298
+too, so the graph or the diagram
+or something or other was on the
+
+86
+00:05:37,298 --> 00:05:40,056
+industry to answer because
+that's worth more.
+
+87
+00:05:40,090 --> 00:05:43,084
+That makes
+
+88
+00:05:43,084 --> 00:05:50,008
+sense, Adam. I think
+we kind of concluded that that
+
+89
+00:05:50,008 --> 00:05:55,900
+could still be some are we. We
+started to Draw Something up,
+
+90
+00:05:55,900 --> 00:05:57,864
+you contributed to it.
+
+91
+00:05:57,870 --> 00:06:05,310
+Meeting Typing
+into the yeah yeah.
+
+92
+00:06:05,310 --> 00:06:08,162
+And for
+
+93
+00:06:08,162 --> 00:06:12,138
+skills. Necessary for a job.
+
+94
+00:06:12,140 --> 00:06:16,180
+Las data, yeah. I think we can
+probably have it.
+
+95
+00:06:17,260 --> 00:06:21,077
+I different able to that as
+well, which just lists which
+
+96
+00:06:21,077 --> 00:06:25,241
+skills I think, sort of which
+skills are needed. While he had
+
+97
+00:06:25,241 --> 00:06:29,058
+like our names and then the
+skills and then ranked like
+
+98
+00:06:29,058 --> 00:06:32,528
+which skill is important to
+whoever's job you were gonna
+
+99
+00:06:32,528 --> 00:06:35,304
+generalize the skills in the
+groups, won't we?
+
+100
+00:06:36,370 --> 00:06:40,074
+Yeah, like communication and
+
+101
+00:06:40,074 --> 00:06:43,435
+stuff, yeah. Different
+
+102
+00:06:43,435 --> 00:06:47,880
+jobs. Yeah, I know they kind of
+blurring together and they
+
+103
+00:06:47,880 --> 00:06:51,996
+didn't have to make it to Jen
+and make a table for us for
+
+104
+00:06:51,996 --> 00:06:55,524
+that. That's what I meant, but
+I'm not sure that that covers
+
+105
+00:06:55,524 --> 00:06:56,700
+the burning glass stuff.
+
+106
+00:06:57,590 --> 00:07:02,070
+Yeah, I'm not. I'm not sure if
+that would get us marks per say.
+
+107
+00:07:02,070 --> 00:07:06,230
+Yeah, 'cause that was prior that
+was us putting in what our the
+
+108
+00:07:06,230 --> 00:07:09,430
+job we chose on the previous
+assignment. What each individual
+
+109
+00:07:09,430 --> 00:07:13,270
+skill on that chart was rated
+based on what we thought the
+
+110
+00:07:13,270 --> 00:07:16,790
+employer would. 'cause I think
+there were three sections of the
+
+111
+00:07:16,790 --> 00:07:19,990
+burning glass data where they
+had three different tables for
+
+112
+00:07:19,990 --> 00:07:22,870
+the different criteria that the
+data was looking at.
+
+113
+00:07:24,090 --> 00:07:29,830
+Yeah, so if we group if we make
+a table or chart that basically
+
+114
+00:07:29,830 --> 00:07:31,060
+uses that same.
+
+115
+00:07:32,050 --> 00:07:35,098
+Like the same criteria is what
+how they listed that data. We
+
+116
+00:07:35,098 --> 00:07:36,622
+could do a table that way.
+
+117
+00:07:37,160 --> 00:07:40,300
+Yeah yeah yeah I will.
+
+118
+00:07:41,550 --> 00:07:46,398
+'cause it is, as long as we're
+presenting data that looks like
+
+119
+00:07:46,398 --> 00:07:50,438
+it was from the burning gas
+starter, it's really our
+
+120
+00:07:50,438 --> 00:07:53,670
+interpretation of what our job
+requires. Different skills.
+
+121
+00:07:53,680 --> 00:07:57,664
+On Wednesdays, we can, we just
+do another like read through of
+
+122
+00:07:57,664 --> 00:08:00,984
+that section and just spend 10
+minutes just literally reading
+
+123
+00:08:00,984 --> 00:08:03,972
+through what the questions are.
+Then we can all.
+
+124
+00:08:03,980 --> 00:08:06,476
+I think as long as we've all
+done are burning last stuff.
+
+125
+00:08:07,280 --> 00:08:10,965
+Well go through data, format it
+on the next meeting. Yeah,
+
+126
+00:08:10,965 --> 00:08:11,970
+that's good idea.
+
+127
+00:08:12,550 --> 00:08:19,379
+Yeah, yeah.
+So by Wednesday.
+
+128
+00:08:19,380 --> 00:08:22,020
+And they will have.
+
+129
+00:08:22,320 --> 00:08:28,051
+Each of our individual things
+done, except for maybe some of
+
+130
+00:08:28,051 --> 00:08:32,740
+the group project technical
+stuff between Daniel and Adam.
+
+131
+00:08:32,860 --> 00:08:36,444
+But you'll have a draft ready by
+
+132
+00:08:36,444 --> 00:08:40,638
+then, Daniel. Technic reflection
+basically as much as I can do
+
+133
+00:08:40,638 --> 00:08:43,102
+until I just get out of my
+
+134
+00:08:43,102 --> 00:08:46,292
+depth. We all have a working on
+
+135
+00:08:46,292 --> 00:08:51,838
+as well. Yeah, so it will have
+all that writing done by then.
+
+136
+00:08:51,838 --> 00:08:55,182
+Basically yeah, hopefully
+actually. Yeah yeah yeah, I
+
+137
+00:08:55,182 --> 00:08:58,526
+think that's the writing
+sections assigned to everyone
+
+138
+00:08:58,526 --> 00:09:03,124
+basically and then just be a
+formatting issue. And that is
+
+139
+00:09:03,124 --> 00:09:07,304
+how we throw formatting graphs
+and adding the technical details
+
+140
+00:09:07,304 --> 00:09:09,812
+and then the uploading to the
+
+141
+00:09:09,812 --> 00:09:13,612
+website. Yeah yeah,
+
+142
+00:09:13,612 --> 00:09:15,960
+yeah. Yeah, yeah.
+
+143
+00:09:16,640 --> 00:09:20,060
+Do you want to live?
+
+144
+00:09:20,060 --> 00:09:22,448
+The door saying.
+
+145
+00:09:22,450 --> 00:09:26,394
+Will wrap up the recording
+there, shall we?
+
+146
+00:09:26,400 --> 00:09:30,105
+Recording again. Yeah,
+
+147
+00:09:30,105 --> 00:09:35,239
+yeah. His condition count as
+another meeting. I think it's
+
+148
+00:09:35,239 --> 00:09:38,687
+it's a meeting. Yeah, yeah,
+Sweet Yeah Alright.

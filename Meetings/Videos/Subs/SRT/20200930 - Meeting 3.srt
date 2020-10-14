@@ -1,0 +1,2131 @@
+﻿1
+00:00:03,080 --> 00:00:09,006
+Right, yeah? Cool, just quickly
+run through the gender that I
+
+2
+00:00:09,006 --> 00:00:14,814
+set out the progress report on
+the content as the project I
+
+3
+00:00:14,814 --> 00:00:21,590
+dear update, just sort of a part
+of the first one and then review
+
+4
+00:00:21,590 --> 00:00:26,914
+and confirm group roles that
+content calls. If we feel like
+
+5
+00:00:26,914 --> 00:00:31,270
+it then just general group
+questions and issues. Maybe
+
+6
+00:00:31,270 --> 00:00:33,690
+questions for Tim and schedule
+
+7
+00:00:33,690 --> 00:00:35,971
+next meeting. For the next
+
+8
+00:00:35,971 --> 00:00:41,330
+meeting. But yeah, I don't know
+if we can just go buy one by one
+
+9
+00:00:41,330 --> 00:00:42,570
+and report on the.
+
+10
+00:00:43,350 --> 00:00:46,540
+Progress of the content that
+
+11
+00:00:46,540 --> 00:00:48,840
+we've done. Section.
+
+12
+00:00:50,130 --> 00:00:56,470
+Yeah, I guess we can go
+section by section, yeah?
+
+13
+00:00:57,520 --> 00:01:03,045
+Yeah, I did a quick run through
+before and it looks like we've
+
+14
+00:01:03,045 --> 00:01:07,295
+started all this sections that
+we can't 'cause. There's a
+
+15
+00:01:07,295 --> 00:01:10,695
+couple like the feedback
+feedback in Group reflection.
+
+16
+00:01:10,695 --> 00:01:14,945
+Gotta wait until Week 6 or 7,
+probably Week 7.
+
+17
+00:01:15,640 --> 00:01:21,340
+But we may decide on pretty much
+everything. So we I think
+
+18
+00:01:21,340 --> 00:01:23,715
+looking in a decent position.
+
+19
+00:01:23,730 --> 00:01:28,834
+But I'm pretty focused. It's
+running a meeting so I don't
+
+20
+00:01:28,834 --> 00:01:31,154
+really know what I'm doing,
+
+21
+00:01:31,154 --> 00:01:35,306
+sorry. Well, I've come, I
+haven't started too much
+
+22
+00:01:35,306 --> 00:01:38,879
+of my section my, you
+know the four different.
+
+23
+00:01:40,150 --> 00:01:42,580
+Things we have to do.
+
+24
+00:01:42,580 --> 00:01:46,961
+Yeah, I haven't done much of
+mine 'cause I was doing some of
+
+25
+00:01:46,961 --> 00:01:50,668
+the weekly work. I haven't even
+seen this weeks meeting from
+
+26
+00:01:50,668 --> 00:01:54,375
+Anthony just yet, so I haven't
+actually made much progress at
+
+27
+00:01:54,375 --> 00:01:54,712
+all.
+
+28
+00:01:55,310 --> 00:02:02,845
+Really.
+Yeah, but I what weight is it?
+
+29
+00:02:02,845 --> 00:02:04,665
+Do you I forget?
+
+30
+00:02:05,020 --> 00:02:09,260
+We still have like another three
+weeks, I think or.
+
+31
+00:02:10,080 --> 00:02:13,872
+We're doing pretty good
+considering, yeah, other people
+
+32
+00:02:13,872 --> 00:02:15,768
+don't have groups yet.
+
+33
+00:02:15,770 --> 00:02:18,778
+Yeah. I started the website.
+
+34
+00:02:19,540 --> 00:02:22,040
+Yes, it looks good I.
+
+35
+00:02:22,720 --> 00:02:27,292
+I haven't actually looked at it
+yet. I haven't added the team
+
+36
+00:02:27,292 --> 00:02:30,721
+profile pictures. I just took
+yours Mattie from canvas.
+
+37
+00:02:31,270 --> 00:02:35,637
+'cause I didn't get back till
+just now. So sorry that's
+
+38
+00:02:35,637 --> 00:02:38,019
+alright. That's The One I gave
+
+39
+00:02:38,019 --> 00:02:43,313
+you anyway. I just went with
+like two different colors of
+
+40
+00:02:43,313 --> 00:02:48,450
+Grey 'cause I didn't know what
+colors used wanted to pick.
+
+41
+00:02:48,460 --> 00:02:51,589
+I can change that at any point.
+
+42
+00:02:51,590 --> 00:02:58,154
+I don't what was the little
+animation I've oh it's a little
+
+43
+00:02:58,154 --> 00:03:01,190
+PAC man. Yeah.
+
+44
+00:03:01,920 --> 00:03:05,280
+So while I do the content in the
+background so it's actually
+
+45
+00:03:05,280 --> 00:03:08,360
+ready to display rather than you
+see half loading pictures, it
+
+46
+00:03:08,360 --> 00:03:11,440
+will just display that until
+everything is ready to go, and
+
+47
+00:03:11,440 --> 00:03:14,520
+then they'll receive the whole
+page in one here. Oh, that's
+
+48
+00:03:14,520 --> 00:03:17,600
+that's cool. Yeah, is that like
+a JavaScript thing? Yeah, I
+
+49
+00:03:17,600 --> 00:03:20,680
+commented all the code there,
+'cause in case you guys wanted
+
+50
+00:03:20,680 --> 00:03:26,286
+to use it. So you can just read
+that and write the comments, and
+
+51
+00:03:26,286 --> 00:03:28,166
+it's all explains what I'm
+
+52
+00:03:28,166 --> 00:03:31,370
+doing. Retain profiles when you
+click on a picture, it's going
+
+53
+00:03:31,370 --> 00:03:35,318
+to open up a like a window on
+the page in JavaScript and then.
+
+54
+00:03:35,950 --> 00:03:40,540
+You should be able to say that
+if you go to that and just yeah,
+
+55
+00:03:40,540 --> 00:03:43,160
+it looks great. Love it.
+
+56
+00:03:43,810 --> 00:03:47,070
+Yeah. It's amazing.
+
+57
+00:03:48,420 --> 00:03:53,558
+So I thought, you know, we might
+as well add some class to the
+
+58
+00:03:53,558 --> 00:03:56,155
+site. The other team's a little
+
+59
+00:03:56,155 --> 00:04:00,758
+bit. Maybe will distract him
+with all the fancy stuff it does
+
+60
+00:04:00,758 --> 00:04:04,160
+anyway. Write anything and just
+give us full marks.
+
+61
+00:04:04,520 --> 00:04:08,210
+No, you didn't put any of
+
+62
+00:04:08,210 --> 00:04:12,240
+the flashy. Strophic strobe
+lighting on there. Yeah Oh no,
+
+63
+00:04:12,240 --> 00:04:16,790
+not yet. Not yet. Not so work in
+progress might be randomly when
+
+64
+00:04:16,790 --> 00:04:21,340
+you click on one of the team
+profiles, it'll just load up a
+
+65
+00:04:21,340 --> 00:04:23,440
+disco ball in the corner and
+
+66
+00:04:23,440 --> 00:04:25,500
+just. Like a disco.
+
+67
+00:04:27,100 --> 00:04:31,410
+So has anyone had time to work
+on their pieces?
+
+68
+00:04:32,320 --> 00:04:38,040
+Uh, yeah I I did my cloud
+service services and serves
+
+69
+00:04:38,040 --> 00:04:41,284
+servers. Uh, yeah I am
+
+70
+00:04:41,284 --> 00:04:45,154
+researching. For that for the
+last three days, right?
+
+71
+00:04:45,670 --> 00:04:48,761
+Got some echo from you
+George. Yeah I know I can
+
+72
+00:04:48,761 --> 00:04:50,166
+hear myself with a little.
+
+73
+00:04:51,410 --> 00:04:54,460
+Alright, I'll do this hello.
+
+74
+00:04:55,150 --> 00:04:56,240
+Translator
+
+75
+00:04:56,870 --> 00:05:03,368
+No. Sorry,
+but no.
+
+76
+00:05:04,510 --> 00:05:08,644
+I don't know. Is your microphone
+too close to your speaker?
+
+77
+00:05:10,210 --> 00:05:14,962
+I'm just using the fine now.
+I think maybe the connector
+
+78
+00:05:14,962 --> 00:05:20,146
+came out a little bit and it
+was using the speaker audio
+
+79
+00:05:20,146 --> 00:05:21,442
+or something, yeah?
+
+80
+00:05:22,560 --> 00:05:24,200
+Sounds better, yes, better now,
+
+81
+00:05:24,200 --> 00:05:28,110
+yeah. OK cool yeah. Well, I've
+been researching that for the
+
+82
+00:05:28,110 --> 00:05:31,758
+last three days and I've done
+all of that. So if you're
+
+83
+00:05:31,758 --> 00:05:33,582
+anybody wants to have read in.
+
+84
+00:05:34,360 --> 00:05:39,940
+You know, have any like a
+feedback on that? I'll be good.
+
+85
+00:05:39,950 --> 00:05:45,438
+Uh, yeah. So I just done that
+and then I did my profile as
+
+86
+00:05:45,438 --> 00:05:48,182
+well. And what was the other one
+
+87
+00:05:48,182 --> 00:05:54,286
+IT? The one with the other
+section that we had to do the
+
+88
+00:05:54,286 --> 00:05:58,609
+questions no the other one are
+the ideal job. Sorry yeah.
+
+89
+00:05:59,440 --> 00:06:05,054
+Yeah so. That section of me
+it's it's done so.
+
+90
+00:06:06,360 --> 00:06:08,890
+How did we want some?
+
+91
+00:06:09,690 --> 00:06:11,950
+Oh was that the?
+
+92
+00:06:12,560 --> 00:06:16,642
+Was that the research part of it
+or where you had to include
+
+93
+00:06:16,642 --> 00:06:20,096
+statistics? Or was that the
+other part that you mean? No,
+
+94
+00:06:20,096 --> 00:06:24,178
+not the other one, the other one
+just the one this summer. Just
+
+95
+00:06:24,178 --> 00:06:27,318
+like it. Yeah, the summary of
+your ideal job, yeah?
+
+96
+00:06:30,310 --> 00:06:37,776
+That's cool. Are
+you are doing cloud services?
+
+97
+00:06:37,776 --> 00:06:42,384
+George yeah. Yeah, so anyway
+anyone wants to have a look.
+
+98
+00:06:42,384 --> 00:06:44,064
+They have it right there.
+
+99
+00:06:45,860 --> 00:06:46,870
+Well, nice.
+
+100
+00:06:52,490 --> 00:06:55,658
+You have to make
+sure you put your.
+
+101
+00:06:57,260 --> 00:07:00,538
+Before we complete everything
+left to make sure we put all
+
+102
+00:07:00,538 --> 00:07:01,730
+of our resources in.
+
+103
+00:07:02,900 --> 00:07:05,040
+What's a call references?
+
+104
+00:07:05,540 --> 00:07:06,370
+In Brooklyn.
+
+105
+00:07:08,010 --> 00:07:14,802
+In text citations
+and all that
+
+106
+00:07:14,802 --> 00:07:19,076
+stuff. Your reference list is at
+the Harvard standard.
+
+107
+00:07:20,340 --> 00:07:22,998
+Can you do?
+
+108
+00:07:23,000 --> 00:07:27,512
+Copy and paste those web pages.
+I was gonna use the Harvard
+
+109
+00:07:27,512 --> 00:07:32,024
+referencing system at the bottom
+after I used citement so it says
+
+110
+00:07:32,024 --> 00:07:36,160
+on the assessment like at the
+end, like you specifically have
+
+111
+00:07:36,160 --> 00:07:38,416
+to use insight like in text
+
+112
+00:07:38,416 --> 00:07:40,645
+citation. So every time like you
+
+113
+00:07:40,645 --> 00:07:44,070
+mentioned. Someone else is
+research or something you have
+
+114
+00:07:44,070 --> 00:07:47,970
+to do, like their name and like
+the year or an even like
+
+115
+00:07:47,970 --> 00:07:49,470
+sometimes the page depending on
+
+116
+00:07:49,470 --> 00:07:53,279
+what it is. I hate that.
+
+117
+00:07:53,280 --> 00:07:56,349
+I will have lost marks for that
+on my assessment one.
+
+118
+00:07:58,120 --> 00:08:00,680
+'cause I didn't do that.
+
+119
+00:08:00,680 --> 00:08:06,182
+Yeah, but it is usually only
+like 5% of like that part of the
+
+120
+00:08:06,182 --> 00:08:10,898
+assessment or whatever. So if
+you didn't like do it, then you
+
+121
+00:08:10,898 --> 00:08:15,614
+have run the last a couple
+marks. But the rest of it
+
+122
+00:08:15,614 --> 00:08:20,723
+would've been fine. But like I
+was like right at the end. Oh,
+
+123
+00:08:20,723 --> 00:08:23,081
+I'll just quickly do that bit.
+
+124
+00:08:23,100 --> 00:08:27,743
+Read it. You text item on
+whatever you call it. I just got
+
+125
+00:08:27,743 --> 00:08:30,306
+yeah all of my websites
+correlate to that data that I've
+
+126
+00:08:30,306 --> 00:08:33,335
+put in. So I'm just going to
+copy them back to where they
+
+127
+00:08:33,335 --> 00:08:35,822
+meant to be. After you cite this
+
+128
+00:08:35,822 --> 00:08:39,580
+for me. Let's
+
+129
+00:08:39,580 --> 00:08:46,720
+go. Um, Shannon,
+I think you did yours a few days
+
+130
+00:08:46,720 --> 00:08:48,895
+ago, didn't you? Your web
+
+131
+00:08:48,895 --> 00:08:52,130
+technologies? Or am I?
+
+132
+00:08:52,130 --> 00:08:57,258
+Sub Studio. Is that the
+one I'm remembered?
+
+133
+00:08:57,860 --> 00:09:01,000
+Technologies,
+
+134
+00:09:01,000 --> 00:09:07,660
+yeah?
+What did that sounds pretty if
+
+135
+00:09:07,660 --> 00:09:09,440
+you know yeah Sunday.
+
+136
+00:09:09,440 --> 00:09:10,960
+Just before the meeting.
+
+137
+00:09:11,740 --> 00:09:16,218
+Yeah. Obviously I've been
+working on my programming at the
+
+138
+00:09:16,218 --> 00:09:20,026
+moment. I just had a chance to
+get back to fixing some of these
+
+139
+00:09:20,026 --> 00:09:23,018
+files back up. You were a bit
+ahead of us anyway.
+
+140
+00:09:23,560 --> 00:09:30,574
+Tomorrow.
+FedEx relies and fix
+
+141
+00:09:30,574 --> 00:09:33,998
+it up and report.
+
+142
+00:09:34,000 --> 00:09:35,440
+Leah.
+
+143
+00:09:36,500 --> 00:09:38,640
+What about you guys?
+
+144
+00:09:39,970 --> 00:09:47,266
+So sorry.
+Your web technology or will you?
+
+145
+00:09:47,266 --> 00:09:50,321
+Working on the idea, yeah.
+
+146
+00:09:51,310 --> 00:09:54,757
+I uploaded um section, my
+section on the personal
+
+147
+00:09:54,757 --> 00:09:58,587
+information like the team
+profile and then the little bit
+
+148
+00:09:58,587 --> 00:10:03,566
+like George about the ideal jobs
+as part of the team profile and
+
+149
+00:10:03,566 --> 00:10:08,162
+I just got a discovery discussed
+with Adam which parts of the
+
+150
+00:10:08,162 --> 00:10:13,141
+project idea he wants me to
+write but we just give you those
+
+151
+00:10:13,141 --> 00:10:16,588
+up anything that's less
+technical. I can write like
+
+152
+00:10:16,588 --> 00:10:18,120
+maybe the motivation or
+
+153
+00:10:18,120 --> 00:10:23,150
+something. How do we go in
+studio? Find out whether we
+
+154
+00:10:23,150 --> 00:10:27,250
+could use Facebook allowed in
+their packages. Adam. Oh yeah,
+
+155
+00:10:27,250 --> 00:10:31,760
+we can take a look at the
+privacy settings that they've
+
+156
+00:10:31,760 --> 00:10:35,860
+set on posts and what apps
+they're allowed that they've
+
+157
+00:10:35,860 --> 00:10:39,960
+authorized on their account.
+That's what games they play, and
+
+158
+00:10:39,960 --> 00:10:45,290
+which ones they want to remove.
+But we can't make any changes to
+
+159
+00:10:45,290 --> 00:10:45,700
+that.
+
+160
+00:10:46,350 --> 00:10:53,370
+Web. So
+we can say it, we can change a
+
+161
+00:10:53,370 --> 00:10:55,370
+couple of things, nothing major.
+
+162
+00:10:56,050 --> 00:10:59,779
+And less we write an actual
+Facebook app which then they
+
+163
+00:10:59,779 --> 00:11:04,525
+have to approve and goes on to
+Facebook and then we can. But we
+
+164
+00:11:04,525 --> 00:11:08,254
+could still just turn around and
+go. You've gotta change this,
+
+165
+00:11:08,254 --> 00:11:12,661
+this and this and this and then
+just direct him to some YouTube
+
+166
+00:11:12,661 --> 00:11:17,068
+tutorials on how they do it.
+Yeah, it might have to be based
+
+167
+00:11:17,068 --> 00:11:20,119
+on recommendations or like.
+Here's where things look like.
+
+168
+00:11:20,119 --> 00:11:23,509
+Now we recommend this if you
+would prefer your information
+
+169
+00:11:23,509 --> 00:11:25,543
+not be accessing these people or
+
+170
+00:11:25,543 --> 00:11:29,206
+body. Which would still
+
+171
+00:11:29,206 --> 00:11:32,574
+be valuable. So to speak that
+
+172
+00:11:32,574 --> 00:11:34,548
+yeah. Be pretty cool.
+
+173
+00:11:35,300 --> 00:11:38,420
+And it could still like. There's
+still possibilities for other
+
+174
+00:11:38,420 --> 00:11:41,228
+apps, although I think they'd
+probably be similar, wouldn't
+
+175
+00:11:41,228 --> 00:11:46,934
+they? Give you access to what
+the settings are, but not how to
+
+176
+00:11:46,934 --> 00:11:51,004
+change? Yeah, that's pretty much
+Twitter and Facebook. Both do
+
+177
+00:11:51,004 --> 00:11:54,806
+that. Anything Facebook owns,
+which is lots of stuff.
+
+178
+00:11:55,880 --> 00:11:58,800
+And then Google would
+probably Google owns a lot of
+
+179
+00:11:58,800 --> 00:12:01,428
+stuff, so they have similar
+settings on across there.
+
+180
+00:12:02,720 --> 00:12:05,770
+Different things I don't really
+have a social media platform
+
+181
+00:12:05,770 --> 00:12:07,600
+anymore for us to worry about.
+
+182
+00:12:08,190 --> 00:12:12,393
+No, I think they own social
+media platforms. YouTube.
+
+183
+00:12:13,460 --> 00:12:14,720
+But that's.
+
+184
+00:12:15,740 --> 00:12:22,530
+New line.
+Open up your lines Instagram
+
+185
+00:12:22,530 --> 00:12:29,268
+these days. Wonder
+who owns
+
+186
+00:12:29,268 --> 00:12:32,860
+Myspace these
+
+187
+00:12:32,860 --> 00:12:40,074
+days? Yes.
+Wasn't it a newspaper
+
+188
+00:12:40,074 --> 00:12:45,370
+company? Baby, I think the only
+question is it is Tom.
+
+189
+00:12:46,250 --> 00:12:52,438
+My sweet. Yeah,
+Rupert Murdoch's Newscorp
+
+190
+00:12:53,300 --> 00:12:55,475
+Fair
+
+191
+00:12:55,475 --> 00:13:00,700
+enough. 60% of
+everything else so.
+
+192
+00:13:00,700 --> 00:13:06,016
+Facebook. You can use Facebook
+to sign into Myspace.
+
+193
+00:13:07,460 --> 00:13:11,384
+I got a link
+
+194
+00:13:11,384 --> 00:13:18,366
+that data. So we're working
+through some stuff and then
+
+195
+00:13:18,366 --> 00:13:21,501
+there's some things just take
+
+196
+00:13:21,501 --> 00:13:26,580
+time. Is there anything new
+Daniel that we could talk about?
+
+197
+00:13:27,370 --> 00:13:32,795
+I don't think so. How long is
+sort of everybody's happy.
+
+198
+00:13:32,795 --> 00:13:34,855
+They've gotta feel on.
+
+199
+00:13:35,460 --> 00:13:38,960
+How it's all gonna be completed
+I guess like so to let the road
+
+200
+00:13:38,960 --> 00:13:41,312
+map to completion. Doesn't sound
+
+201
+00:13:41,312 --> 00:13:47,486
+right. Uh, yeah, covered all
+that basis pretty much.
+
+202
+00:13:49,130 --> 00:13:51,866
+I think everybody's done a
+question for interview.
+
+203
+00:13:53,360 --> 00:13:58,220
+Oh yeah, I've done. Yeah already
+supported their originally. Just
+
+204
+00:13:58,220 --> 00:14:00,650
+ask for a new Xbox.
+
+205
+00:14:00,650 --> 00:14:03,995
+So
+
+206
+00:14:03,995 --> 00:14:11,834
+your. So
+Steve and he said he is
+
+207
+00:14:11,834 --> 00:14:15,044
+available was at Friday night's
+
+208
+00:14:15,044 --> 00:14:20,770
+Australia fun. American top,
+which will be Saturday for us.
+
+209
+00:14:21,500 --> 00:14:23,990
+What time zone?
+
+210
+00:14:24,270 --> 00:14:28,230
+For us time, what we haven't set
+because we didn't have the
+
+211
+00:14:28,230 --> 00:14:32,520
+questions to give him yet so I
+can organize that. Now we've all
+
+212
+00:14:32,520 --> 00:14:36,780
+done our questions. And then
+give him a couple of days to sit
+
+213
+00:14:36,780 --> 00:14:40,355
+on him or something. Yeah, so
+you're busy. You're busy this
+
+214
+00:14:40,355 --> 00:14:43,930
+weekend. Anyway, out of my yeah,
+yeah. And I'm free Saturdays.
+
+215
+00:14:45,370 --> 00:14:51,250
+Next weekend, it shouldn't be
+a problem, yeah?
+
+216
+00:14:51,530 --> 00:14:54,195
+Free Saturdays I'll be working,
+
+217
+00:14:54,195 --> 00:14:57,200
+sorry. I don't finish until 6.
+
+218
+00:14:58,120 --> 00:15:01,013
+It's quite possible like we're
+not gonna be, will be there.
+
+219
+00:15:01,650 --> 00:15:04,738
+Yeah, I'm usually busy on
+weekends as well.
+
+220
+00:15:05,650 --> 00:15:09,850
+But if I know like a like a week
+in advance, I could probably.
+
+221
+00:15:10,660 --> 00:15:12,340
+Make time.
+
+222
+00:15:12,920 --> 00:15:16,138
+Yep. Happy to do that.
+
+223
+00:15:16,640 --> 00:15:19,583
+Or to put it into
+perspective, the time that
+
+224
+00:15:19,583 --> 00:15:22,853
+we're going to have to be
+out. It's currently Wednesday
+
+225
+00:15:22,853 --> 00:15:25,142
+in the US and it's 4:47 AM.
+
+226
+00:15:28,360 --> 00:15:33,864
+Yeah, so if we were
+in the US.
+
+227
+00:15:33,870 --> 00:15:41,000
+Really washed in the US
+is usually Washington State. 12
+
+228
+00:15:41,000 --> 00:15:44,746
+hours difference. Oh, it's like
+17 hours ahead.
+
+229
+00:15:45,440 --> 00:15:46,920
+Like 17 hours ahead.
+
+230
+00:15:48,010 --> 00:15:53,950
+Behind behind behind
+behind us.
+
+231
+00:15:55,060 --> 00:15:59,980
+Yeah, so I guess you just let
+him set the time when we sort of
+
+232
+00:15:59,980 --> 00:16:04,572
+work around it, or we can get
+like a time time block and work
+
+233
+00:16:04,572 --> 00:16:07,852
+around that would suits and
+there were eight o'clock there
+
+234
+00:16:07,852 --> 00:16:11,668
+would be. 4 in the morning.
+
+235
+00:16:14,990 --> 00:16:17,366
+This is not my actual answer.
+
+236
+00:16:19,160 --> 00:16:25,270
+So I'm. I'm I'm not
+sure I'm not able to calculate
+
+237
+00:16:25,270 --> 00:16:29,470
+that. I'm probably I'm working
+Sunday morning from 8:00 AM.
+
+238
+00:16:30,070 --> 00:16:35,208
+Alright, anytime before that,
+yeah, I'm free.
+
+239
+00:16:35,210 --> 00:16:38,906
+Like the following Saturday in
+like 9 days or whatever, yeah.
+
+240
+00:16:40,410 --> 00:16:46,570
+Yep, cool. Time zones in such
+a pain in the ***
+
+241
+00:16:46,570 --> 00:16:51,955
+I can have that can be an app,
+you know that it can be a
+
+242
+00:16:51,955 --> 00:16:54,468
+project. I think there is an F
+
+243
+00:16:54,468 --> 00:16:59,870
+already really. Yeah, it just
+depends how many ads you want.
+
+244
+00:17:01,120 --> 00:17:07,338
+Oh dear. I did
+have a question for you Adam.
+
+245
+00:17:07,338 --> 00:17:11,548
+Yeah, I honestly did not
+comprehend GitHub all too much
+
+246
+00:17:11,548 --> 00:17:16,600
+like I only enough to make the
+basic website that you saw.
+
+247
+00:17:16,600 --> 00:17:19,968
+Yeah, so I think I think we can
+
+248
+00:17:19,968 --> 00:17:26,657
+ask questions. I think we all
+need to upload a little bit too
+
+249
+00:17:26,657 --> 00:17:32,900
+GitHub. Um? With what you've
+worked with, I'm not going to be
+
+250
+00:17:32,900 --> 00:17:36,442
+able to do anything without a
+little bit of support from
+
+251
+00:17:36,442 --> 00:17:40,350
+someone. Because I won't know
+what you've written, even if I
+
+252
+00:17:40,350 --> 00:17:42,102
+look at it, I won't understand
+
+253
+00:17:42,102 --> 00:17:47,595
+it. I don't know how to add an.
+I won't know how to not **** it
+
+254
+00:17:47,595 --> 00:17:53,028
+up. We can do it tutorial at
+some point if you lie using
+
+255
+00:17:53,028 --> 00:17:55,602
+teams I can just show you.
+
+256
+00:17:56,400 --> 00:17:57,480
+Show you how to do it.
+
+257
+00:17:58,180 --> 00:18:00,700
+Yeah yeah, thank you.
+
+258
+00:18:01,900 --> 00:18:05,442
+And, um, like whatever whatever
+I'm putting out by imagine I'll
+
+259
+00:18:05,442 --> 00:18:09,628
+have it already written up in a
+Word document. And I know you
+
+260
+00:18:09,628 --> 00:18:13,814
+can do. You can add to the
+Reaper as you're going. It will
+
+261
+00:18:13,814 --> 00:18:17,678
+just update it and you can. We
+can always rollback changes. Or
+
+262
+00:18:17,678 --> 00:18:20,898
+Daniel can always rollback
+changes since he owns the repo.
+
+263
+00:18:21,420 --> 00:18:24,972
+So if you accidentally delete
+anything we can get Daniel to do
+
+264
+00:18:24,972 --> 00:18:29,412
+a rollback and we can get it all
+back and just not sure how to
+
+265
+00:18:29,412 --> 00:18:31,484
+add once they get a time, yeah?
+
+266
+00:18:32,170 --> 00:18:37,654
+OK, do you have GitHub pages
+installed? I think it did, yeah.
+
+267
+00:18:38,370 --> 00:18:44,306
+Alright, when did you want me to
+do show you how to do it or not?
+
+268
+00:18:44,306 --> 00:18:46,903
+Not until I'm a bit further in.
+
+269
+00:18:46,910 --> 00:18:51,050
+The content. No
+problem.
+
+270
+00:18:52,110 --> 00:18:54,990
+We could probably do it on
+
+271
+00:18:54,990 --> 00:18:57,281
+discord. That sounds painful
+
+272
+00:18:57,281 --> 00:19:01,658
+with. Unload on asking. Sing it
+without the other day. You gotta
+
+273
+00:19:01,658 --> 00:19:05,046
+change windows and it's like I'm
+not gonna show you that.
+
+274
+00:19:05,710 --> 00:19:10,600
+Every talk something new pops
+up. You'll change screen share,
+
+275
+00:19:10,600 --> 00:19:13,420
+yeah. Screen screen.
+
+276
+00:19:14,080 --> 00:19:16,874
+Show conversation
+
+277
+00:19:16,874 --> 00:19:19,980
+Rachel and. And.
+
+278
+00:19:20,950 --> 00:19:24,724
+Going. Traffic to share content
+
+279
+00:19:24,724 --> 00:19:29,590
+I'm guessing. Oh, there
+it is.
+
+280
+00:19:31,040 --> 00:19:35,009
+I do something.
+
+281
+00:19:35,010 --> 00:19:36,180
+Girl shuffled now.
+
+282
+00:19:37,410 --> 00:19:40,338
+And it's not.
+
+283
+00:19:41,200 --> 00:19:45,230
+'cause I I wrote all of mine
+in the space of four hours
+
+284
+00:19:45,230 --> 00:19:47,400
+with just paragraphs and
+headings, paragraphs and
+
+285
+00:19:47,400 --> 00:19:51,120
+Headings. So other than that,
+I have no idea what I'm doing.
+
+286
+00:19:53,450 --> 00:19:59,390
+Set alarm Yeah, I can see
+you won't take long. I don't
+
+287
+00:19:59,390 --> 00:20:03,580
+think so. I just figured you
+didn't get the chance to draw
+
+288
+00:20:03,580 --> 00:20:04,074
+last night.
+
+289
+00:20:04,700 --> 00:20:09,770
+Yes.
+
+290
+00:20:09,770 --> 00:20:25,430
+Reported.
+
+291
+00:20:25,460 --> 00:20:33,124
+2000 E.
+Used or Ms teams. Features yeah,
+
+292
+00:20:33,124 --> 00:20:38,276
+yeah yeah it's important. Plus
+in preparation for.
+
+293
+00:20:38,280 --> 00:20:42,498
+Yeah. I don't know how to get
+rid of it.
+
+294
+00:20:43,350 --> 00:20:44,358
+Oh, there it is.
+
+295
+00:20:45,170 --> 00:20:49,130
+Area. Fun room.
+
+296
+00:20:49,630 --> 00:20:55,500
+So is there anything else we
+need to go over?
+
+297
+00:20:55,550 --> 00:21:00,035
+It didn't. We do need to make a
+bit more time.
+
+298
+00:21:00,640 --> 00:21:06,100
+Just to get to that 25 minutes
+so if we've got nothing to talk
+
+299
+00:21:06,100 --> 00:21:09,088
+about, maybe. So just to
+confirm where we're still
+
+300
+00:21:09,088 --> 00:21:10,972
+meeting meeting every
+Wednesday, say 3030.
+
+301
+00:21:12,120 --> 00:21:15,170
+Yep.
+
+302
+00:21:15,170 --> 00:21:21,056
+Don't know. What we
+gonna do another another meeting
+
+303
+00:21:21,056 --> 00:21:25,636
+needed round, round or weekend.
+Technically done 2 already from
+
+304
+00:21:25,636 --> 00:21:27,926
+Sunday. We've done 2 already.
+
+305
+00:21:27,940 --> 00:21:32,339
+Eating 3. Wait, so we
+can possibly wait till
+
+306
+00:21:32,339 --> 00:21:33,380
+next Wednesday now?
+
+307
+00:21:34,930 --> 00:21:41,158
+Will even. When do I
+wake up last night?
+
+308
+00:21:41,160 --> 00:21:46,500
+I'm just saying for this week
+just scheduled groups organized.
+
+309
+00:21:46,500 --> 00:21:50,916
+So people are still organizing
+groups, so so just do one this
+
+310
+00:21:50,916 --> 00:21:55,992
+week. Yeah, so I don't know when
+the count from assuming it is
+
+311
+00:21:55,992 --> 00:21:57,030
+Sunday to Sunday.
+
+312
+00:21:57,610 --> 00:22:00,970
+So we done Sunday Wednesday, so
+we have fallen for this week.
+
+313
+00:22:00,970 --> 00:22:04,330
+Thank other groups are about the
+same where we're at as well.
+
+314
+00:22:05,420 --> 00:22:08,070
+Yeah. That's good to know.
+
+315
+00:22:08,840 --> 00:22:13,150
+Plus, I think they'll, they'll
+say, like the progress we're
+
+316
+00:22:13,150 --> 00:22:17,891
+making, or like how far ahead we
+are considering other people
+
+317
+00:22:17,891 --> 00:22:20,046
+haven't got their groups yet,
+
+318
+00:22:20,046 --> 00:22:24,250
+so. Like if there's nothing to
+talk about because we've each
+
+319
+00:22:24,250 --> 00:22:27,634
+allocated to us, and then we
+currently completely number
+
+320
+00:22:27,634 --> 00:22:32,786
+then. What are they gonna mark
+down for yeah.
+
+321
+00:22:32,790 --> 00:22:38,754
+So do we have a goal on what we
+should have? We should complete
+
+322
+00:22:38,754 --> 00:22:44,489
+this week. Like what should be
+finished? Yeah, that's a good
+
+323
+00:22:44,489 --> 00:22:48,500
+question. One of the goals can
+be locking in the appointment
+
+324
+00:22:48,500 --> 00:22:50,582
+for interview, so I'll have that
+
+325
+00:22:50,582 --> 00:22:55,290
+done. And I'll try and get my
+report done. I'm about.
+
+326
+00:22:56,390 --> 00:22:59,756
+Half mostly like over halfway
+through at the moment, so I'll
+
+327
+00:22:59,756 --> 00:23:03,428
+try and Polish that by the end
+of the week as well.
+
+328
+00:23:04,010 --> 00:23:08,690
+So running reports done by
+the end of the week or by
+
+329
+00:23:08,690 --> 00:23:09,470
+next meeting.
+
+330
+00:23:11,660 --> 00:23:15,344
+We could do it next meeting,
+
+331
+00:23:15,344 --> 00:23:17,388
+yeah? The next meeting Saturday.
+
+332
+00:23:20,200 --> 00:23:23,098
+When's Day currently?
+
+333
+00:23:24,170 --> 00:23:30,330
+Um, and that like we can. In
+that time we could go over each
+
+334
+00:23:30,330 --> 00:23:32,530
+other stuff and do some.
+
+335
+00:23:34,280 --> 00:23:36,350
+Corrections in.
+
+336
+00:23:37,050 --> 00:23:43,109
+What not?
+But suppose I could have a team
+
+337
+00:23:43,109 --> 00:23:48,474
+profiles section done. By
+Wednesday as well, yeah, most of
+
+338
+00:23:48,474 --> 00:23:53,886
+the content done for team
+profile. Now we just need a
+
+339
+00:23:53,886 --> 00:23:58,948
+four, yeah? Format as I still
+need to post my summarized
+
+340
+00:23:58,948 --> 00:24:03,920
+profile, but we can do that
+tonight or tomorrow morning or
+
+341
+00:24:03,920 --> 00:24:09,378
+something. Did we wanna have the
+ideal? The part one of the
+
+342
+00:24:09,378 --> 00:24:14,754
+ideals job? Ideal job section
+done by then as well or leave
+
+343
+00:24:14,754 --> 00:24:20,130
+that till next time? Just it's
+just a very small summary of
+
+344
+00:24:20,130 --> 00:24:24,162
+ideal types, not the not the
+research data part.
+
+345
+00:24:24,170 --> 00:24:29,351
+Profile section of. Yeah yeah
+yeah yeah that would be cool.
+
+346
+00:24:29,360 --> 00:24:32,064
+Ideal job go under our
+individual profiles. Is
+
+347
+00:24:32,064 --> 00:24:34,430
+that going under its
+own section altogether?
+
+348
+00:24:35,460 --> 00:24:39,460
+Rules summary part that goes
+under the team profile section,
+
+349
+00:24:39,460 --> 00:24:44,260
+which is just just when we
+compare our ideal jobs to each
+
+350
+00:24:44,260 --> 00:24:49,956
+other, yeah. So you thinking
+Adam, that each of our
+
+351
+00:24:49,956 --> 00:24:54,948
+individual. Summaries go under
+our photos like you've already
+
+352
+00:24:54,948 --> 00:25:00,129
+put those through and then
+comparing the jobs would be a
+
+353
+00:25:00,129 --> 00:25:04,136
+collective page. Yeah, just the
+page with that graph where we
+
+354
+00:25:04,136 --> 00:25:07,260
+don't really have to summarize
+the jobs too much. I'll just
+
+355
+00:25:07,260 --> 00:25:10,100
+link back to the profiles for
+the different job names.
+
+356
+00:25:10,610 --> 00:25:15,396
+Yeah, cool. Yeah, and then for
+the industry data section where
+
+357
+00:25:15,396 --> 00:25:20,258
+we look at that burning glass
+stuff, I think we can just or
+
+358
+00:25:20,258 --> 00:25:23,624
+answer the couple of questions
+that are on it.
+
+359
+00:25:23,640 --> 00:25:27,624
+You just don't do that sort of
+separately as well, and then
+
+360
+00:25:27,624 --> 00:25:31,608
+Chuck it all together. So I
+think that's got some like a
+
+361
+00:25:31,608 --> 00:25:32,936
+personalized question section as
+
+362
+00:25:32,936 --> 00:25:39,796
+well. Which yeah, I
+don't know how much.
+
+363
+00:25:41,350 --> 00:25:43,456
+I will let's just two minimum.
+
+364
+00:25:44,530 --> 00:25:46,438
+Well, I got the 100 words.
+
+365
+00:25:47,510 --> 00:25:48,750
+What did you say Shannon?
+
+366
+00:25:49,820 --> 00:25:52,709
+For that one was talking
+about with the ID.
+
+367
+00:25:54,040 --> 00:25:57,615
+Industry data. For the audio
+
+368
+00:25:57,615 --> 00:26:02,420
+jobs. Mine currently sits at 200
+words. I don't know whether
+
+369
+00:26:02,420 --> 00:26:06,272
+that's you know like if you had
+all six hours together. It's
+
+370
+00:26:06,272 --> 00:26:09,803
+1200 words for one report.
+Plenty for Tim to read. Yeah,
+
+371
+00:26:09,803 --> 00:26:11,087
+sorry gonna read it.
+
+372
+00:26:11,740 --> 00:26:15,425
+Yeah, like I've covered covered
+everything in a small amount of
+
+373
+00:26:15,425 --> 00:26:16,430
+Wordage it's not.
+
+374
+00:26:17,370 --> 00:26:21,335
+I mean, I'm sure he knows what
+most jobs are. What's what's the
+
+375
+00:26:21,335 --> 00:26:23,470
+mark for that section? Has a 10%
+
+376
+00:26:23,470 --> 00:26:26,310
+combined? Then I think
+that's just fine.
+
+377
+00:26:27,480 --> 00:26:28,978
+I think we could all do that.
+
+378
+00:26:29,920 --> 00:26:34,419
+And then we're gonna add the
+graph, which will probably bump
+
+379
+00:26:34,419 --> 00:26:36,055
+it up a bit.
+
+380
+00:26:37,290 --> 00:26:40,370
+Stop Spider Web graph.
+
+381
+00:26:40,650 --> 00:26:41,738
+I think we do.
+
+382
+00:26:42,420 --> 00:26:47,592
+Everyone has the industry data
+we can build that graph from the
+
+383
+00:26:47,592 --> 00:26:52,333
+industry data into the yeah.
+Yeah, ideal job in the profile.
+
+384
+00:26:52,333 --> 00:26:54,919
+That's the way we're doing, yeah
+
+385
+00:26:54,919 --> 00:26:56,600
+yeah. They wanted.
+
+386
+00:26:57,370 --> 00:27:02,485
+A variety of resources, so like
+one had to be data one had to be
+
+387
+00:27:02,485 --> 00:27:06,918
+description in one had to be
+like a graph or a photo or
+
+388
+00:27:06,918 --> 00:27:11,010
+something. So getting a bit of
+variety would be good. So I
+
+389
+00:27:11,010 --> 00:27:15,102
+think that's covered if we just
+keep it simple with the writing.
+
+390
+00:27:16,330 --> 00:27:23,650
+For 10% Mark, I think
+we're really focusing on those
+
+391
+00:27:23,650 --> 00:27:28,069
+web technologies.
+The project idea.
+
+392
+00:27:29,960 --> 00:27:32,756
+Yes, I feel bad that I never
+actually looked at the website
+
+393
+00:27:32,756 --> 00:27:34,387
+and just look at the report at
+
+394
+00:27:34,387 --> 00:27:38,140
+the end. General.
+
+395
+00:27:38,140 --> 00:27:42,475
+A PDF report at the end I just I
+don't know. I guess they just
+
+396
+00:27:42,475 --> 00:27:45,365
+click through the website really
+quick and they wouldn't really
+
+397
+00:27:45,365 --> 00:27:48,544
+be reading anything. Just make
+sure all the links work and
+
+398
+00:27:48,544 --> 00:27:52,590
+stuff. I think I think I heard
+that they used to only do it
+
+399
+00:27:52,590 --> 00:27:55,480
+through the web page, but then
+people's Web pages wouldn't
+
+400
+00:27:55,480 --> 00:27:57,214
+work. So the PDF is there.
+
+401
+00:27:57,230 --> 00:27:59,660
+They've done, yeah.
+
+402
+00:27:59,660 --> 00:28:01,520
+That's what Tim said about the
+
+403
+00:28:01,520 --> 00:28:08,231
+assignment one. I mean, when I
+legit took screenshots of my
+
+404
+00:28:08,231 --> 00:28:12,080
+website. I just want select all.
+
+405
+00:28:12,080 --> 00:28:15,325
+I just formatted a little bit so
+I didn't look all.
+
+406
+00:28:16,160 --> 00:28:19,834
+Doesn't know messy and just
+submitted that 'cause I was like
+
+407
+00:28:19,834 --> 00:28:24,510
+I'm not rewriting any of No I
+did it the other way around and
+
+408
+00:28:24,510 --> 00:28:26,514
+wrote it all up in there.
+
+409
+00:28:26,800 --> 00:28:31,540
+On the Class I discord people
+were saying all they did was
+
+410
+00:28:31,540 --> 00:28:36,280
+submit a PDF that basically said
+the link to the website. The
+
+411
+00:28:36,280 --> 00:28:41,020
+link to the repo, their name in
+their student number, and that's
+
+412
+00:28:41,020 --> 00:28:43,180
+OK. No content.
+
+413
+00:28:44,010 --> 00:28:46,792
+I mean, you could copy how she
+male coding in there just the
+
+414
+00:28:46,792 --> 00:28:50,120
+content there, yeah? Yeah,
+well, I just gave him the
+
+415
+00:28:50,120 --> 00:28:51,570
+URL so it's like OK.
+
+416
+00:28:52,660 --> 00:28:57,005
+No, you definitely needed the
+whole script in already, but I
+
+417
+00:28:57,005 --> 00:29:01,745
+can understand why they thought
+it might have been just given a
+
+418
+00:29:01,745 --> 00:29:03,720
+link and the basic information.
+
+419
+00:29:04,400 --> 00:29:10,825
+No. So are we good for
+this week? Were there any other
+
+420
+00:29:10,825 --> 00:29:13,220
+questions? Just questions
+pertaining where that any
+
+421
+00:29:13,220 --> 00:29:16,100
+questions for Tim tomorrow tell
+us any other thing.
+
+422
+00:29:17,200 --> 00:29:20,810
+Anything? Just the.
+
+423
+00:29:21,810 --> 00:29:25,570
+What Adam said last week, like
+whether it's possible. Doable
+
+424
+00:29:25,570 --> 00:29:29,294
+for the. Um, for the next
+
+425
+00:29:29,294 --> 00:29:31,846
+project, although. Well after
+
+426
+00:29:31,846 --> 00:29:36,598
+that. Know how to how it had to
+be feasible. Algorithm idea, we
+
+427
+00:29:36,598 --> 00:29:40,426
+can change it between the next
+assignment as well. I we asked
+
+428
+00:29:40,426 --> 00:29:44,254
+Adam the other night Anthony
+yeah yeah so it's not set in
+
+429
+00:29:44,254 --> 00:29:49,039
+stone that we do it that we have
+to have the idea now for the
+
+430
+00:29:49,039 --> 00:29:52,548
+next ones we can just change it
+as we go along.
+
+431
+00:29:53,200 --> 00:29:57,810
+OK. As long as
+far.
+
+432
+00:29:58,970 --> 00:30:02,638
+Wait, what? Bots teams?
+
+433
+00:30:02,780 --> 00:30:08,747
+Set the Polish guy. No, honestly
+wouldn't know how to say that I
+
+434
+00:30:08,747 --> 00:30:12,744
+like. Yes, we have to make this
+
+435
+00:30:12,744 --> 00:30:16,872
+thing. I think it's finished all
+the modules already. I think he
+
+436
+00:30:16,872 --> 00:30:20,414
+finished them three days into
+the course 'cause you know Bart
+
+437
+00:30:20,414 --> 00:30:24,278
+stuff. Of course before. Yeah,
+that's what I read in one of
+
+438
+00:30:24,278 --> 00:30:28,142
+these things. He's done of
+course, but then had to drop out
+
+439
+00:30:28,142 --> 00:30:32,328
+at the end, so he's already done
+it like it was cherry picking
+
+440
+00:30:32,328 --> 00:30:34,260
+his team members there was like.
+
+441
+00:30:34,360 --> 00:30:39,189
+'cause I was looking through
+week three stuff in week four
+
+442
+00:30:39,189 --> 00:30:44,018
+and seeing that he'd answered It
+on the 30th of August.
+
+443
+00:30:44,020 --> 00:30:47,350
+Incidental waiting for the
+day we started the course.
+
+444
+00:30:47,350 --> 00:30:50,680
+Yeah, have you guys seen
+that movie about whether
+
+445
+00:30:50,680 --> 00:30:52,160
+the interns at Google?
+
+446
+00:30:53,840 --> 00:30:59,384
+Oh, is it the fence? The yeah
+yeah yeah that one you know that
+
+447
+00:30:59,384 --> 00:31:04,136
+guy that made at the first day
+that's going around picking the
+
+448
+00:31:04,136 --> 00:31:06,512
+best team members in his ****
+
+449
+00:31:06,512 --> 00:31:13,886
+**** Impression that I get
+from bottom like that guy.
+
+450
+00:31:13,980 --> 00:31:20,481
+It is going OK. Maybe should
+be should stop recording this.
+
+451
+00:31:20,490 --> 00:31:23,550
+Either way.
+
+452
+00:31:23,550 --> 00:31:29,838
+Sure.
+She's sharing next meeting.
+
+453
+00:31:31,210 --> 00:31:34,060
+I guess I can share next
+
+454
+00:31:34,060 --> 00:31:37,672
+meeting. All on Wednesday, so if
+there's another meeting before
+
+455
+00:31:37,672 --> 00:31:40,804
+then, I probably won't be
+prepared for that, but.
+
+456
+00:31:40,810 --> 00:31:42,592
+Next week next Wednesday, I can
+
+457
+00:31:42,592 --> 00:31:48,118
+share. Cool and recording
+that yes, lovely.
