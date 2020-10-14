@@ -48,7 +48,7 @@ function JSFetchGraph(GRAPH) {
 						pointBorderColor: "#fff",
 						pointHoverBackgroundColor: "#fff",
 						pointHoverBorderColor: 	'rgba(255, 159, 64, 1)',
-						data: [10, 9, 9, 10, 8, 5, 8, 6, 6, 9]
+						data: [10, 9, 9, 10, 8, 5, 8, 7, 6, 9]
 					},
 					{
 						label: "Jorge",
