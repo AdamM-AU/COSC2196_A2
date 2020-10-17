@@ -655,14 +655,36 @@
 								<h6 class="pb-5">Written By:<br />Daniel Scarfe (s3872217)<br />Adam Mutimer (s3875753)</h6>
 							</div>
 						</div>
-						<!-- This Div is populated by Adams - JSFetch Function -->
-						<div id="PRO-content">
-						</div>
 						<div class="row">
 							<div class="col">
-								<p class="pt-5"><strong>File Locations:</strong><span id="PRO-content-location" class="font-weight-light font-italic"> </span></p>
+								<ul id="PRO-nav" class="pb-3 nav nav-tabs">
+									<li class="nav-item">
+										<a id="PRO-overview" class="tab-PRO nav-link active" href="" onclick="return JSFetch('tab-PRO','project/PRO-overview','PRO-content');">Overview</a>
+									</li>
+									<li class="nav-item">
+										<a id="PRO-motivation" class="tab-PRO nav-link" href="" onclick="return JSFetch('tab-PRO','project/PRO-motivation','PRO-content');">Motivation</a>
+									</li>
+									<li class="nav-item">
+										<a id="PRO-description" class="tab-PRO nav-link" href="" onclick="return JSFetch('tab-PRO','project/PRO-description','PRO-content');">Description</a>
+									</li>
+									<li class="nav-item">
+										<a id="PRO-tools-tech" class="tab-PRO nav-link" href="" onclick="return JSFetch('tab-PRO','project/PRO-tools-tech','PRO-content');">Tools &amp; Technologies</a>
+									</li>
+									<li class="nav-item">
+										<a id="PRO-skills" class="tab-PRO nav-link" href="" onclick="return JSFetch('tab-PRO','project/PRO-skills','PRO-content');">Skills Required</a>
+									</li>
+									<li class="nav-item">
+										<a id="PRO-outcome" class="tab-PRO nav-link" href="" onclick="return JSFetch('tab-PRO','project/PRO-outcome','PRO-content');">Outcome</a>
+									</li>
+									<li class="nav-item">
+										<a id="PRO-references" class="tab-PRO nav-link" href="" onclick="return JSFetch('tab-PRO','project/PRO-references','PRO-content');">References</a>
+									</li>
+								</ul>
 							</div>
-						</div>						
+						</div>	
+						<!-- This Div is populated by Adams - JSFetch Function -->
+						<div id="PRO-content">
+						</div>					
 					</div>
 				</section>
 				<hr class="m-0" />
@@ -725,7 +747,7 @@
 				JSFetch('tab-ID','industry-data/ID-home','ID-content',['GRAPH-ID','GRAPH-ID2']);
 				JSFetch(null,'it-work/IW-home','IW-content');
 				JSFetch('tab-IT','it-technologies/IT-autonomous-vehicles','IT-content');
-				JSFetch(null,['project/PRO-overview','project/PRO-motivation','project/PRO-description','project/PRO-tools-tech','project/PRO-skills','project/PRO-outcome','project/PRO-references'],'PRO-content');
+				JSFetch('tab-PRO','project/PRO-overview','PRO-content');
 				JSFetch(null,'group-reflection/GR-home','GR-content');
 			});
 		</script>
