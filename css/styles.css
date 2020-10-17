@@ -125,23 +125,64 @@ section {
 }
 
 /* Modal Style Overrides */
+.modal-dialog {
+	background: transparent;
+}
+
+.modal-header {
+	background: #23272A !important; /* Not Quite Black */
+	border-bottom: 1px solid #23272A;
+}
+
+.modal-footer {
+	background: #23272A !important; /* Not Quite Black */
+	border-top: 1px solid #23272A;
+}
+
 .modal-title {
 	font-weight: bold;
+	color: #FFFFFF;
 }
 
 .modal .modal-content {
-	overflow: hidden;
+	overflow: hidden
 }
+
 .modal-body {
 	overflow-y: scroll;
+	background-color: #2C2F33; /* Dark but not Black */
 }
 
 .modal-content h5 {
-	color: #000000 !important;
+	color: #FFFFFF !important;
 }
 
 .modal-content {
-	color: #000000 !important;
+	color: #FFFFFF !important;
+	border: 1px solid #23272A;
+}
+
+button.close {
+        /*background: rgba(215, 62, 77, 0.75);*/
+        border: 0 none !important;
+        color: #FFF;
+        display: inline-block;
+        float: right;
+        font-size: 34px;
+        height: 40px;
+        line-height: 1;
+        margin: 0px 1px;
+        opacity: 1;
+        text-align: center;
+        text-shadow: none;
+        -webkit-transition: background 0.2s ease-in-out;
+        transition: background 0.2s ease-in-out;
+        vertical-align: top;
+        width: 46px;
+}
+
+button.close:hover {
+        color: #FFF;
 }
 
 /* Fixed Left Navbar */
