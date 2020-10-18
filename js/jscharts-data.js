@@ -15,7 +15,7 @@ function JSFetchGraph(GRAPH) {
 						label: '# of Commits',
 						barPercentage: 1,
 						minBarLength: 2,
-						data: [263, 64, 27, 8, 23, 29],
+						data: [265, 64, 27, 8, 23, 29],
 						backgroundColor: [
 							'rgba(255, 99, 132, 0.2)',
 							'rgba(54, 162, 235, 0.2)',
